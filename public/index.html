@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Self Value PowerTalks</title>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', async function() {
+  const socket = io();
+
+  // Fetch button data from the server
+  const response = await fetch('/buttonData.json');
+  const buttonData = await response.json();
+  
+  const templateButtons = document.getElementById('templateButtons');
+  templateButtons.innerHTML = ''; // Clear any existing content
+  
+  // Generate buttons dynamically
+  buttonData.forEach(data => {
+    const button = document.createElement('button');
+    button.className = 'template-btn';
+    button.textContent = data.label;
+    button.setAttribute('data-text', data.text);
+    button.addEventListener('click', function() {
+      document.getElementById('promptText').value = this.getAttribute('data-text');
+    });
+    templateButtons.appendChild(button);
+  });
+
+  document.getElementById('promptForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    const prompt = document.getElementById('promptText').value;
+    socket.emit('sendPrompt', prompt);
+    document.getElementById('response').innerHTML = '';  // Clear previous responses
+    document.getElementById('loadingImage').style.display = 'block';  // Show loading GIF
+  });
+
+  socket.on('responseChunk', function(data) {
+    if (document.getElementById('loadingImage').style.display === 'block') {
+      document.getElementById('loadingImage').style.display = 'none';  // Hide loading GIF on first response
+    }
+    const responseElement = document.getElementById('response');
+    let formattedContent = data.content.replace(/\n/g, "<br>");  // Replace newlines with HTML line breaks
+    responseElement.innerHTML += formattedContent;  // Append new content with formatted breaks
+  });
+
+  socket.on('error', function(error) {
+    console.error('Error:', error);
+    document.getElementById('loadingImage').style.display = 'none';  // Ensure GIF is hidden on error
+  });
+});
+</script>
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  #promptForm {
+    margin-top: 20px;
+  }
+  #response {
+    max-width: 600px;
+    width: 100%;
+    margin: 20px auto;
+    white-space: pre-wrap; /* Keeps formatting and enables word wrap */
+    overflow-wrap: break-word;
+  }
+  .template-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  .template-btn:hover {
+    background-color: #ddd; /* Light grey on hover */
+  }
+</style>
+</head>
+<body>
+<h1>Self Value PowerTalks</h1>
+<div id="templateButtons">
+  <!-- Buttons will be added dynamically here -->
+</div>
+<form id="promptForm">
+  <textarea id="promptText" rows="4" cols="50"></textarea><br>
+  <button type="submit">Submit</button>
+</form>
+<img id="loadingImage" src="loading.gif" style="display: none;" alt="Loading..."/>
+<p id="response"></p>
+</body>
+</html>
