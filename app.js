@@ -67,9 +67,9 @@ io.on('connection', (socket) => {
       });
 
       for await (const chunk of completion) {
-        socket.emit('responseChunk', { content: chunk.choices[0].delta.content });
+        socket.emit('responseChunk', { content: chunk.choices[0].delta.content, finish_reason: chunk.choices[0].finish_reason });
         if (chunk.choices[0].finish_reason) {
-          break; // Stop if the chat completion has finished
+          break; // Properly break if the chat completion has finished
         }
       }
     } catch (error) {

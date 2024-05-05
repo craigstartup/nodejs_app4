@@ -12,10 +12,10 @@ document.addEventListener('DOMContentLoaded', async function() {
   // Fetch button data from the server
   const response = await fetch('/buttonData.json');
   const buttonData = await response.json();
-  
+
   const templateButtons = document.getElementById('templateButtons');
   templateButtons.innerHTML = ''; // Clear any existing content
-  
+
   // Generate buttons dynamically
   buttonData.forEach(data => {
     const button = document.createElement('button');
@@ -36,18 +36,48 @@ document.addEventListener('DOMContentLoaded', async function() {
     document.getElementById('loadingImage').style.display = 'block';  // Show loading GIF
   });
 
+  // Initialize a flag to track the first chunk
+  let firstChunkReceived = false;
+
   socket.on('responseChunk', function(data) {
-    if (document.getElementById('loadingImage').style.display === 'block') {
-      document.getElementById('loadingImage').style.display = 'none';  // Hide loading GIF on first response
-    }
+    console.log("Chunk received", data); // Logging each chunk received from the server
+    console.log("Content:", data.content);  // Check if the content is defined
+
     const responseElement = document.getElementById('response');
-    let formattedContent = data.content.replace(/\n/g, "<br>");  // Replace newlines with HTML line breaks
-    responseElement.innerHTML += formattedContent;  // Append new content with formatted breaks
+    if(data.content) {  // Ensure content is not undefined
+      let formattedContent = data.content.replace(/\n/g, "<br>");  // Replace newlines with HTML line breaks
+      responseElement.innerHTML += formattedContent;  // Append new content with formatted breaks
+    }
+
+    // Hide the loading GIF on the first chunk received
+    if (!firstChunkReceived) {
+      document.getElementById('loadingImage').style.display = 'none';
+      firstChunkReceived = true;  // Update the flag after hiding the GIF
+    }
+
+    if (data.finish_reason) {  // Check if the streaming has finished
+      document.getElementById('downloadBtn').style.display = 'inline'; // Show the download button
+    }
   });
 
   socket.on('error', function(error) {
     console.error('Error:', error);
     document.getElementById('loadingImage').style.display = 'none';  // Ensure GIF is hidden on error
+  });
+
+  // Function to download text
+  document.getElementById('downloadBtn').addEventListener('click', function() {
+    var text = document.getElementById('response').innerText;
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', 'output.txt');
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+
+    document.body.removeChild(element);
   });
 });
 </script>
@@ -59,8 +89,10 @@ document.addEventListener('DOMContentLoaded', async function() {
     margin: 0;
     font-family: Arial, sans-serif;
   }
-  #promptForm {
-    margin-top: 20px;
+  #promptForm, #templateButtons {
+    width: 100%; /* Adjusted width */
+    max-width: 600px; /* Match the width of the response container */
+    margin: 20px auto; /* Center align the form and button container */
   }
   #response {
     max-width: 600px;
@@ -82,6 +114,17 @@ document.addEventListener('DOMContentLoaded', async function() {
   .template-btn:hover {
     background-color: #ddd; /* Light grey on hover */
   }
+  #promptText {
+    width: 100%; /* Ensure the textarea matches the width of its container */
+    box-sizing: border-box; /* Include padding and border in the width */
+    height: 100px; /* Adjust height as needed */
+  }
+  #templateButtons {
+    display: flex; /* Use Flexbox to align children */
+    flex-wrap: wrap; /* Allow buttons to wrap onto the next line */
+    justify-content: center; /* Center buttons horizontally */
+    align-items: center; /* Center buttons vertically */
+  }
 </style>
 </head>
 <body>
@@ -95,5 +138,6 @@ document.addEventListener('DOMContentLoaded', async function() {
 </form>
 <img id="loadingImage" src="loading.gif" style="display: none;" alt="Loading..."/>
 <p id="response"></p>
+<button id="downloadBtn" style="display:none;">Download</button>
 </body>
 </html>
