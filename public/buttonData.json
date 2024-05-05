@@ -1,12 +1,42 @@
 [
   {
-    "id": "PASframework",
-    "text": "Write a course page using the PAS copywriting framework.",
-    "label": "PAS Framework"
+    "id": "coursepage_PAS",
+    "text": "Write the course page using a PAS copywriting framework. Write in the first person voice of the instructure, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
+    "label": "CoursePage PAS"
   },
   {
-    "id": "thankYouPost",
-    "text": "Create a compelling thank you post acknowledging how crucial customer feedback is to our service development.",
-    "label": "Thank You Blog Post"
-  }
+    "id": "coursepage_Copyblogger",
+    "text": "Create a course page in the style of Copyblogger. Write in the first person voice of the instructure, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
+    "label": "CoursePage Copyblogger"
+  },
+  {
+    "id": "coursepage_AppSumo",
+    "text": "Create a course page in the style of AppSumo. Write in the first person voice of the instructure, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
+    "label": "CoursePage AppSumo"
+  },
+  {
+    "id": "coursepage_DigitalMarketer",
+    "text": "Create a course page in the style of DigitalMarketer. Write in the first person voice of the instructure, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
+    "label": "CoursePage DigitalMarketer"
+  },
+  {
+    "id": "coursepage_FuckJerry",
+    "text": "Create a course page in the style of FuckJerry.",
+    "label": "CoursePage Copyblogger"
+  },
+  {
+    "id": "coursepage_Mission",
+    "text": "Craft a larger-purpose Mission our community can invest in emotionally. How are we making the world better? Deliver a short compelling mission that our community can feel inspired to get behind. State the mission in a short, compelling headline, and provide any additional elements as needed.",
+    "label": "Mission"
+  },
+  {
+    "id": "coursepage_UseCase",
+    "text": "Create 3 Facebook Ads using the Use Case Bullet List Framework. Pick use cases for this course and write in this format:\nThe perfect [type of product] for . . .\n[emoji] use case 1\n[emoji] use case 2\n[emoji] use case 3\n[emoji] use case 4\n(Keep each use case on it's own line less than 50 characters",
+    "label": "UseCase Ad"
+  },
+  {
+    "id": "coursepage_ThreeStep",
+    "text": "Create 3 Facebook Ads using the How It Works Framework. Pick 3 results from this course and write in this format:/nHow to use [product]:/n[emoji] step 1/n[emoji] step 2/n[emoji]step 3/n(keep each step under 50 characters and start line with an emoji)",
+    "label": "UseCase Ad"
+  },
 ]
