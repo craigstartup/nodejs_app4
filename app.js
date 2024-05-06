@@ -38,6 +38,7 @@ io.on('connection', (socket) => {
       const talk16Content = await fs.readFile('data/SueBryce PowerTalk 16 - Unfolding.txt', 'utf8');
       const talk17Content = await fs.readFile('data/SueBryce PowerTalk 17 - Alignment.txt', 'utf8');
       const talk18Content = await fs.readFile('data/SueBryce PowerTalk 18 - Daily Ritual.txt', 'utf8');
+      const talksummaryContent = await fs.readFile('data/SueBryce PowerTalk Summaries.txt', 'utf8');
 
       const completion = await openai.chat.completions.create({
         model: "gpt-4-turbo",
@@ -61,6 +62,7 @@ io.on('connection', (socket) => {
           {role: "user", content: talk16Content},
           {role: "user", content: talk17Content},
           {role: "user", content: talk18Content},
+          {role: "user", content: talksummaryContent},
           {role: "user", content: prompt}
         ],
         stream: true,
