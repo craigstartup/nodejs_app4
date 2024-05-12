@@ -112,6 +112,14 @@ document.addEventListener('DOMContentLoaded', async function() {
     margin: 0;
     font-family: Arial, sans-serif;
   }
+  #filesContainer {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc; /* Makes the container visible */
+    background-color: #f8f8f8; /* Light background */
+  }
   #promptForm, #templateButtons {
     width: 100%; /* Adjusted width */
     max-width: 600px; /* Match the width of the response container */
@@ -154,6 +162,9 @@ document.addEventListener('DOMContentLoaded', async function() {
 <h1>Self Value PowerTalks</h1>
 <div id="templateButtons">
   <!-- Buttons will be added dynamically here -->
+</div>
+<div id="filesContainer">
+  <p>File list will appear here...</p>
 </div>
 <form id="promptForm">
   <textarea id="promptText" rows="4" cols="50"></textarea><br>
