@@ -15,6 +15,15 @@ const openai = new OpenAI({
 
 app.use(express.static('public'));
 
+app.get('/list-data-files', async (req, res) => {
+  try {
+    const files = await fs.readdir('data');
+    res.json(files);
+  } catch (error) {
+    res.status(500).send(error.toString());
+  }
+});
+
 // Socket connection
 io.on('connection', (socket) => {
   socket.on('sendPrompt', async (prompt) => {
