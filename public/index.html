@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Self Value PowerTalks</title>
+<title>Content Curator Work</title>
 <script src="/socket.io/socket.io.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', async function() {
@@ -27,83 +27,75 @@ document.addEventListener('DOMContentLoaded', async function() {
     });
     templateButtons.appendChild(button);
   });
+  
+  // Call listDataFiles when the page is loaded to populate file checkboxes
+  await listDataFiles();
 
-  // Call fetchDataFiles to fetch and display the list of data files
-  fetchDataFiles();
-});
-
-async function fetchDataFiles() {
-  console.log("Fetching data files...");
-  try {
-      const response = await fetch('/list-data-files');
-      const files = await response.json();
-      console.log("Files received:", files);
-      const filesContainer = document.createElement('div');
-      files.forEach(file => {
-          const label = document.createElement('label');
-          const checkbox = document.createElement('input');
-          checkbox.type = 'checkbox';
-          checkbox.value = file;
-          label.appendChild(checkbox);
-          label.appendChild(document.createTextNode(file));
-          filesContainer.appendChild(label);
-          filesContainer.appendChild(document.createElement('br'));
-      });
-      document.body.insertBefore(filesContainer, document.getElementById('promptForm'));
-  } catch (error) {
-      console.error("Error fetching files:", error);
+  function listDataFiles() {
+    console.log("Listing available files...");
+    const filesContainer = document.getElementById('filesContainer');
+    fetch('/list-data-files').then(response => response.json()).then(files => {
+        console.log("Files received:", files);
+        filesContainer.innerHTML = '';
+        files.forEach(file => {
+            if (file.endsWith('.txt') || file.endsWith('.csv')) {  // Include CSV files as well
+                const label = document.createElement('label');
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = file;
+                label.appendChild(checkbox);
+                label.appendChild(document.createTextNode(file));
+                filesContainer.appendChild(label);
+                filesContainer.appendChild(document.createElement('br'));
+            }
+        });
+    }).catch(error => {
+        console.error("Error fetching files:", error);
+        filesContainer.innerHTML = '<p>Error loading files. Please try again later.</p>';
+    });
   }
-}
 
+  // Event listener for form submission
   document.getElementById('promptForm').addEventListener('submit', function(event) {
     event.preventDefault();
     const prompt = document.getElementById('promptText').value;
-    socket.emit('sendPrompt', prompt);
-    document.getElementById('response').innerHTML = '';  // Clear previous responses
-    document.getElementById('loadingImage').style.display = 'block';  // Show loading GIF
+    const files = Array.from(document.querySelectorAll('#filesContainer input[type="checkbox"]:checked')).map(el => el.value);
+    
+    console.log("Sending data to server:", { prompt, files });
+    socket.emit('sendPrompt', { prompt, files });
+    document.getElementById('response').innerHTML = '';
+    document.getElementById('loadingImage').style.display = 'block';
   });
 
-  // Initialize a flag to track the first chunk
-  let firstChunkReceived = false;
-
+  // Handle the incoming response chunks from the server
   socket.on('responseChunk', function(data) {
-    console.log("Chunk received", data); // Logging each chunk received from the server
-    console.log("Content:", data.content);  // Check if the content is defined
-
-    const responseElement = document.getElementById('response');
-    if(data.content) {  // Ensure content is not undefined
-      let formattedContent = data.content.replace(/\n/g, "<br>");  // Replace newlines with HTML line breaks
-      responseElement.innerHTML += formattedContent;  // Append new content with formatted breaks
+    if (data.content) {
+      const formattedContent = data.content.replace(/\n/g, "<br>");
+      document.getElementById('response').innerHTML += formattedContent;
     }
-
-    // Hide the loading GIF on the first chunk received
-    if (!firstChunkReceived) {
+    if (!data.finish_reason) {
       document.getElementById('loadingImage').style.display = 'none';
-      firstChunkReceived = true;  // Update the flag after hiding the GIF
     }
-
-    if (data.finish_reason) {  // Check if the streaming has finished
-      document.getElementById('downloadBtn').style.display = 'inline'; // Show the download button
+    if (data.finish_reason) {
+      document.getElementById('downloadBtn').style.display = 'inline';
     }
   });
 
   socket.on('error', function(error) {
     console.error('Error:', error);
-    document.getElementById('loadingImage').style.display = 'none';  // Ensure GIF is hidden on error
+    document.getElementById('loadingImage').style.display = 'none';
+    document.getElementById('response').innerHTML = 'Error: ' + error;
   });
 
-  // Function to download text
+  // Function to enable downloading the response as a text file
   document.getElementById('downloadBtn').addEventListener('click', function() {
     var text = document.getElementById('response').innerText;
     var element = document.createElement('a');
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
     element.setAttribute('download', 'output.txt');
-
     element.style.display = 'none';
     document.body.appendChild(element);
-
     element.click();
-
     document.body.removeChild(element);
   });
 });
@@ -163,12 +155,13 @@ async function fetchDataFiles() {
 </style>
 </head>
 <body>
-<h1>Self Value PowerTalks</h1>
+<h1>Content Curator Work</h1>
 <div id="templateButtons">
   <!-- Buttons will be added dynamically here -->
 </div>
 <div id="filesContainer">
-  <p>File list will appear here...</p>
+  <h2>Available Files</h2>
+  <!-- File list will appear here dynamically -->
 </div>
 <form id="promptForm">
   <textarea id="promptText" rows="4" cols="50"></textarea><br>
