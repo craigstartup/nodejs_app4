@@ -29,20 +29,26 @@ document.addEventListener('DOMContentLoaded', async function() {
   });
 
   async function fetchDataFiles() {
-    const response = await fetch('/list-data-files');
-    const files = await response.json();
-    const filesContainer = document.createElement('div');
-    files.forEach(file => {
-      const label = document.createElement('label');
-      const checkbox = document.createElement('input');
-      checkbox.type = 'checkbox';
-      checkbox.value = file;
-      label.appendChild(checkbox);
-      label.appendChild(document.createTextNode(file));
-      filesContainer.appendChild(label);
-      filesContainer.appendChild(document.createElement('br'));
-    });
-    document.body.insertBefore(filesContainer, document.getElementById('promptForm'));
+      console.log("Fetching data files...");
+      try {
+          const response = await fetch('/list-data-files');
+          const files = await response.json();
+          console.log("Files received:", files);
+          const filesContainer = document.createElement('div');
+          files.forEach(file => {
+              const label = document.createElement('label');
+              const checkbox = document.createElement('input');
+              checkbox.type = 'checkbox';
+              checkbox.value = file;
+              label.appendChild(checkbox);
+              label.appendChild(document.createTextNode(file));
+              filesContainer.appendChild(label);
+              filesContainer.appendChild(document.createElement('br'));
+          });
+          document.body.insertBefore(filesContainer, document.getElementById('promptForm'));
+      } catch (error) {
+          console.error("Error fetching files:", error);
+      }
   }
 
   document.getElementById('promptForm').addEventListener('submit', function(event) {
