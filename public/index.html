@@ -60,11 +60,15 @@ document.addEventListener('DOMContentLoaded', async function() {
     event.preventDefault();
     const prompt = document.getElementById('promptText').value;
     const files = Array.from(document.querySelectorAll('#filesContainer input[type="checkbox"]:checked')).map(el => el.value);
-    
+    const filesList = files.join(', '); // Join file names into a string
+  
     console.log("Sending data to server:", { prompt, files });
     socket.emit('sendPrompt', { prompt, files });
     document.getElementById('response').innerHTML = '';
     document.getElementById('loadingImage').style.display = 'block';
+  
+    // Store the files list for later use in download
+    document.getElementById('downloadBtn').dataset.filesList = filesList; // Use data attribute to store file names
   });
 
   // Handle the incoming response chunks from the server
@@ -89,9 +93,14 @@ document.addEventListener('DOMContentLoaded', async function() {
 
   // Function to enable downloading the response as a text file
   document.getElementById('downloadBtn').addEventListener('click', function() {
-    var text = document.getElementById('response').innerText;
+    var responseText = document.getElementById('response').innerText;
+    var promptText = document.getElementById('promptText').value;
+    var filesList = this.dataset.filesList; // Retrieve stored file names
+    var formattedFilesList = filesList.replace(/, /g, '\n'); // Replace commas with newlines for each file name
+    var combinedText = responseText + "\n\nOriginal Prompt:\n" + promptText + "\n\nIncluded Files:\n" + formattedFilesList;
+
     var element = document.createElement('a');
-    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(combinedText));
     element.setAttribute('download', 'output.txt');
     element.style.display = 'none';
     document.body.appendChild(element);
