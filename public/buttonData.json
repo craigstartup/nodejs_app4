@@ -38,5 +38,10 @@
     "id": "coursepage_ThreeStep",
     "text": "Create 3 Facebook Ads using the How It Works Framework. Pick 3 results from this course and write in this format: How to use [product]: [emoji] step 1 [emoji] step 2 [emoji] step 3 (keep each step under 50 characters and start line with an emoji)",
     "label": "3-Steps Ad"
+  },
+  {
+    "id": "email_eolearning",
+    "text": "Help me reply to this email in a Casual Professional Tone: Maintain a professional tone while being approachable and personable. Use polite language, but avoid being overly formal. Emotional Neutrality: Avoid assuming or commenting on the recipient's feelings or emotional state. Stick to the facts and my own observations or reactions. Clear Boundaries: Clearly communicate what I can and cannot do. If I'm unable to meet a request, provide a straightforward explanation or an alternative solution if possible, but do not overcommit or promise actions that I have not committed to. Keep replies to two paragraphs unless the content requires a longer email to cover everything.\n\nThis email is related to my role as incoming Seattle EO Learning Chair from July 2024 to June 2025.\n\nWhat I want: I want to thank Mike for our call last month, tell him right now I'm working on my EO schedule from July to December, and I haven't made much progress on 2025 yet. Give me until June. Thanks.\n\n=== Email Below ===\n\n",
+    "label": "📧 EO Learning"
   }
 ]

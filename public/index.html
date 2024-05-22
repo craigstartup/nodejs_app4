@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Content Curator Work</title>
+<title>Zoom Calls</title>
 <script src="/socket.io/socket.io.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', async function() {
@@ -31,44 +31,101 @@ document.addEventListener('DOMContentLoaded', async function() {
   // Call listDataFiles when the page is loaded to populate file checkboxes
   await listDataFiles();
 
-  function listDataFiles() {
+  async function listDataFiles() {
     console.log("Listing available files...");
     const filesContainer = document.getElementById('filesContainer');
-    fetch('/list-data-files').then(response => response.json()).then(files => {
-        console.log("Files received:", files);
-        filesContainer.innerHTML = '';
-        files.forEach(file => {
-            if (file.endsWith('.txt') || file.endsWith('.csv')) {  // Include CSV files as well
-                const label = document.createElement('label');
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.value = file;
-                label.appendChild(checkbox);
-                label.appendChild(document.createTextNode(file));
-                filesContainer.appendChild(label);
-                filesContainer.appendChild(document.createElement('br'));
-            }
+    try {
+      const response = await fetch('/list-data-files');
+      const files = await response.json();
+      const categories = {};
+
+      // Group files by category
+      files.forEach(file => {
+        const category = file.split('_')[1];
+        if (!categories[category]) {
+          categories[category] = [];
+        }
+        categories[category].push(file);
+      });
+
+      // Generate HTML for categories and files
+      filesContainer.innerHTML = '';
+      Object.keys(categories).forEach(category => {
+        const categoryDiv = document.createElement('div');
+        const categoryLabel = document.createElement('div');
+        
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.className = 'category-checkbox';
+        checkbox.addEventListener('change', function() {
+          const fileCheckboxes = this.parentNode.nextElementSibling.querySelectorAll('input[type="checkbox"]');
+          fileCheckboxes.forEach(cb => cb.checked = this.checked);
         });
-    }).catch(error => {
-        console.error("Error fetching files:", error);
-        filesContainer.innerHTML = '<p>Error loading files. Please try again later.</p>';
-    });
+        
+        const triangle = document.createElement('span');
+        triangle.textContent = '▶';
+        triangle.className = 'triangle';
+        triangle.addEventListener('click', function(event) {
+          event.stopPropagation(); // Prevent the click event from affecting the checkbox
+          const fileList = this.parentNode.nextElementSibling;
+          if (fileList.style.display === 'none') {
+            fileList.style.display = 'block';
+            this.textContent = '▼';
+          } else {
+            fileList.style.display = 'none';
+            this.textContent = '▶';
+          }
+        });
+
+        categoryLabel.appendChild(triangle);
+        categoryLabel.appendChild(checkbox);
+        categoryLabel.appendChild(document.createTextNode(` ${category}`));
+        categoryLabel.className = 'category-label';
+
+        const fileList = document.createElement('div');
+        fileList.className = 'file-list';
+        fileList.style.display = 'none'; // Initially hidden
+
+        categories[category].forEach(file => {
+          const label = document.createElement('label');
+          const fileCheckbox = document.createElement('input');
+          fileCheckbox.type = 'checkbox';
+          fileCheckbox.value = file;
+          label.className = 'file-label';
+          label.appendChild(fileCheckbox);
+          label.appendChild(document.createTextNode(file));
+          fileList.appendChild(label);
+        });
+
+        categoryDiv.appendChild(categoryLabel);
+        categoryDiv.appendChild(fileList);
+        filesContainer.appendChild(categoryDiv);
+      });
+    } catch (error) {
+      console.error("Error fetching files:", error);
+      filesContainer.innerHTML = '<p>Error loading files. Please try again later.</p>';
+    }
   }
 
   // Event listener for form submission
   document.getElementById('promptForm').addEventListener('submit', function(event) {
     event.preventDefault();
     const prompt = document.getElementById('promptText').value;
-    const files = Array.from(document.querySelectorAll('#filesContainer input[type="checkbox"]:checked')).map(el => el.value);
-    const filesList = files.join(', '); // Join file names into a string
-  
-    console.log("Sending data to server:", { prompt, files });
+    const files = Array.from(document.querySelectorAll('#filesContainer input[type="checkbox"]:checked')).map(el => el.value.trim());
+
+    // Additional logging to check file selection
+    console.log("Collected files:", files);
+
+    if (files.includes('on')) {
+      console.error("Invalid file detected: 'on'");
+    }
+
     socket.emit('sendPrompt', { prompt, files });
     document.getElementById('response').innerHTML = '';
     document.getElementById('loadingImage').style.display = 'block';
   
     // Store the files list for later use in download
-    document.getElementById('downloadBtn').dataset.filesList = filesList; // Use data attribute to store file names
+    document.getElementById('downloadBtn').dataset.filesList = files.join(', '); // Use data attribute to store file names
   });
 
   // Handle the incoming response chunks from the server
@@ -125,6 +182,26 @@ document.addEventListener('DOMContentLoaded', async function() {
     border: 1px solid #ccc; /* Makes the container visible */
     background-color: #f8f8f8; /* Light background */
   }
+  .category-label {
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+  }
+  .triangle {
+    margin-right: 10px;
+  }
+  .category-checkbox {
+    margin-right: 5px;
+  }
+  .file-list {
+    margin-left: 20px;
+  }
+  .file-label {
+    display: flex;
+    align-items: center;
+  }
   #promptForm, #templateButtons {
     width: 100%; /* Adjusted width */
     max-width: 600px; /* Match the width of the response container */
@@ -164,7 +241,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 </style>
 </head>
 <body>
-<h1>Content Curator Work</h1>
+<h1>Zoom Calls</h1>
 <div id="templateButtons">
   <!-- Buttons will be added dynamically here -->
 </div>

@@ -2,12 +2,12 @@ const express = require('express');
 const { OpenAI } = require('openai');
 const { Server } = require('socket.io');
 const http = require('http');
-const fs = require('fs').promises; // Include fs.promises for reading files
+const fs = require('fs').promises;
 
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server);
-const port = process.env.PORT || 3000; // Use the environment port if available, otherwise use 3000
+const port = process.env.PORT || 3000;
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -18,27 +18,35 @@ app.use(express.static('public'));
 app.get('/list-data-files', async (req, res) => {
   try {
     const files = await fs.readdir('data');
-    const filteredFiles = files.filter(file => file.endsWith('.txt') || file.endsWith('.csv')); // Filtering logic
+    const filteredFiles = files.filter(file => file.endsWith('.txt') || file.endsWith('.csv'));
     res.json(filteredFiles);
   } catch (error) {
-    res.status(500).send(error.toString());
+    console.error('Failed to read directory:', error);
+    res.status(500).send(`Error reading directory: ${error.path}`);
   }
 });
 
-// Socket connection
 io.on('connection', (socket) => {
   socket.on('sendPrompt', async ({ prompt, files }) => {
-    console.log("Received from client:", { prompt, files });  // Log immediately on receipt
+    console.log("Received from client:", { prompt, files });
 
     if (!files || !Array.isArray(files) || !prompt) {
       console.error('Invalid or missing data received from client:', { prompt, files });
       socket.emit('error', 'Invalid or missing prompt or files data');
-      return;  // Stop further execution if the data is not correct
+      return;
     }
+
+    // Filter out invalid filenames
+    const validFiles = files.filter(file => file && file.trim() !== '' && file !== 'on');
+    console.log("Valid files:", validFiles);
 
     try {
       const fileContents = await Promise.all(
-        files.map(file => fs.readFile(`data/${file}`, 'utf8'))
+        validFiles.map(file => {
+          const filePath = `data/${file.trim()}`;
+          console.log(`Reading file: ${filePath}`);
+          return fs.readFile(filePath, 'utf8');
+        })
       );
 
       const messages = fileContents.map(content => ({ role: 'user', content }));
@@ -54,7 +62,7 @@ io.on('connection', (socket) => {
       for await (const chunk of completion) {
         socket.emit('responseChunk', { content: chunk.choices[0].delta.content, finish_reason: chunk.choices[0].finish_reason });
         if (chunk.choices[0].finish_reason) {
-          break; // Properly break if the chat completion has finished
+          break;
         }
       }
     } catch (error) {
