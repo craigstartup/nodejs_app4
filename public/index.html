@@ -131,8 +131,10 @@ document.addEventListener('DOMContentLoaded', async function() {
   // Handle the incoming response chunks from the server
   socket.on('responseChunk', function(data) {
     if (data.content) {
-      const formattedContent = data.content.replace(/\n/g, "<br>");
-      document.getElementById('response').innerHTML += formattedContent;
+      const tempDiv = document.createElement('div');
+      tempDiv.textContent = data.content;
+      const sanitizedContent = tempDiv.innerHTML; // This converts text to HTML while sanitizing it
+      document.getElementById('response').innerHTML += sanitizedContent;
     }
     if (!data.finish_reason) {
       document.getElementById('loadingImage').style.display = 'none';

@@ -60,7 +60,9 @@ io.on('connection', (socket) => {
       });
 
       for await (const chunk of completion) {
-        socket.emit('responseChunk', { content: chunk.choices[0].delta.content, finish_reason: chunk.choices[0].finish_reason });
+        const content = chunk.choices[0].delta.content;
+        console.log("Chunk content:", content); // For debugging
+        socket.emit('responseChunk', { content: content, finish_reason: chunk.choices[0].finish_reason });
         if (chunk.choices[0].finish_reason) {
           break;
         }
