@@ -1,8 +1,13 @@
 [
   {
     "id": "sue_Blogpost",
-    "text": "Write a blog post in the first-person from Sue Bryce, using her phrases, style, and voice. Do not say Sue's name when writing. Give me 3 Blog Titles and then a 500-word blog post with the strongest of those three titles.\n\nWrite about: ",
+    "text": "Write a blog post in the first-person from Sue Bryce, using her phrases, style, and voice. Do not say Sue's name when writing. Give me 3 Blog Titles and then a 500-word blog post with the strongest of those three titles.\n\nWrite about:",
     "label": "Sue Blog Post"
+  },
+  {
+    "id": "sue_Bookoutline",
+    "text": "Structure chapters of a book with a detailed list of what topics go under each chapter.\n\nWrite about:",
+    "label": "Sue Book Outline"
   },
   {
     "id": "coursepage_PAS",
@@ -23,11 +28,6 @@
     "id": "coursepage_DigitalMarketer",
     "text": "Create a course page in the style of DigitalMarketer. Write in the first person voice of the instructor, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
     "label": "CoursePage DigitalMarketer"
-  },
-  {
-    "id": "coursepage_FuckJerry",
-    "text": "Create a course page in the style of FuckJerry. Be humorous and engaging while detailing the benefits of the course.",
-    "label": "CoursePage FuckJerry"
   },
   {
     "id": "coursepage_Mission",
