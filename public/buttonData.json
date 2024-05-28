@@ -1,5 +1,10 @@
 [
   {
+    "id": "sue_Blogpost",
+    "text": "Write a blog post in the first-person from Sue Bryce, using her phrases, style, and voice. Do not say Sue's name when writing. Give me 3 Blog Titles and then a 500-word blog post with the strongest of those three titles.\n\nWrite about: ",
+    "label": "Sue Blog Post"
+  },
+  {
     "id": "coursepage_PAS",
     "text": "Write the course page using a PAS copywriting framework. Write in the first person voice of the instructor, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
     "label": "CoursePage PAS"
