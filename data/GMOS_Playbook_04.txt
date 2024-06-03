@@ -1,0 +1,69 @@
+==== Start of Transcript: Growth Marketing Playbook 04 - How to Acquire  ====
+
+Alright. We talked about how to run growth, how to manage your team, the process, Let's get into the case studies on how we can actually acquire customers, convert customers, and scale growth. Alright. So let's dive into it. We're broken down to 3 sections.
+
+We're gonna look at the goals for each of these, metrics, and case studies on how you can implement it. Again, my goal here is to just throw a bunch of reps at you all to see how other companies are doing it so you can, you know, throw the Benjamin There you go. Alright. With acquiring customers, what are your goals? Is it increasing traffic?
+
+Is it lead generation, getting people to get on a call with you to do a demo, or just growing your email list, getting email subscriptions up. So what metrics are we looking at? We're looking at clicks. We're looking at time on-site. We're looking at total traffic, pages per session.
+
+Is that over two and a half for people in the site for over, 90 seconds, bounce rate, you wanna keep that low, and then your email sign up rate, right, if you're doing content upgrade is at over 10%. So what are our options for acquiring customers top of funnel, getting people to the site. You've got content tactics, content marketing, SEO. You can do paid channels. Organic social media, doing working with influencers, partnerships, and even offline tactics.
+
+Right? A lot of different options for acquiring customers. Let's look at content marketing. This is a great example from Mint. They have great financial services app, to help you manage your personal finances, but the problem is it's not naturally viral.
+
+People aren't sharing on Twitter how much they saved in groceries. So while the product was cool, the it wasn't something people would talk about, but people would talk about personal finance blog posts and share those. So as they tried traditional marketing tactics, they kinda hit a plateau and things weren't working. So they decided to go all in on content marketing, and this was around a time when graphics were really a thing. And they found that when they went all in on content and had a good infographic with it, it did extremely well and people would share it.
+
+So anytime they could, they would make epic content, whether it's end of the year, doing 6 end of the year tax tips, or doing evergreen content, like how common is budgeting among Americans. And by going all in on this, they saw that traffic that came from their blog converted higher than any other source of traffic, because they were able to earn the trust of potential customers with their content that made them want to actually use their personal finance app. They ended up going to 1a half 1000000 users in 24 months and sold for a 170,000,000 to Intuit. Another way to acquire customers is through Facebook and Instagram ads. So I wanna go into detail in the I get a lot of questions on how to scale ad campaigns.
+
+We're gonna look at how to identify who your audience is, second, how to market to them, what are the type of campaigns you should be doing. And third, how do you measure success of these marketing campaigns on Facebook and Instagram once they're they're live in out in the wild. Okay. Who is your audience that you want to target? I think this is the most important thing with Facebook and Instagram ads that's that gets overlooked.
+
+Well, out of the gate, I would want to start with a custom audience that you actually, import import from your existing traffic. That means if you have an email list that's over 200 people or 2000, upload that email list into Facebook into the, the Facebook ad manager tool, audiences, custom list uploaded here. Because then you can retarget that list. The second thing is you can actually make traffic or retarget your website traffic the Facebook pixel that we talked about before. So anyone that visited your website, you can then retarget with Facebook ads, Instagram ads, or audience network ads.
+
+Alright. So that's the first thing I would wanna do is repost or I'm sorry, retargeting your existing email list and your website draft. Like. The second thing I would wanna do is, to create an audience of new customers, make a lookalike audience. And this is where based off of the customer list based off of website traffic or off of pixel data, you know, as you create these custom events, everyone that ads to car makes a purchase, you can ask Facebook to find people that are similar to that audience or people that took that action.
+
+So if you have your 2000 emails you uploaded, you're like, alright, Facebook, find 2,000,000 people that are 90% similar to this audience. And they'll do that because Facebook creepily has all this information on this. So those are the two audiences I would start with out of the gate. And then the third would be anything around, attributes or persona data you have, right? So maybe it's people, like if Drisley's marketing people, they want to go or people in the markets they serve that are also interested in cocktails, beer, or wine.
+
+So that that's how it approached building your audience. The second thing is you've created your audience of who you wanna get in front of. What type of campaign should you create? Now people aren't on Facebook see your ad and click it and then go make a purchase. Nope.
+
+Not at all. They are on there for a million different reasons we don't need to get into. So your ad has to be compelling enough to get their attention and get them to take action. So one of the most obvious things you can do for that is give them something in exchange for their email or in exchange for them to take action. If you're a B2B company, that might mean giving them an ebook or a guide or a white paper that they can download.
+
+Here's the one I saw from Add Espresso, 500 handpicked Twitter ad examples, download now. I'm very compelling. I'm a marketer. I absolutely clicked on this and fell for it. If you're an e commerce company, maybe it's giving some sort of a promotion, 20% off, or give them a free product with purchase.
+
+I know these can be a little annoying. We're even doing a giveaway, but they they tend to work when you really need to get people to convert and come to your platform. The other third thing you could do is And this is the hardest, but when done right, it works really well. Create an emotion with your ad, usually a video ad, to get them excited about what you're doing or to get them to feel something to wanna take action and check out your site. Alright.
+
+So those are ideas on campaigns that you can run. The third thing is, how do we measure success of these Facebook campaigns? It goes live? Is it working? How do I know?
+
+So some metrics you can look at are, frequency. How many times was this add in someone's feed over a week or over 30 days There's a lot of different rules on what that number should be. Some people say 5, some say 7, some say once a day so they can thirty times in 30 days. Really depends on your industry and your market. Facebook gives it a relevant score on a scale of 0 to in how relevant this content was for the audience.
+
+Usually, you wanna be over 7 with that. Click the written per click. Really depends on the industry, but I kinda like the, you know, the rule of 2 for 2% click through rate and per click, you know, that that can be, a wide ranging of of numbers. And also, you can optimize your ad for results, and we'll we'll get into that actually on this next slide. I also think it's important with each campaign to identify what the goal is of that campaign.
+
+So with that Facebook or Instagram ad that's going top of funnel, you're going after this cold audience. It's never heard about your brand or your product, and you just wanna educate them and let them know that you exist. It might be hard to convert them off of that for touch. So that could be with content or something that, shows the problem that you're solving. So the metrics I would care about is relevant score, number of comments or shares or likes on that ad.
+
+And if it's a video, are they actually watching the entirety of it or over 5% of it. Now, a middle of the funnel ad, this is people that have heard about you visited your website, engaged with your social pages. Your goals could be different. You might want them to actually add a product to cart. You want want them to become a lead and sign up for a demo or a trial, and you're still looking at, click through rate and cost per click on those ads.
+
+Now as we go bottom of the funnel with your ads, this is when you're retargeting people that went to your product detail page, went to your pricing page, users that have very high intent to do a transaction with you. And I'm looking at cost per purchase or demo. I'm looking at frequency. How often are we in front of these people when they're moment of making a buying decision, and what is my return on ad spend, my ROADs, right, wanting to get that over 300% So, again, just some things to think about is you're running various ad campaigns and the goals you wanna have, when you're trying to evaluate what's working and what's not working. Alright.
+
+Another way to acquire customers is through SEO, search engine optimization. Sorry. I'm a take that. Coffee break, and we're back. Okay.
+
+Google, whenever they are crawling your website, crawling your pages to the decide how they should rank it. There's a lot of different things they're considering when determining your page rank. And this changes every day like the wind, but some things to factor in are your on page optimization, how you've optimized your page for speed, for mobile, and for various keywords. Also link popularity and anchor text around external links. And that means whenever other websites are linking to you, do have authoritative websites doing that and not spammy ones.
+
+So that means TechCrunch, the Wall Street, Journal, Vogue, whatever is right for your industry. And whenever they're linking to you, what texts are they hyperlinking over? Right? So with our agency growth hit, if they just link over growth with the link, that's fine, but we kind of already own the search for growth it. If they did a link over growth team, marketing plan, growth hacking, that would be a great win for us because then as Google's crawling these other websites and it sees that when someone says, growth plan, marketing plan, and they have a link to our website.
+
+In Google's eyes, we come off as an authoritative platform for that phrase. So that's a win. So those are some things that you can work to control whenever you're working on own SEO. Alright. So let's talk about, some best practices.
+
+If I was launching a site today and I wanted to optimize SEO. Here are the 5 things that I would do. This is what I would do to have a very, SEO focus site. Well, first, I wanna submit my website to a site map. And a site map, all that is is a special document created for search engines, that allows you to give it to the search engine so they know to crawl your website and how to crawl it properly.
+
+The second thing is you wanna make sure your up with Google webmaster tools because Google owns the majority of searches. They have their their own platform. So you're submitting your website and your URL to Google so you tell them when to crawl it. That way you don't just have to hope that they crawl your website. Okay.
+
+You've submitted to the site maps submitted to Google. They know you exist. They're crawling your website. The third thing I would want to do is my keyword research to understand what are the keywords I want my website to be optimized for. Right?
+
+With our growth agency, we wanna be optimized for marketing plans, growth hacker, Facebook ads. So as we're whether you're launching a blog post or a landing page, decide what those keywords are you want to rank for. And you can use a tool like keyword planner or SEM Rush to see the search volume of various keywords. I believe marketing plan has about 70,000 searches per month so it's a high volume search phrase that that we're trying to own. Okay.
+
+You've identified the keywords you want to optimize for. Step 4 is doing on page optimization for those keywords. So let's say we're writing a blog post around marketing plans, what are the things we wanna do? Well, first, you identify the keyword that needs to be on the page, its marketing plan. In the URL structure, I'm going to have the phrase marketing plan in the meta description, and that's whenever you search for something on Google, you see the headline in the description below it.
+
+We're gonna have the phrase marketing plan as well. The headline, will have marketing plan in it and within the copy of the blog post, we wanna have a pretty strong keyword density. So I believe it's over 2 to 3% so you're mentioning that phrase a lot within the the blog post. And any images or videos you have, you want the file name, the alt text to be around that keyword. And obviously that blog post, you want to have a strong word count.
+
+So as Google's crawling it. If you wrote 2000 words around marketing plan and knows that it's thoughtful and authoritative. And because it's a mobile world, you want the the page to be optimized for mobile and amp, which is accelerated mobile pages. Alright. So you've put the blog post live.
+
+You've submitted it to Google to crawl, to be crawled. Number 5, and this one is a Huff 1, but, can pay off dividends in the long run, is build up your backlink profile. And that means all the other websites blogs that are linking to linking to your blog post or your website. So this could be from getting press or actually doing outreach asking people to link to you. And I I listed here just some tools that I'm a big fan of in and around SEO.
+
+==== End of Transcript: Growth Marketing Playbook 04 - How to Acquire  ====

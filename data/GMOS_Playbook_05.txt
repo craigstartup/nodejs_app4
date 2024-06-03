@@ -1,0 +1,103 @@
+==== Start of Transcript: Growth Marketing Playbook 05 - How to Convert  ====
+
+Alright. Now we're gonna get into how to convert, how to convert visitors traffic into paying customers or members of your platform. So whenever we're talking about conversion, what are the exact goals we wanna have in place? Well, those conversions goals could be purchase conversion rate, giving them to do a transaction, actually give their credit card information, or pay with PayPal, to buy a product or service, or a piece of software, or or maybe it is you're looking at average order value. You could convert people, but it's a free version of what you have, or maybe your average order value right now is $30 and you wanna get to $90 or $50, whatever that is.
+
+Other metrics you might be looking at abandonment percentage, what is that shopping cart abandonment rate if you're an e commerce company selling products between 50 to 300 bucks, you want that to be under about 70%. And then sales per visit. You can also look at it as revenue per visit. What is that metric between a dollar to to $5 depending on your your business model, and then lead conversion rate. Maybe you're doing a pretty awesome job as far as getting email capturing, getting sign ups, but how many of those are you converting into sales, and what is that time frame with that?
+
+So there's a lot of different metrics for conversions, a lot of different goals, whether it's getting a demo, getting someone to download one of your pieces of content or shopping cart abandonment rate. So those are ideas that are on goals and KPIs for conversion. What are these tactics for actually getting people to to take that next step, whatever that is. So I want to look at this kind of based on business model, whether it's B2C, B2B, direct to consumer, or a SaaS model. So obviously you've got webinars, trials, free trials that can be really good for SaaS and B2B.
+
+Content upgrades, mini courses, those can be, those can be great for both. And then just getting email capture can be particularly good, especially for B2C or e commerce based companies. Getting people in funnel so you can really educate them on why you've got an amazing product, which I'm sure you all have. Alright. Content upgrades and pop up We've all seen these.
+
+Some are more annoying than others. But how do you create one that doesn't get people to just click out right away and actually adds value. So, this one on the left, this is more on the B2B side, right? Download the ultimate guide to sales emails. If someone is on this site, I believe this is for Zenprospect, they very much are already interested in doing email outreach.
+
+So a guide like this adds a a decent amount of value. One thing to notice here is look at all of the fields they're asking for. This is a lot of information to ask for in a form. Usually, I'm just showing email and first name so I can do personalization down the road. But they believe this guide is so good that people are going to fill out, what is this, 6 fields to get it.
+
+So, clearly, it's working if they have it up there. But something to consider when you're building out your form. And this is more on the B2C side, right? So this is Tim Ferris, 4 hour work week selling his book. And he does this pretty aggressive full page Takeover, and it's my free gift to you.
+
+Unlock the Talosinneka letters from a stoic master. So, giving you something free in exchange for, your email address. The thing I do like about this, very simple. I'm big fan of big, clean buttons. So you're not messing up what you're clicking.
+
+So I believe this is powered by balance exchange, which is which is a pretty, expensive conversion tool, but you could also recreate this with a tool like optinmonster, Sumo, or justuno. And we'll, we'll get into this tech stack, all the tech stack options you could use at the very end of this. Alright. Another way to convert people, especially for people working on a B2B product, demos and webinars. Sometimes the best thing is to take the customer by the hand and walk them through your product.
+
+So doing that through a demo, we're actually scheduling a call to walk them through it or a webinar where you can kind of speak to 30 or 100 people at a time. And so kissmetrics, this is a webinar example as far as bringing in other thought leaders to add value, to potential customers. And they're actually not even talking about the product, but really other problems that customers are working on, and then they'll they'll mention the product in the webinar. And then Vidyard, this is their landing page for requesting a demo nice and clean and kind of shows you the value of what you'll get out of the demo. But again, what I put here is just some actions you can consider whenever you're trying to get a demo and then how to do it the right way.
+
+So once they sign up for it, confirm the demo, plan the demo for your call actually have a very tight and concise outline, because people's attention span is getting smaller and smaller, make the client the focus of the demo. Don't just jump into, why your features and your product is amazing, really understand why they came to your platform, what they care about, and what they wanna get out of because usually it's just 1 or 2 things they're looking for. So if you can get to that right away, you can really get to that magic moment on why they're excited about your form. Set the agenda agenda from the start so you make sure you hit that item. And then summarize your past conversions like, Hey, we've had some email going back and forth on a solution for video, and so we wanna make sure we hit on that.
+
+So you can give a grand tour, assume that they know nothing. Obviously, maybe you've had some back and forth with them, but really approach it as if, as if it's their first time being exposed product because you never know what people will know. And if they have questions, don't say them till the end. I think just jump right into them. And then before for you in the call really set expectations for the next step.
+
+Like, hey, I'm going to send you a link to start a free trial, or hey, I'm going to send you a pricing page with how much this will cost, and maybe I can hear back from you in 3 or 5 days. That way you can easily set up your follow email sequences, and you're on the same page. Alright. So that's how you can run a phenomenal demo or webinar. Let's get into email onboarding.
+
+Alright. So your pop up worked. It was beautiful as phenomenal. They have opted in to get emails from you. So this example I wanna go through This is for a B2C business.
+
+This is, Koala mattresses. Kinda similar to Casper, but in Australia. And their main goal is to get you to buy one of their mattresses and within 5 days. So this is a pretty aggressive email onboarding, but it makes sense for the business model. So you sign up and right away, like, Hey, welcome to Quala.
+
+Here's a hundred bucks off. It's like, okay, that's pretty big. I'll take a hundred bucks. Granted the mattresses are a 1000. That's only 10%.
+
+But, hey, hundred bucks is a hundred bucks. The second email day 2. Hey, don't forget, you get a $100 off. The 3rd, day, they're talking about the quality of the mattress. You know, you've got 5 star ratings, why it's so great, has some testimonials below this.
+
+Day 4, hey, don't forget your, your $100 expires today. And then this is actually happening that same day. Don't miss out. And then when the time is up on day 5, time to use your hundred bucks or it goes away. So again, very aggressive within the 1st 5 days, but they're going for that conversion.
+
+That is their goal because when you're buying match It's not like a t shirt that you can buy any day of the week. You're buying mattress probably because you're moving, you bought a new house, or you kicked out, whatever it is, you need a place to sleep. Okay. So that's email onboarding for an e commerce company. And all of these are set up in advance.
+
+Because they know that the sequence is actually working to get conversions. Let's look on the B2B side. So let's say this is for a marketing agency. So you're going after potential founders that need help with, marketing ads or doing creative campaigns. So this one, I think, would be a little bit less aggressive, a little bit more soft sell and you want to add value with content, earn their trust, show that you're capable, and then you can go for scheduling a meeting or setting up a call.
+
+So this one's actually built out in Campaign Monitor, and this is one of the ones that we've made for our agency, and this is always evolving. So we've got the welcome email right away. And then 3 days later, we're gonna educate you on the process, like, Hey, here's the process we use to grow VC Back startups. 4 days later, we're at a week now. Let's do some testimonials.
+
+You know, what some VC Firms and founders have said about us a little social proof. And then, day, what is that 11? I wanna add value by giving them a piece of content. You know, here's our marketing plan guide, how we make it, days after that, I want to add more value. Like, hey, here's some case studies we think would be helpful based on your industry.
+
+And then notice how far along we are. Like, Hey, here's a special promo. May we give you a discount off the 1st month? And then we actually try and get a call set up. So this is not very aggressive.
+
+We're not going for the jugular, trying to get people on the phone, really trying to add value, and knowing that they're really interested that that they'll follow-up. Okay. The other thing that you can do, and this is one of the most powerful emails you can create, is a transactional email. So, if a user does a certain action on your website or with you in your app, that triggers an email, what can it be that will add the most value leveraging the data or the action that they took? So, this is the most famous one that we all get, and this probably has the highest open rate in your inbox.
+
+And it's when you get this email, it's like, Hey, so and so tagged you in a photo on Facebook. You open up this email, and you know that Facebook's very smart. They could put that photo right here, but they don't, because they know you're gonna click through and be like, okay, how do I look? Does my hair look nice? Hopefully I wasn't over served in, in, in this moment when they took the photo, but they click through see photo, then I'll send your own Facebook, looking at photo, and then you get stuck on some articles and you're there for 5 minutes.
+
+This is their most powerful retention getting people back to the site, and it's this transactional email. So what are those actions someone takes on your web site or your platform that could then trigger an email or piece of content that could add value. So one thing you see with e commerce companies, right, is hey, you added a secret, but you didn't purchase. Here's 10 or 20% off. With our e commerce companies, that has a very, very high conversion rate.
+
+With B2B Companies. Actually, one example, I use a platform called Toggle to manage the amount of hours I spend in a day and where I allocate that and after a week, it shows me where all my hours went for that week. And I think it adds a lot of value. So once it gets that data and it goes over the cadence of 7 days. It's hitting me up with that email.
+
+So what are those transactions that customers are doing that you could use to, do a transactional email campaign. Alright. Sticking with, conversion, retargeting ads. So we spoke a little bit about Facebook ads and AdWords. How can you retarget customers that have already been to your site, been to a specific URL with that message.
+
+Because we know people get distracted, especially if they're on, a mobile device when they're on your website, and they might not be able to convert on that first touch. So, you've got to get them to come back again, give them a nice nudge. So obviously with this ad, this is, again, that koala mattress example. The thing I really like about this ad is that it's so consistent sent with the email messaging and the conversion message or the, email pop up, messaging. They're really pushing giving you that $100 off.
+
+So it's a very simple clean ad and the keyword of 100 catches your attention right away. And you can use, you know, the Google display network. They're on basically every website under the sun to retarget people when they visit other web sites. I put here some other platforms you could use as well when doing that. Now, I want to get to what I think is the most powerful retargeting platform And this is Facebook ads, dynamic ads.
+
+And this is specifically for, e commerce companies. If you're on Shopify, WooCommerce, or your own some site, you can actually upload your product catalog into Facebook so you can retarget people based on the pages they visited or the products they added to cart. Very simple, very clean. So you upload your product catalog and with those platforms like WooCommerce or Shopify There's a lot of apps on, Shopify thing is called Flexify, where you can upload your catalog and then just set it up to where, Hey, if people visited page. Let me retarget them with that ad.
+
+Then the question you need to ask yourself, how many times should this product be shown in someone's feed over 7 days or 30 days. And if you ask 30 marketers, you're gonna get 30 different answers. So my answer to that is, tested. I've tested putting the product in someone's feed 5 times over 30 days. I've tested 30 times in 30 days.
+
+It really depends on the customer, really depends on the product. I get very nervous about over saturating a feed, but, I've been surprised at how the frequency goes up the return goes up, but be be very careful with that. Alright. So that's retargeting. Let's get into how to build your funnel for conversion.
+
+I love this example. This is from Harry's. You know Harry's sell subscription razors. So every month, you're getting beautiful razors sent to you. So their goal is subscription, but notice how on their landing page, they don't even use the word subscribe because they know that order to get someone to subscribe first, they need to try the product and see if they actually like it.
+
+So in this landing page, it says, great shape, no middle man, try it for just three bucks. Start trial. So not going for subscription, going for trial, and then right here, they're educating you on how the trial works. So you're like, alright, I'll buy You click, you go into the product detail page. And here, they're not talking about the name of this fancy kit.
+
+They're not mentioning that the blade are made in Germany. Again, it's all about your trial ships today. Pick your color. Just pay $3 for shipping. And then right here, again, they're educating you on how the product works and notice how they're kind of mentioning, Hey, your refill will ship on this date and you can set up when you want that refill to come based on how often you have to shave.
+
+So a very clean sum funnel how it's very narrow in the messaging, not distracting you with a lot of other things, and very clear on what they want to call to action to be with starting that trial. And I'm a big fan of when you design, think of design in the sense of only add things that add value to the customer and try and remove as many things as possible. So this is very clean and simple, which I like. Okay. How to build a funnel, how to qualify leads, right?
+
+So this is more on the B2B side. Another thing you can do is what's called conversational marketing. So instead of doing all of these forms and getting people into your email flow, how can you actually live chat with customers to push them down the funnel. And the platform I like for that is Drift. Very good with conversational marketing.
+
+There's some other great ones out there like intercom, so notice how instead of trying to get you into their email list right away, they're trying to start a conversation with you and they've actually automated portions of it to use, you know, AI, use the robots to basically funnel you a certain way. That way whenever it goes to a real person to to you. They've either already qualified you or gotten the right information, to add value. And so the thing that's nice is, as you ask questions, you can actually prepopulate what the answers will be, so it's multiple choice. And then based off of that logic, you can have different answers set up.
+
+And then even, as you look at their flow, they actually have it integrated with Calendly or their Schedule meeting tool, so you can actually schedule a meeting, with a person to get a demo or get a trial. And the thing that's nice is that it removes a human from the process it makes it a little bit more scalable. Okay. So that's building a funnel with conversational marketing with a chat tool. Now, let's get to the end of the funnel with designing a page that really converts.
+
+So we're gonna start on the e commerce side. And specifically with the product detail page. So how do you design a product detail page for an e commerce company that actually converts? So this is actually from ASOS. I think they do a nice job, of making it clean and simple.
+
+And they're always innovating. Whether you're looking at their desktop, or their mobile app experience, it's all very a sentence simple and clean. So first, notice high quality image and notice how much real estate this image takes up. Very big. And then if you click the video icon, the video actually pops up within the screen and you can see the close in motion.
+
+And then a lot of different views of images and the, the quick view arrows. Up here at the top, clear headline. They got the price at free shipping and returns because of Amazon. This is kind of table stakes now. So putting, but still putting up there is pretty big.
+
+You can then add to cart or you can favorite, favorite it, which that way, maybe you're not ready to buy now But this is also a great retention mechanism to know like, Hey, they put this in their wish list 3 months ago. Let's retarget them and give them 10% off for this or give them free 2 day shipping, whatever that would be. And notice how easy it is to select the size and how wide this button is. It's just as wide on mobile. That way you're not messing up with trying to find exactly where a small, but is.
+
+And then down below here, still above, above the fold. You've got the product detail information, more information about the and I think this is so important size and fit. So, so really getting into the details of this. Another thing I would wanna to this is more product reviews and testimonials. I also see that shop insta does really well with helping with conversion.
+
+So that could be another thing to test. Alright. Another big thing with getting conversion, and this is probably the thing that I'm the most excited about. Is using personalization. Now, personalization has been around for a while.
+
+It is by no means, something new, but the application of it has been easier than ever. Doing personalization. With tools like Write Messaging Convertflow, it's more affordable and it's more user friendly to make this experience. So, the whole thesis is, why should a brand new customer have the exact same experience as one of your VA P customers. Someone who spent over $1000 with you and wants to know the latest products.
+
+They should be seeing like, Hey, Jim, we'll come back to the site. Hey, have you seen our new shoes. By the way, if you make, 2 more purchases, we're gonna give you X Y Z because you're on our loyalty program. Where someone who is their first time to the site. It's like, Hey, welcome to our brand.
+
+Let us tell you our story. Here's our founder talking about why they started this company. 2 totally different experiences based on the use case. So right message makes it easy to do that where bay you can base on the referral source the data from the email service provider, data from the CRM, you can customize what that experience will be. And you can customize the background image, the headline, the call to action, and if you should even have a form here.
+
+And again, there's some great competitors to this Optimizely X in convert flow, but this is one that's fun to play with. I think it starts out at like a 100 bucks a month.
+
+==== End of Transcript: Growth Marketing Playbook 05 - How to Convert  ====
