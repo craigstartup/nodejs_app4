@@ -1,0 +1,584 @@
+Zoom Meeting 
+Wed. May 1, 2024
+
+0:08 - Craig Swanson Okay.
+
+7:56 - Jim Huffman Hey Craig, what's going on?
+
+7:57 - Craig Swanson I don't even know how to answer that.
+
+8:02 - Multiple Speakers What time zone are you in right now? You know, I think I'm kind of back in the Seattle time zone.
+
+8:07 - Craig Swanson I mean, I've been back since Friday and I used a jet lag app and some supplements that actually kind of worked great.
+
+8:17 - Jim Huffman Really? I don't even know about that. That's awesome. How was the trip?
+
+8:22 - Craig Swanson You know, I got so much going on right now. So here's the thing, it was amazing. I would like to go back to Singapore sometime and see it. I literally like flew in and flew out the day before and the day after the event. So I didn't like have any downtime to do anything else. So most of my experience in Singapore was just kind of like walking around or doing some of the dinners.
+
+8:50 - Jim Huffman Yeah, that sounds awesome, though. I still think that's a cool way to experience Singapore, right? Like, was it, did you connect with a lot of people you didn't know through Seattle? Or is it more of like, let's go deeper with some of the Seattle people or a little bit of everything? Both.
+
+9:06 - Craig Swanson So I am incoming learning chair.
+
+9:10 - Unidentified Speaker Nice.
+
+9:11 - Jim Huffman Wait, you're not the current learning chair?
+
+9:14 - Multiple Speakers You're incoming learning chair?
+
+9:16 - Craig Swanson I am the current accelerator chair who kind of elbowed my way into learning and just kind of like invented a whole new job description that makes it look like I'm unlearning.
+
+9:31 - Jim Huffman Well, I'm excited because I feel like you are very curious in ways that I'm curious, so that's awesome.
+
+9:38 - Craig Swanson And, I mean, honestly, I think if you've got the capacity, and I don't really understand your capacity because you seem to be doing a lot of stuff, but you would be fantastic on the board. And especially if you've got an opening in your life from tech stars. Like this might be a, I really signed up for it. Like I really leaned into it. It's my entrepreneur in residence role. It's the thing that like, you know, keeps me relevant and gives me a role when I am like not necessarily burning things up with a particular company.
+
+10:12 - Jim Huffman Yeah, that no, I'm very intrigued. I am getting out of sales slowly, which is huge. I'm trying, honestly, like growth, it's been horrible at top of funnel marketing, mainly because we haven't done anything. And that's where my head is going. We're pretty good at bottom and mid and it's top of funnel, but that's a long winded way. I'm intrigued. I just, I worry about being able to do it really well.
+
+10:37 - Jim Huffman But, but yeah. Yeah.
+
+10:40 - Craig Swanson Well, let's talk about, yeah, I mean, let's talk about like, so I email, so like, you know, first of all, let's just talk about like what you sent out. You sent out a ton of emails, right?
+
+10:55 - Jim Huffman Yeah, I sent an email to the, like, I have 1,000 people on Gumroad that have bought my book before. So, I sent an email to them. And then I sent an email to my email list. And, yeah, it's pretty crooked. It's one, like, my email, like, it's, I'm, like, so angry right now. Our open rate used to be an average of, like, to 30%, it's now at 11, because we're getting market span, it's deliverability, and it was nine, it's going up.
+
+11:25 - Jim Huffman But anyway, I don't think that helped the cause, but regardless, it's funny, there's just as many sales from the one that's on Gumroad as there are people that filled out the survey, because we got more sales. I'm like, fill out the, I didn't ask you to buy, it's like, fill out the survey, but it was pretty direct. So anyway, yeah, that's kind of what happened.
+
+11:47 - Craig Swanson So how many sales have you had on Gumroad?
+
+11:49 - Jim Huffman About 15, yeah, like 10 to 15. OK.
+
+11:57 - Craig Swanson Well, I've got thoughts, but what are your thoughts? So you said you had some. So I don't know if you have generic thoughts or if you have specific thoughts.
+
+12:05 - Jim Huffman I have some thoughts. Versus, well actually we'll get into this. Really what I'm thinking through is like, I think of your formula, which is kind of, you're kind of a pioneer in that so many people are trying to find people with audiences and helping them create innovative ways to monetize it. It's something a lot of people are doing, you've been doing for a while.
+
+12:26 - Multiple Speakers And so I really respect how disciplined you've been to stick to your playbook that you know well and saying no to things.
+
+12:33 - Jim Huffman And as I look at our partnership, You're kind of breaking your playbook because I'm not bringing an audience I'm not bringing like oh all these people that are chomping at the bit for growth head or Jim Huffman stuff So I'm very aware of that in that if this is gonna be successful I need to be very much a part of I don't know what the right word is I put audience building in But this only works if we are, me or both of us, are laser focused on this.
+
+13:09 - Craig Swanson The only silver lining is that this aligns with my focus at GrowthHit right now is sales.
+
+13:14 - Jim Huffman It's kind of knock on wood working without me and I'm shifting my focus to marketing. Because we're good at Google Ads, we're good at our email flows, but no one really knows we exist. We haven't cast a wide net.
+
+13:30 - Craig Swanson So there's a lot of alignment in those two things.
+
+13:33 - Jim Huffman So that's a long-winded way of me saying, I'm aware you're breaking your playbook. And for this to work, if we look at this like EOS, this is an issue that needs to be solved as far as the top of funnel to go after.
+
+13:48 - Multiple Speakers And I loved your point on the ROAS, where is there a Legion offer?
+
+13:52 - Jim Huffman And so my question that I was thinking through is like, what's What do we believe is the cost per acquisition on ads that we need to price this product at, right? Because I'm thinking between, I don't know.
+
+14:06 - Craig Swanson Unless you have a way of getting to that answer, I don't know how to get to that answer without testing. Oh, for sure.
+
+14:13 - Unidentified Speaker Yeah.
+
+14:13 - Jim Huffman It'd be a stab in the dark.
+
+14:16 - Craig Swanson But in general, let's just start with in general. My in general generic answer is between $9 and $99. Okay. Yeah. And then really the question is, can we get a $99 sale at a cost of acquisition of like $89, give or take, or can we get a $9 sale at a cost of acquisition of $8?
+
+14:37 - Multiple Speakers Because they're kind of the same thing from a ROAS play.
+
+14:40 - Jim Huffman Totally, yeah, yeah, yeah.
+
+14:42 - Craig Swanson And somewhere in that spectrum, if there's an offer that is compelling to an audience, we might find something that is converting.
+
+14:49 - Jim Huffman Yeah.
+
+14:50 - Multiple Speakers And it's like, how, like, what's the investment we would want to make to test this. Right.
+
+14:56 - Jim Huffman And like, you know, what's the line in the sand. I'm like, okay, is this working? Is this not, cause we want to like give it the time and the space to cook and work, but we also need to be like, okay.
+
+15:09 - Craig Swanson Well, this is, so the interesting thing here is you might have insights that I don't have, but so I, whether you do, you don't. I don't feel like I'm the only expert in the room that has dealt with issues like this before, where sometimes I am.
+
+15:25 - Multiple Speakers Usually you're kind of alone on like marketing island or growth island and you have the greater island. Exactly. So I mean, whether or not my instincts are any good or yours are any good, you have reason to have an opinion about this that is more based in experience than a lot of people I've worked with.
+
+15:43 - Jim Huffman Gotcha. Yeah. Yeah. Cause you're working with creators. Yeah. Yeah.
+
+15:48 - Craig Swanson Um, but in general, in general, when I'm doing a testing, I'll usually like, I'll usually give it a hundred, uh, like, like in an area that I feel confident somewhere between 25 to a hundred dollars a day in testing.
+
+16:02 - Jim Huffman Yeah.
+
+16:03 - Craig Swanson Um, her, you know, per thing that I'm testing, Um, and so if we're doing price testing, I actually have a price testing. Tool that would let us create numerous different, um, price points. So like if we were going to say price test for prices or 10 prices between $9 and $99, that would be, you know, a hundred 25 dollars per day for each of those. Yeah. The higher we end up, the higher we end up pricing it for a test, like usually I want to at least have at least the cost of an individual purchase as my daily test rate and usually 2x my daily,
+
+16:48 - Multiple Speakers you know. So if I were testing up to $99, there's a part of me that would want to be spending, you know, maybe $200 a day on that.
+
+16:56 - Craig Swanson But I don't know, like when I'm doing price testing, I'm also willing to like let that slide a little bit.
+
+17:01 - Jim Huffman Gotcha. That's an interesting framework to X the price. Yeah. Yeah.
+
+17:05 - Craig Swanson I mean, just from a standpoint. Now, the thing is probably a lot of stuff that you're doing. Well, actually, what ROAS level do you usually try to play in? Because since we're digital goods, we can be net positive at just like a ROAS of 1.1, like just a fraction above.
+
+17:21 - Jim Huffman That's the thing that's kind of exciting because even with Meet right now, it's like, I mean, with any e-com, it's like over three. Is what you need. You need over three unless you have amazing subscription or you've got great retention, you're dipping like two, two and a half, one and a half, but you have to have some sort of like continuity revenue.
+
+17:44 - Craig Swanson By the way, how is Neat going? I saw you by. I got codes for you, man.
+
+17:47 - Multiple Speakers Honestly, I was debating that. I know that if I texted him, he's got a code for me.
+
+17:59 - Jim Huffman I'm actually you're actually on my list. I have like I'm giving basically 200 people I'm still gonna give you code so you can get a third shirt.
+
+18:06 - Multiple Speakers I saw you were too I'm still gonna give you one so you can get another color But you actually test to see what size works that green is my favorite. So good job but yeah, I am It's actually going well, man.
+
+18:20 - Jim Huffman For that business model to work, I need the average order value over $100.
+
+18:25 - Multiple Speakers I saw you have, I don't know whether it was designed that way or not, but you definitely, I saw it telling me how far away I was from that number. We're going all in on bundles and gamifying the cart for that exact reason.
+
+18:39 - Craig Swanson I also saw you were naming your bundles. I saw that you are putting some name around these things. And the whatever it was kit, like the four pack kit felt like a lot better choice for me than the previous one. I just didn't realize.
+
+18:57 - Jim Huffman Me and Chad at GPT were working on those names for a long time on a Friday because yeah, it's all about the use case with those bundles. But yeah, we've already increased the average order value by like 30 bucks.
+
+19:09 - Multiple Speakers And so I'm very fired up about that. We had some issues with inventory. I had to pause ads, but now they're back on. But we have like 100,000 worth of inventory we need to sell through.
+
+19:20 - Jim Huffman It's going well so far, but it's so early days.
+
+19:23 - Unidentified Speaker Okay. Um, I actually would love it.
+
+19:26 - Craig Swanson Like just, I mean, both for my own interest, but also because we're talking about selling a digital product and if there are things I can learn from how you sell physical products, but first of all, I would be learning. That'd be a, that'd be a benefit for me, but also there might be things we might be able to like borrow or you might have, you might have resource. I mean, the thing is, I feel like with you, First of all, there are things about setting up the Facebook ad, the ad manager, that probably your team knows better than I.
+
+20:00 - Craig Swanson I'm running into some issues in terms of I've never functioned as an agency, but there are some agency-related things that I'm running into just because I've got multiple things set up.
+
+20:10 - Jim Huffman Oh, interesting. Yeah.
+
+20:12 - Unidentified Speaker Yeah.
+
+20:13 - Jim Huffman I mean, what could be helpful is, um, we could do an ad call with my team and you, um, just to kind of go over all the neat ads and where we're at.
+
+20:22 - Craig Swanson Um, that, that can be helpful.
+
+20:25 - Jim Huffman Cause then we could parlay that into potentially some of the stuff we're doing here. Yeah.
+
+20:30 - Craig Swanson Um, so in terms of like, in terms of seeing if we could find a row as positive ad and I, and, And I think that if we could find a ROAS positive ad, it's going to be helpful for growth. Because one of the things I was noticing, even in the 11 that responded, I mean, The way they were responding and the way we were making the question generic, this could be a funnel that could lead to a client growth hit as opposed to something else.
+
+21:01 - Unidentified Speaker Yeah.
+
+21:03 - Jim Huffman And selfishly, you kind of even said it. For me, this is like top of funnel. Obviously, I want them to go for what we're selling here, but then like, oh, well, awareness of growth hit. Eventually, maybe I could use them. Yeah.
+
+21:19 - Craig Swanson What I was thinking was we could potentially look at what you're doing with Gumroad and basically take that product and use that product as a thing. Then I don't remember the name of the tool that we use. Something cart, but it's basically an upsell tool where we sell an initial thing. So basically we sell the initial thing and we could test that at various price points. And then after you purchase and complete the purchase, you are given an upgrade offer and then you're given another upgrade offer.
+
+22:01 - Craig Swanson But the trick is that I really like, and I think this is different from Shopify and other tools, is that If you don't do anything with that offer, it'll basically just, it'll take your initial purchase. But if you take the offer, it adds it on. So it basically kind of like holds the credit card shut or open a little bit longer and lets you add things on without pushing you away from the cart to go make a decision or without, you know, with, so I think right now with, with you, if you want to get me to add additional shirts, I have to leave the cart, stop the checkout process, go, go debate if I want to get something else and maybe never come back.
+
+22:39 - Jim Huffman Yeah, totally.
+
+22:41 - Craig Swanson So with this tool, we basically, we get you to buy the $9, $19, $45, whatever the first purchase is. And then we give you a upgrade bump. If you wander away, you've bought the original thing.
+
+22:57 - Multiple Speakers If you add the upgrade bump, it's added in and you just get that added to your charge because we have not closed to the transaction yet.
+
+23:05 - Jim Huffman Yeah. I mean, I love that if we can set that up, cause it's like, what's the trip wire, what's the add in. And, um, what I'm thinking there is like the different prices we want to play with and what are the things they actually want. Right. And how we, uh, what we put out there.
+
+23:22 - Craig Swanson Um, that's interesting. So I was thinking a couple of things that we could potentially like, and I'm, I'm a little bit, I am a little bit wary of following my instinct to develop stuff too much. I'm very wary of building too much before the audience is buying. But when I look at what you've got, I think that the actual Gumroad product could be the thing. Maybe we could do the book for $7. Maybe we could do a PDF.
+
+24:07 - Craig Swanson Maybe one of the bump-ups could be the video. So you've actually got it set up where you've got multiple price points. I don't remember. I remember there was a point where you had multiple price points at Gumroad.
+
+24:18 - Jim Huffman Yeah. Oh, yeah. So we got this. We got this. And then I can pull up the actual growth markers playbook.
+
+24:29 - Craig Swanson Yeah. So you've got like, so if you think about this thing, we might be able to use these and basically stack them.
+
+24:35 - Jim Huffman Um, I'm also happy to tweak these to custom cause the, well, this is kind of the thing that I've been working on, but we can pull out parts of this. And so that could be on me to think through what do people actually want.
+
+24:52 - Craig Swanson like different package ideas, or it's like the kind of like the three levels.
+
+24:57 - Jim Huffman But what's kind of the ultimate goal? Because we would be doing this, you know, for Legion to not to be kind of ROI positive on this, but like, it's essentially to build up the email to then sell them like this at what price, right? What's the final goal?
+
+25:14 - Craig Swanson Oh, the final goal is going to be dependent on the audience.
+
+25:17 - Jim Huffman Okay, gotcha. I mean, the final goal.
+
+25:19 - Multiple Speakers So the final goal is to get us to a place where we're going to have more engaged people that we can get a survey from that are going to tell us what they want to buy from us.
+
+25:29 - Jim Huffman OK, gotcha.
+
+25:30 - Craig Swanson So really, if we'd got 100 responses back from that survey, I would say probably be talking about what we're going to be building out to offer that audience. With 11, don't really, we have nine. So in terms of the three things you look at, traffic, offer, and conversion, we don't have enough traffic to really gauge what type of offer we want to make, which means that either people are disengaged. So they're either disengaged from you and your emails, they're not seeing them, so they're like, they are not given a choice in the process.
+
+26:03 - Craig Swanson Or, I don't know, is there a third? I always assume there's a third, but I don't know if there's a third. Yeah. So if we could find an offer that basically can go from related or cold traffic that can get to a purchase that's always positive in that offer and we can use it for lead generation, then we can get to a place where we can kind of like let it roll and we're building up our leads and then we will have a dedicated email list that hopefully we have more engagement with that we can then offer them something.
+
+26:40 - Unidentified Speaker Gotcha.
+
+26:41 - Jim Huffman Yeah, all the back of like Jim as guy making any products for you to get a better engagement on the survey. I love like using the survey to drive the product. It's so simple and obvious.
+
+26:53 - Craig Swanson Um, okay. Um, if you're willing to, one of the things I was thinking is we might like one of the, one of the bump up offers might be a one-on-one call with you for some amount of money. Um, that would be a time investment, but, um, it would also be a signal for more serious people and potentially it could be part of your sales cycle.
+
+27:15 - Jim Huffman Yeah. I mean, I'm fine with it. Um, so it's like the $9 thing, what the like $39 thing, the 99 can be like, Like the different tiers of pricing and products that we would want I think so those look like initial tripwire prices.
+
+27:38 - Craig Swanson And then in a perfect world we would have a So let's see here. So in a perfect world, we'd have a trip wire of like $7 or $9 or, you know, some, some low price. We'd have a bump up to then $99 we'd have a, um, four 99 offer for people that are like really big. And those things are coming in after the fact.
+
+28:02 - Multiple Speakers Um, so I, so after you buy the $7, you're given the choice of being able to upgrade to this. Yeah.
+
+28:10 - Craig Swanson What, um, cause this could be that thing. Um, Well, does this exist in a way we can sell it or like what that is? This is the pre-order, right?
+
+28:22 - Jim Huffman Yeah, it's a pre-order. It's not done. Yeah.
+
+28:25 - Craig Swanson Yeah. Um, I'm kind of thinking that this is the list building to be able to sell that. And this you've had, how many orders of this thing have you had?
+
+28:38 - Jim Huffman Well, so 1400 bucks.
+
+28:41 - Craig Swanson Yeah. So I think I would avoid selling something that doesn't exist and I'd focus more on things that do exist that we can basically fulfill.
+
+28:52 - Jim Huffman Agreed.
+
+28:54 - Craig Swanson Because we're trying to generate a list to sell something that doesn't exist. But one thing I was thinking and this this could involve some work, but it's kind of in line with you How many I was looking at like you've got all these frameworks that are kind of divine like like you could almost release like a book of frameworks or a Weekly framework like you've got a ton of frameworks.
+
+29:16 - Jim Huffman I don't know what format they're in Yeah, I mean, they're very close because the key is I have the framework and I have the graphic. I can easily put copy into like how I use it. I'm even thinking of putting it into a worksheet where they can actually like use it because I bought Justin Walsh's operating system. And the thing I love about it is just how action oriented it is. I mean, it gives you a very, very basic Google sheet, but it's kind of all you need.
+
+29:47 - Jim Huffman Um, so, um, but anyway, it's, they're very, I could, I could get those over the finish line if that's what we want to do or it's like that.
+
+29:56 - Craig Swanson That could be potentially interesting. And how would you, how would you do that? Would you do that? Would you outsource that to someone like how, just mechanically, how would you do that?
+
+30:05 - Jim Huffman Um, as far as the, this deliverable, I've already outsourced the design. So that's done. I would probably be doing the just needs to come out of my head, like the copy associated with it. And then any polish to make it pretty, I'd give to like our design team. And then maybe I would have someone on my team, if I need like an SOP or like documentation in a Word doc or a slide deck, I'd have them design it and build it.
+
+30:40 - Craig Swanson That might be interesting. I think that might be one of those step up offers that you could throw in.
+
+30:50 - Jim Huffman Um, wait, what is the frameworks, the frameworks? Yeah.
+
+30:57 - Craig Swanson Um, so what price is that?
+
+31:00 - Jim Huffman And if it falls into these categories, it, um, I mean, I don't know.
+
+31:10 - Craig Swanson I guess to some degree for me, it feels like, what is it? I don't have a sense of, is it a hundred frameworks in each one? I just don't have a sense of what it is.
+
+31:23 - Jim Huffman It's 13 frameworks, 13 frameworks. Okay.
+
+31:27 - Craig Swanson All right. So actually, okay. So, so 13 frameworks, it's the core 13 frameworks. So basically by the way, like, you know, it's, it, it becomes, this is more a matter of like a curated list as opposed to like a massive list.
+
+31:40 - Unidentified Speaker Yes.
+
+31:40 - Jim Huffman The great quality, not quantity. Yeah.
+
+31:43 - Multiple Speakers The core and actually the core 13 frameworks, um, What are the, how, how easily can you communicate to me what those are?
+
+31:56 - Craig Swanson Like, I think I saw them in one of your, um, Figma designs.
+
+32:01 - Jim Huffman Yeah. I gave you that super rough overview and then we've got the Figma, but I mean, that's how I, that's how I knew you had the frameworks.
+
+32:08 - Multiple Speakers And I also know that you're kind of a framework guy, like you, like you, Yeah.
+
+32:13 - Jim Huffman Cause it's like, exactly. If you think of EOS, like this is EOS, but for the Grithberg operating system, there's five categories and then framework. And there's actually, this is actually a little outdated. And then these are the frameworks within it.
+
+32:27 - Multiple Speakers So, so it, they may be slightly outdated, but in this scenario, growth roadblocks is a framework offer led growth as a framework campaign.
+
+32:35 - Jim Huffman Okay.
+
+32:43 - Craig Swanson Let me think about that. Let me think about...
+
+32:45 - Jim Huffman Yeah, and then you have like, I want to put timelines with this. I think I showed you the inspiration that you've seen the EOS.
+
+32:56 - Craig Swanson Yeah.
+
+32:57 - Jim Huffman It's basically that.
+
+33:02 - Craig Swanson By the way, in your role as creator, it is good and appropriate that you're thinking about how to make the content really good and how to make the deliverable really good. In the game I'm playing right now, This doesn't matter until we have an audience.
+
+33:22 - Multiple Speakers Like the thing is, so if, so if you look at your three questions that you ask, if sales are not happening, is it, is it a traffic? Is it offer or is it conversion? Yeah. We have no traffic.
+
+33:34 - Jim Huffman We have no people. Yeah. Well, the third one is, is it quality of content?
+
+33:38 - Craig Swanson Like the fourth one is, is it quality of content? Quality content is not relevant at all right now.
+
+33:42 - Multiple Speakers Like quality of content has zero impact on what's happening right now.
+
+33:46 - Jim Huffman Yeah, yeah true audience and that's one issue with my email list.
+
+33:51 - Craig Swanson It's kind of morphed over the years of like People signed up for different reasons and I kind of just squished him into the list What I think what I think I would do is I think we would set up a price set up a clean Clayview account just for this probably you you know and just whether we keep it on a You know, like, like what we use as the base sending email, we could debate what's the most effective, but I think we like basically build a isolated and specific list just for this.
+
+34:22 - Craig Swanson I agree.
+
+34:24 - Jim Huffman And try to fill it up with people. Yeah.
+
+34:26 - Unidentified Speaker Yeah.
+
+34:27 - Jim Huffman And I can still try and cross promote from my other stuff that would funnel into that. Yeah.
+
+34:33 - Craig Swanson And I guess depending on, like, I think if we can get to a place where it can kind of like generate, like one of the things that can happen is if we can get to an offer and some ads that kind of like just generate on their own to some degree, you can just kind of like leave that running and just wait for it to start to accumulate stuff. Yeah.
+
+34:52 - Unidentified Speaker Yeah.
+
+34:52 - Craig Swanson It's like let it work where it's not losing money, where we can build a list and eventually at a point that You feel like there's enough momentum to be able to like put energy into content creation, other things like we could potentially do a series on your podcast or like, like, you know, there could be like one podcast a month. That's about the 13 frameworks or like there, there are ways you could start to build that into other areas.
+
+35:22 - Craig Swanson Yeah. Or you could do a, like, we could just do a 13 week webinar series. That's more list building than it is sales. Yeah. Um, I would, I would still want to have more signal. Like the thing is, I just, and I can like just share for my own, like, like, well, so, cause I'm also just like, kind of like openly sharing about like this. So, you know, I, I launched, we launched that, uh, singing bowl, um, educated class.
+
+35:55 - Jim Huffman Yeah. Well, I mean, cool.
+
+35:57 - Craig Swanson Not, I mean, cool. Um, and I think I showed you the page, right? I showed you the page. So we ended up getting about 12 sales.
+
+36:07 - Unidentified Speaker Gotcha.
+
+36:11 - Craig Swanson And there were some things we learned. So they end up getting like 4,000 emails from some stuff they're doing. We only got 12 sales. About halfway through during this, It became really clear that people needed to know what they want to be able to buy a single, like no one wanted to take the course without buying the same bowl.
+
+36:32 - Multiple Speakers They didn't want to promote other people's singing bowls because they want to come out their own in the future. And so like in some, in some ways two things were happening. The response was really muted compared to what we were expecting.
+
+36:45 - Craig Swanson And we couldn't address the top, the top buying question that people were having with in a way that was consistent with what they wanted business wise. And so when I was in Singapore, we made the choice to basically refund everyone and basically just pause the course. So we brought in about $4,000 in sales. We refunded $4,000 sales, took the purchase button down. It's either dead or paused based on kind of like, you know, there needs to be a full-throated, like we need to basically be able to sell the singing bowl and the class together, but also we probably need to have better signal that people actually want these things.
+
+37:31 - Jim Huffman Yeah, that's a good point. And I, it's, I have, I'm sorry that it didn't work out as you wanted, but it's like, how do we like, if this fails, why will it fail? And like, That's one reason, like we don't have a signal, we're trying to sell something that we have no idea that people want. How do we like mitigate the risk, right? So it's kind of what you're saying, because really, like, I just want to lead gentle to build the list, start talking to people to create something they actually want.
+
+38:01 - Craig Swanson You know, and part of the risk for me is this sense of letting someone down. Like there's this emotional thing. So like the thing I was kind of happy with this is we got to this point of go no go and decided not to go.
+
+38:15 - Unidentified Speaker you know, we spent maybe $2,000. So we, we put in the $5,000 each.
+
+38:18 - Craig Swanson We, we, um, um, probably spent two or $3,000 kind of like getting it to that initial course page. Um, and within two or three weeks of launch, we had an answer that now that it was not working. And so there's a part of me that feels like, I don't know, it feels like some mystical version of me might be able to like create sales out of nothing. Um, But also I'm really glad that like this didn't just linger out and become something that we were just kind of like letting go for like, cause I've had things that like it's taken a year to say this isn't
+
+38:56 - Multiple Speakers working.
+
+38:56 - Unidentified Speaker Yeah.
+
+38:58 - Jim Huffman Yeah.
+
+39:00 - Craig Swanson Well, and like the other, like, do you think it would have been successful if you could have sold the bowls? I think Uh, it would, it, I think we could have gotten to, I think we could have gotten it to a successful threshold if we'd had the bowl. So basically if, if we had had an answer to the biggest problem, we could have put together a pricing structure that let them have the bowl in the class and like probably done something with it.
+
+39:30 - Jim Huffman Yeah.
+
+39:31 - Craig Swanson Um, And if they had had a third party, they were comfortable endorsing, we probably could have got there. Um, but, um, but also they were really fighting against YouTube. Like YouTube was pushing back on the algorithm because they were basically trying to create a conversation that had not drawn people originally to their channel.
+
+39:53 - Unidentified Speaker Yeah.
+
+39:53 - Jim Huffman And, um, yeah.
+
+39:56 - Craig Swanson So like the other thing is like, it's a little like you had, you had like, I mean, you had, how many people did you have on your email list? So like, I mean, 14,000 they had 600,000 people on their YouTube channel. 14,000. Like they were expecting more. I was expecting more. Um, geez, I mean, I would have expected more from the 14,000 that you sent to and, and you know, if people are coming for one thing and you offer them something else, that's not related.
+
+40:21 - Craig Swanson Like that's the, you know, sometimes you don't know, like, if we don't know if, you know, There's a reason why QVC has such conversion. Part of it is you don't go to QVC, like if you don't like people selling you something and you don't wanna buy, you don't hang out on QVC.
+
+40:40 - Multiple Speakers Yeah, exactly, right?
+
+40:43 - Craig Swanson But like if you're just like watching nature documentaries and this guy pops in and tries to sell you like something, like unless you've had that type of relationship.
+
+40:52 - Unidentified Speaker Yeah.
+
+40:54 - Jim Huffman Yeah, I'm a little well, I also kind of like 1000 people. I have emails 1000 people about the book. And it's like, that that's the one where I'm like, huh, I thought that would have performed better. But I guess it has been six years. Um, since I published the book, so I was like, okay, that's interesting.
+
+41:14 - Unidentified Speaker Yeah.
+
+41:14 - Craig Swanson Also your open rates are probably worse than you even know it to be. So if you're getting like 11% open rate, I think anyone with a, with a, with an Apple account, it shows up as opening automatically because I think it just, it hurts my soul.
+
+41:29 - Multiple Speakers It was like going so well, I think I'm just going to like scrub the list.
+
+41:32 - Jim Huffman Because I'd rather have an 8,000 7,000 list where it's super engaged and I have real data But but we'll see I just it kills me that some of them are going to spam and whatnot. So we'll see But um, so I mean, but here's the thing like mm-hmm The thing that I'm thinking through is like, this aligns with my goal that I have a top funnel for growth hit. I mean, literally, if I close a client from this as the byproduct, it's kind of a fine investment for me.
+
+42:08 - Jim Huffman And this is me all being like self-serving. It's more so I wanted to be successful with us doing it together. And so I'm and I think it's we're both aligned. It's like, okay, this is a risk. Here's the things we want to do to try and push it forward. And then we can decide go no go at a certain phase. But I don't know. I mean, I'm, I'm still intrigued by understand it's it'll be harder than maybe I we initially thought.
+
+42:40 - Craig Swanson Yeah, I mean, I think it's a time thing. First of all, the big thing for me is I need it to be able to fail and not feel like I've let you down. So part of that is communicating expectations ahead of time. Because I try to protect myself by having like... I'm still deeply, deeply, my self-worth is deeply, deeply tied to my results.
+
+43:11 - Multiple Speakers And so you're only as good as your last result. Your last five bucks. Yeah. Yeah.
+
+43:19 - Craig Swanson I wish I weren't, but I am. And then also with you, there's this, one of the things that I feel a little bit safe is I feel like you, I feel like we're having a little more realistic conversation.
+
+43:37 - Jim Huffman Anyways, when I'm playing with people's hopes and dreams, it really hurts me if they miss. Yeah, and that's the thing like for me, this is kind of gravy if it works. And it's something I've wanted to do for a while to really test this.
+
+43:53 - Craig Swanson And I'm all about like finding right people to partner with to give it the right shot.
+
+43:57 - Jim Huffman I'm more so thinking of like, can I deliver on coming up with these offers and content to make the ads go and even do some things here on the non-paid side to try and push this out more. Like, well, what does that mean, right? Is it like doing a podcast tour, trying to do partnerships, trying to build my own following? So yeah, there's lots of thoughts there that I'm kind of thinking through.
+
+44:26 - Unidentified Speaker Yeah.
+
+44:28 - Craig Swanson The other thing is too, depending on time and everything else, if we get to a place where we could potentially deliver the course as a list building tool, and that ends up being more of a commitment on you, it's a greater weight on you than it is on me from a delivery standpoint. Yeah. It might be something that would be valuable. I think there is the possibility that we could find something.
+
+44:56 - Jim Huffman Basically, make this and then we can sell it.
+
+45:03 - Craig Swanson Basically, what it really would be is Usually there's a threshold. You have to get so many sales before we actually make it.
+
+45:11 - Multiple Speakers So basically say, we are going to deliver this.
+
+45:13 - Craig Swanson And so based on this one, two, three, four, so I would probably basically set a date in stone. It's going to be a six week course.
+
+45:21 - Jim Huffman Here's the dates.
+
+45:22 - Craig Swanson It's basically what we would have done if the survey had come back. So it's kind of the other way around, where basically we would set the dates, we would basically schedule it out, we would know that you're basically gonna deliver through a Zoom or some type of interface that content on those dates. And the twist would be that we are going to deliver that content regardless whether anyone shows up or not.
+
+45:50 - Jim Huffman Honestly, if that happens and it's like I have more content.
+
+45:53 - Multiple Speakers I have to make this anyway. I told people I would.
+
+45:59 - Jim Huffman I want to, honestly, just to put it out there. If anything, it would put a due date on that for me. We could go a couple paths. Let's sell this, saying that it's coming, that's one. And then also we could potentially decide what are some other things we want to test. Because I still like your example from Kaiser Fit, how like the just move product that you threw in at the last minute ended up being the one that really worked, right?
+
+46:24 - Jim Huffman There could be these other like individual frameworks or things that really do better, because that could be the experiment, right, is seeing which of these could get traction. And the exciting thing for me is I don't have to worry about inventory and fulfillment and returnable return rate, but it's like they're marginal costs. It's not like, oh crap, we just sent this shirt. It doesn't work. We have to like get charged back or whatever.
+
+46:49 - Multiple Speakers So that's great.
+
+46:51 - Craig Swanson So really, it comes down to whether there's utility in you creating it in yourself. And honestly, that's one of the things. So if you're gonna create this anyway, no matter what, and if you're comfortable signing up for delivery dates for these, and it didn't matter if anyone showed up. That lowers the risk involved. And then basically we can either we can march towards that and try to generate lists out of that or we can try to use the event.
+
+47:22 - Craig Swanson So one of the things you can do is we'd look at that, maybe it's a six week thing, but if it's a six week thing, It could be that you do a special version of your podcast, if you're willing to risk your podcast, where you basically are releasing, you know, hey, for the next six weeks, I'm either going to replace our podcast with like a one hour kind of conversation around the subject of each of these, including some clips from the course, or I'm going to include a 25 minute segment beginning or end or like something like this.
+
+47:56 - Multiple Speakers Yeah.
+
+47:58 - Craig Swanson And then it really comes down to, no, the podcast is not a money-generating thing for you right now. It's where the YouTube channel was. When they were pushing content that people weren't interested in, it was affecting their YouTube numbers.
+
+48:13 - Multiple Speakers So if your podcast listeners are used to X and you start giving them Y, Mm-hmm.
+
+48:20 - Jim Huffman It could be that that translates into something good or it could be that people start unsubscribing because they don't Yeah, I think there's some alignment I we could find a way to just shoehorn it in and it'd be fine if it's a full podcast Takeover or it's parts of it. So yeah, I'm not too worried about that I'm saying so I'm just thinking through like Yeah. So delivering it live to an audience of zero could be rough.
+
+48:44 - Jim Huffman Cause I mean, is there a way to not do a live where I could just deliver it and it's pre-recorded and people could do it or is live like a key component of it?
+
+48:53 - Craig Swanson Oh, um, you know what, what you do is you set the dates. Um, and, uh, by the way is, is, is pre-recorded easier for you?
+
+49:04 - Jim Huffman Um, I would probably think so just because I don't have to be tied to a specific time or date.
+
+49:12 - Unidentified Speaker Yeah.
+
+49:13 - Craig Swanson Yeah, we could absolutely. So basically you get to deliver anything you want.
+
+49:17 - Multiple Speakers So in the case of Sue, she pre-recorded all her stuff and then she was doing live coaching.
+
+49:24 - Craig Swanson I'll tell you what, the live coaching is so much better. Yeah, that's true. But, but I mean, we could, if people show up, then I'm down to do the coaching.
+
+49:34 - Jim Huffman If there's nobody there, it's like, can I just record all these and like we send them out. Exactly, just like release them.
+
+49:39 - Multiple Speakers Yeah, yeah, exactly.
+
+49:41 - Craig Swanson So the other thing is, the other thing is, because I'm also a member of EO Learning Chair and all that, regardless of all that, so I'm kind of like switching my hat over to EO a little bit. It's a little bit self-serving, but I was there already. If I could book you, if I could basically book a version of this content in a half day, in basically a three-hour workshop. Totally.
+
+50:05 - Jim Huffman And I don't know what month it would be, but it'd be before December. So basically, I'd put you in the first half of the year. So basically, I would, yeah. Awesome, like EOS for marketing for business owners.
+
+50:13 - Craig Swanson Exactly. And it can be, and that is also a great test run for it. It also would give us a video that we could cut into things. So it would be a benefit to, it would let me serve my role as EOLearner. Yeah, yeah. If it turns up by the time we get there, this, like this partnership isn't really turning into something that I feel like it's got legs, like it's still serving EO. I really genuinely feel like you can deliver it.
+
+50:39 - Craig Swanson I didn't actually quite understand the way the 13 frameworks tie into the EOS understanding. This is something you could Socratically talk out with a little bit of pressure in front of an audience pretty easily.
+
+50:53 - Unidentified Speaker Yeah.
+
+50:54 - Jim Huffman Yeah. Actually, that's a good point.
+
+50:55 - Multiple Speakers If I'm, if I'm saying, Oh, this also integrates with the iOS, I calling that, that can be an interesting slope.
+
+51:02 - Jim Huffman Yeah. That's, um, it's a very good call. I kind of drive it home with that.
+
+51:08 - Craig Swanson I mean, cause the, cause the 13 frameworks are like the underpinning of this iOS type thing.
+
+51:14 - Jim Huffman Yeah.
+
+51:15 - Craig Swanson Um, Yeah, so actually, I'm trying to lock down my EO schedule here, but I would like to basically lock you in. I don't know what month it'll be, but it's going to be between July and December. I mean, I know it's not going to be December.
+
+51:37 - Jim Huffman If it were July, is that too soon? It's a good forcing function. Maybe I can make that work. I would just want to know tomorrow if it's July. But I will say I'm down to do it sooner than later so we could get the material to leverage for ads. So I'm open, maybe late July. Let me take a look here.
+
+52:05 - Craig Swanson I'm actually going to pull up my calendar here. It's not a calendar, it's a spreadsheet.
+
+52:19 - Unidentified Speaker Okay, so let me give you a couple dates. Let me give you a couple dates.
+
+52:25 - Craig Swanson If it were July, it would either be July 17th or 18th.
+
+52:36 - Jim Huffman I'm thinking about switching over to Thursday. So let's just say, is July 17th or 18th available for you? Um, it sure is. Oh, wait. Um, yes, I have a concert on the 17th at night. So yeah, I'm good.
+
+53:01 - Unidentified Speaker Yeah.
+
+53:02 - Craig Swanson And so this would probably be like one o'clock to four o'clock. Okay.
+
+53:07 - Jim Huffman Yeah. Um, yeah. So July would work.
+
+53:13 - Craig Swanson Um, would I put July here? Uh, Jim would August 21st work or 22nd?
+
+53:29 - Jim Huffman Yes. Both of those also work.
+
+53:33 - Craig Swanson I'm pretty sure September. I've got someone booked.
+
+53:36 - Unidentified Speaker And so the next one will be October. And I think October starts to get far enough away. You'd rather do it earlier.
+
+53:41 - Jim Huffman I agree. I'd rather do July or August than October.
+
+53:47 - Unidentified Speaker What do you think would have better attendance, August or October?
+
+53:52 - Craig Swanson Experienced experienced Instructors know basically anybody that that cares about the size of the audience and has enough experience Pushes to not want to do it until September just because like July and August tend to have the summer fighting against
+
+54:07 - Multiple Speakers them Which also by the way is one of the reason why September's not an option because I've already had like the one kind of like one of my lynchpin ones is already kind of like claimed September as the one
+
+54:19 - Jim Huffman that she wants. Yeah Oh man, that's a very good point. Cause yeah, I, I almost feel like August is the worst and July is the second worst out of all the months. Cause people are traveling and doing things in October. What would be the date for October?
+
+54:37 - Craig Swanson Um, actually October, we're not even doing it. So October is when our chapter retreat, the chapter retreat is happening in October. And so the date we'd normally do it is taken up by the chapter retreat. Okay.
+
+54:50 - Jim Huffman All right, and what do you think is better, July or August? I mean, I could try and make July work.
+
+54:56 - Craig Swanson Well, let me ask you, if it is, so let's say it is a small core group. Let's say it's 10 people. How does that feel? That's fine.
+
+55:08 - Jim Huffman It'll be more interactive and collaborative, which sometimes those, those are fine. Um, so actually sometimes I want bigger just from an exposure standpoint, but I want bigger too.
+
+55:21 - Craig Swanson I'm just like, I'm, I'm yeah.
+
+55:25 - Jim Huffman Cause I, I did quite a bit with a and a, like I'm flying to Orlando to do a thing for Marriott. I'm doing some for Exxon and like, yeah, some, it'll be like seven people and some it'll be like, 60 people and I usually get more fired up for the big ones. But yeah, but more intimate ones It's like I'm like this isn't a talk.
+
+55:45 - Multiple Speakers This is a conversation and it's a working session So so so with EOS, I'll send you the video for you.
+
+55:51 - Jim Huffman So we just did EOS EOS, I think there were about 20 people there. Yeah, and And he ended up putting them in pods of four and so I kind of like there are pods of four and like people did work on stuff like together.
+
+56:05 - Craig Swanson Yeah, it's kind of cool.
+
+56:06 - Jim Huffman Yeah, yeah. The other question I'd be thinking is like how interactive do I want it? Like how much is it me talking? How much is it the workshop and what I want them to be working on? I'd love to test it on I could probably try to hit up some groups to test it before EO. I'd love to test it on a group before EO.
+
+56:30 - Craig Swanson Let me look at June, let me look at July. So July, originally I was potentially gonna let July just not be scheduled. So I was potentially gonna not push something into July. And I've been debating that. So the one thing also, And you could use this locally. I don't know that you really care about local groups. But I'm also opening these up to non-members for Yale. So basically, we can actually promote.
+
+56:56 - Craig Swanson So I want to turn these monthly events into recruiting opportunities.
+
+57:00 - Jim Huffman Oh, that's a great idea. Yeah. And that could be great, because then if the goal is like selfishly getting a bigger audience, that's huge. Yeah.
+
+57:11 - Craig Swanson You know what? Let's do that. So July 17th. Wait a second. Wait a second.
+
+57:23 - Unidentified Speaker No, no. July 17th is my 30th anniversary.
+
+57:32 - Multiple Speakers You're almost in big trouble. Wow, that date sounds very familiar to me.
+
+57:40 - Craig Swanson All right. Let me, uh, let, let me, let me look at my calendar and like, get back to you.
+
+57:45 - Jim Huffman Yeah. There's like a week I'm gone in July, but it's like the early part of July. I think a lot, but it might also be, I'm actually thinking it might be August.
+
+57:52 - Craig Swanson So I originally had Shannon Swift potentially in August, but I, but she doesn't know that.
+
+57:57 - Jim Huffman And so, um, so I actually think August might be good. Cause I actually think the things, things start to spin up.
+
+58:02 - Craig Swanson You said August is like worst in July, a second worst. I actually think it's the other way around for me.
+
+58:06 - Jim Huffman Oh, cool. Let's do August gives you more time and I can write on another group, which would be awesome. Yeah.
+
+58:12 - Craig Swanson Yeah.
+
+58:13 - Jim Huffman And I would go to that Thursday over the Wednesday, unless you think Thursday or Wednesdays are better.
+
+58:18 - Craig Swanson Do you, in general, you have any sense of like what would work better from like for an afternoon, Wednesday afternoon or Thursday afternoon in general for EO members to take education?
+
+58:32 - Jim Huffman Man, I don't know. I don't know. I usually think the week gets a little bit easier towards the end and maybe- I originally wanted to do Thursdays and I got moved because Thursday wasn't available in my Northern Trust.
+
+58:44 - Craig Swanson I'm going to try to push these into Thursdays and I'm going to try to not have lunch because I don't think people care about the lunch part. So I'm going to go from like one to four as a rule. That'd be awesome. I'm going to pencil that in. You bought me a little more time.
+
+58:58 - Jim Huffman Thank you. Okay, so I have to jump here a couple of minutes. What are the action steps that we're thinking through? For me, it's like work on the content and the course, but also what are your thoughts on me focusing on potential offers at different price points to maybe pitch back to you if that's what we'd want to stand up?
+
+59:28 - Craig Swanson I think, think about what you'd offer in terms of the price point. If we could stand up a page, and I probably, do you love Gumroad or is it just Gumroad is just convenient?
+
+59:44 - Jim Huffman I do not love Gumroad. Their fees are too high. I'm totally down to switch to anything.
+
+59:51 - Craig Swanson So I think that where our next stage would be would be for us to get to a place. So I've actually been holding off on having us put money into the account. So as long as $5,000, I still think I'd probably put $5,000 for each of us in and then just kind of like, That's also a really great threshold. By the way, here's another threshold. If we use up all $10,000 and we don't see a path, that's also a really clear breaking point where basically, okay.
+
+1:00:21 - Multiple Speakers It's just money.
+
+1:00:21 - Jim Huffman Like, okay, do we want to dip our hands back into our pockets or like, hey, let's reassess?
+
+1:00:27 - Unidentified Speaker Yeah.
+
+1:00:28 - Craig Swanson Yeah. Um, and I didn't want to take any money from you until like, you know, we were like, cause the survey didn't cost anything. So basically like, like, yeah, let's find out where we are first.
+
+1:00:39 - Multiple Speakers Um, and that's where I'm thinking like, where are we putting the, the 5k a piece?
+
+1:00:44 - Jim Huffman Cause then it's like heavy on ad spend. Right.
+
+1:00:48 - Multiple Speakers Is it a lot of creative.
+
+1:00:51 - Craig Swanson It's probably going to be like a couple hundred dollars a month for a Klaviyo account.
+
+1:00:57 - Unidentified Speaker Yeah.
+
+1:01:00 - Craig Swanson Let's say a thousand dollars, give or take to spin up a offer page, you know, whether, whether that's creative, technical, like, like I, I'm not saying where the, and then. Once we've got an offer page, really, then we start doing, we start using it on ads, basically. I mean, because I don't think, I think that the path we're gonna go is we're gonna see, hey, can we get this unpaid?
+
+1:01:26 - Jim Huffman Yes, yeah, yeah. That's the main thing. And then I'll do whatever I can to try and lift it as it aligns with some of the stuff we're trying to do, but primarily paid ads.
+
+1:01:37 - Craig Swanson And then are you doing paid ads on Facebook and Instagram for GrowthHead?
+
+1:01:41 - Jim Huffman We're doing very light retargeting, like $10 a day. And we spend about $7,000-$8,000 a month on Google Ads. We got our cost per lead under $250 right now. And so that's going really well. There is a world of Google Ads, but it's not cheap. We just would have to find the space.
+
+1:02:02 - Craig Swanson Maybe what we end up doing is we get to a place where we can run some initial testing. I prefer testing on Instagram and Facebook because you can target people.
+
+1:02:14 - Unidentified Speaker Totally.
+
+1:02:15 - Jim Huffman Yeah. And I think with some of these impulse purchases, it'd be better. Okay.
+
+1:02:18 - Multiple Speakers I have to go jump to this.
+
+1:02:20 - Jim Huffman So my action items, let me think through some of those offers to come back with what those could be.
+
+1:02:26 - Multiple Speakers And then we can chat again about, okay, when we'd want to think about going live with that.
+
+1:02:30 - Jim Huffman And also just build the course in the meantime.
+
+1:02:33 - Craig Swanson Absolutely, and we're going to use August 22nd probably. I'm going to put you in for August. So that means you're going to be the August lead, which also means when we do our kickoff for EO, we're going to have your face right up there.
+
+1:02:48 - Multiple Speakers Oh, right, and there we go, a little promotion, yeah.
+
+1:02:50 - Craig Swanson Because basically, I want to have kickoff basically say, this year, your peers are basically teaching all sorts of things and Jim Huffman is teaching this and you know. Yeah, okay, that's awesome. I want to give you the script for that. Okay, cool. Well, I'm excited, man.
+
+1:03:05 - Jim Huffman All right, well, more to come. Good to catch up with you, Craig.

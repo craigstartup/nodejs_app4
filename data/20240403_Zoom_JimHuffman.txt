@@ -1,0 +1,742 @@
+GMOS World Domination Kick-Off Call 
+Wed. Apr 3, 2024
+
+3:41 - Craig Swanson There we go. I had to acknowledge that it's being recorded.
+
+3:44 - Unidentified Speaker Yeah.
+
+3:47 - Jim Huffman For the rest of our life, everything is recorded.
+
+3:49 - Craig Swanson It is too valuable not to be.
+
+3:52 - Unidentified Speaker Right?
+
+3:53 - Jim Huffman Yeah.
+
+3:55 - Multiple Speakers Well, even after what you said around, it's the data set you could use to train other things.
+
+4:01 - Craig Swanson No. Well, I'm going to add my, do you use read IO? What do you use?
+
+4:07 - Unidentified Speaker Yeah.
+
+4:08 - Jim Huffman that you read AI because you, I think you told Adam Weiler who told me.
+
+4:13 - Craig Swanson Yeah, there we go. So I don't know if you need to approve it, but there we go. I'm in now. So, so mine is in there too. No, Jim.
+
+4:21 - Jim Huffman Awesome. I need to figure out how to do that. I think it's very simple. It's just, you like do the apps.
+
+4:28 - Craig Swanson What is that?
+
+4:30 - Jim Huffman Well, how did you, did you go into your apps and then?
+
+4:33 - Multiple Speakers Oh yeah, I went into apps, Read.io was in the app and I had to paste in the meeting ID.
+
+4:40 - Craig Swanson And then once I did that, I applied it. Sometimes you have to prove it, sometimes you don't. If you've already got Read.io, it's like literally it just knows that like, it's just gonna send it to both of us.
+
+4:51 - Jim Huffman yeah awesome well dude I'm really fired up to do something uh with this I actually think I was thinking about I think this is a good this is the right move so I'm pretty fired up I think this could
+
+5:09 - Craig Swanson be big. It is already passing the shower test for me, which is, it sounds dirty, it's not intended to be dirty. There is a portion of my, not a portion, there's a majority of my creative mind that I don't get to direct. I just get to influence and wish it would go focus on things. So this is basically starting to dominate my cycles that I'm not actively putting onto something else.
+
+5:36 - Jim Huffman Mm-hmm. Mm-hmm. No, same here. It's fine. Cause like, I'm sure you and I both have a bazillion things going on where you can pick and choose, but no, this one I'm pretty, I'm pretty fired up about just cause I think it needs to exist like some sort of capacity. Well, we'll see how big it could be, but I think it could, it could be impactful. Cause it's funny even today. Here's the, here's a funny tidbit.
+
+5:59 - Multiple Speakers I have this book traction strategically placed right here for a reason.
+
+6:05 - Jim Huffman When I'm on a call with the lead and they're like, Oh, do you do EOS? I'm like, Oh yeah. We talked about it for five minutes and it's like, I'm qualified in their minds. Like I'm a part of the EOS cult and all of them are like, yeah, it's great except for marketing.
+
+6:21 - Craig Swanson I mean, this could be big. So I did, try to thought, I, you know what, have I ever given you the, so have I done the, that framework that I talked about, the Atlas? No, tell me, I'm curious, yeah.
+
+6:45 - Multiple Speakers Okay.
+
+6:46 - Craig Swanson So this is how I position educational stuff, or basically what job is education serving. So there are some instructors that basically want to, and to some degree, I think your first book was a little bit like this. And I definitely know that scaling up is like this. It is a survey of the overall topic. It's like an atlas. An atlas is basically for whatever geographical range the atlas is going to be about, it covers everything.
+
+7:23 - Craig Swanson It doesn't really tell you what to do, doesn't really give you any directions, but basically it just says, here's everything. In a lot of ways, it's like a library of information. Libraries of information can be incredibly valuable. But you kind of have to figure out why you want that library and what you got to do with it.
+
+7:42 - Jim Huffman Then the next step down is a map.
+
+7:44 - Craig Swanson An atlas is basically a book filled with maps of various details.
+
+7:49 - Multiple Speakers A map generally is my area. At least now we're constrained.
+
+7:58 - Craig Swanson If I'm trying to solve a problem in my life that's geographical, I could start with an atlas to see maybe what country I want to start in or what city I want to start in, but eventually I get to a map of my region to figure out something.
+
+8:10 - Unidentified Speaker Yeah.
+
+8:11 - Craig Swanson Then we don't do this that much anymore, but then there's directions. There's basically point-to-point directions.
+
+8:20 - Jim Huffman There's two types of point-to-point directions.
+
+8:22 - Multiple Speakers There's the type that we used to do, which is you'd get to MapQuest, you'd say, here's my address, here's the address I want to go to.
+
+8:30 - Jim Huffman Print it out.
+
+8:31 - Multiple Speakers Print it out and I'm just driving around and just hope that nothing changed between the time I printed it and where I'm going.
+
+8:39 - Craig Swanson Um, um, so that's point to point where I basically say, I want to start here, go there. Or there's more generic where it's the type of like wayfinding stuff that you see, like that we used to do. Um, assuming that I'm coming from like I five North, here's how you get to my place. My five North is me. You're coming from I five South. Here's how you get to my place.
+
+8:57 - Unidentified Speaker Yeah.
+
+8:58 - Jim Huffman So the next step is GPS.
+
+9:00 - Craig Swanson The next step is GPS, where I am being informed where I'm going, like where I'm at at a particular moment, where I've got this target, and it can also even do some adjusting as things come up. Now, all these are different, so from an educational standpoint, it's really like the selling like an Atlas topic is like, you're just kind of like doing the kind of this dry, like you're just basically selling a bunch of information.
+
+9:26 - Multiple Speakers This is marketing. Yeah. Exactly. Exactly.
+
+9:29 - Craig Swanson This is marketing 102 and of 103 like all together. Um, so in marketing, marketing, this is the map is more, this is marketing for Shopify, or this is marketing for SAS. Um, the point to point is this is, uh, this is a launch strategy, like Jeff Walker's launch strategy for launching something. Um, GPS would be, GPS in the old analogy was, that's where I kind of hire a consultant or I'm using some type of SaaS system that is updating with whatever's going on.
+
+10:06 - Craig Swanson So rather than giving a generic series, it actually responds to what is happening in my company. In EOS, it's a little bit like hiring an implementer. Then the next step is, if I'm using the analogy of transportation, Uber. So rather than GPS, which is me having my own car and driving from point to point, I just want to get from point to point, so I'm going to go get an Uber. So is an Uber, I guess an Uber is maybe like an implementer, it's like someone else coming and doing it.
+
+10:41 - Craig Swanson But even then, the implementer is kind of teaching me along the same way, so it's kind of like a little bit fuzzy. Yeah, um and then like the final step is uber eats, you know, I don't really want to get in the car I don't really want to drive from here I just want food like this like this whole the reason I picked up the atlas just figure I'm gonna get dinner tonight Eventually, it's like do point-to-point eventually like I just want someone to just bring me what I want.
+
+11:03 - Jim Huffman I Yeah, wait, so what's that is that like done for you agency buying like what's that exactly?
+
+11:10 - Craig Swanson So like like done for you it so that was so uber eats like maybe I find something upscale but basically like it is you doing the work for them.
+
+11:19 - Multiple Speakers Another thing you think is- You take that into some sort of a diagram. That has a cool component to it.
+
+11:26 - Craig Swanson Yeah. I used food as an example. We could also have talked about home repair or something like that.
+
+11:31 - Unidentified Speaker Yeah.
+
+11:32 - Multiple Speakers Starting off with this, and really what I want is I want a contractor to just come out and just build my thing or bookkeeping. I don't really want to learn bookkeeping. I just want my bookkeeping problem solved.
+
+11:43 - Jim Huffman Yes, yeah, yeah, yeah.
+
+11:45 - Craig Swanson And a lot of bookkeepers or a lot of accountants, at least they used to, I don't know if they still do it, they get a lot like, I had a lot of, I knew accountants that would teach at the local community college because people who signed up for accounting class at the community college for like adults coming in and like that's the only class they're taking, they don't want to learn accounting, they want to solve an accounting problem.
+
+12:09 - Craig Swanson Yeah, they just had, oh yeah.
+
+12:11 - Jim Huffman I mean, it's like, I would teach digital marketing in New York at General Assembly, and half the time after the class, I'd come up to him and be like, will you just do it for me? It's like, this sounds exhausting.
+
+12:20 - Unidentified Speaker Exactly.
+
+12:22 - Craig Swanson So by the way, I think, so along that line, that's one of the reasons why I think growth hit. Could potentially be really served by this. Because I think that the more you do this at large scale, you will want people to just have you solve the problem.
+
+12:35 - Jim Huffman And really, it just comes down to if they can afford it.
+
+12:37 - Craig Swanson The thing that occurred to me with AI, because I'm seeing this happen. And actually, it may be why I'm really re-engaged in education. I think AI turns education into solve it for me. At least it turns it into Uber. Right? Oh, interesting.
+
+12:58 - Jim Huffman Cause it's like, wait, expand on that. So I take the class and I was like, I kind of know, but now I can, the next step is AI to execute it for me.
+
+13:07 - Craig Swanson This is me jumping. This was me jumping several pieces again, but like, I'm kind of envisioning creating for each one of your modules, things you're teaching. If we could build an AI helper for each one of those things. It is like a stealth, we're basically creating a stealth SaaS system. We're basically creating a stealth agency where what we're doing is we are taking your expertise, inserting it into the system, and as AI gets better, and as our tool gets better, slowly it shifts from you teaching to the system just doing more and more of this for them.
+
+13:46 - Unidentified Speaker Yeah.
+
+13:48 - Jim Huffman You know what? And like one thing I was that I'll do this as an exercise, but like for everything in the framework, like if this is the master framework, I almost want to like list out the accompanying, um, and actually there's a unit economics model here too. Um, I want to put like the attached AI tool or growth hit service, because honestly, I think the big thing is like there's an implementer service component to it.
+
+14:16 - Jim Huffman Honestly, these playbooks are probably the core growth hit stuff.
+
+14:23 - Craig Swanson The rest of these really lend itself to AI.
+
+14:26 - Jim Huffman But anyway, I'm jumping very deep right now, but that could be an action item I take where I think through, and I think you'll have some good ideas too as you get it, but if I take that first crack so you actually know the frameworks and what I'm talking about, you'll be able to expand on it.
+
+14:42 - Craig Swanson By the way, go back to that for a second. Go back to that for a second.
+
+14:45 - Jim Huffman Okay, where is it going?
+
+14:46 - Craig Swanson So this is not something I would sell, but I want to, I, Craig, one of the things that I'm really interested in, because you've seen I've started to build out some of these, and you remember that time you sent me all your frameworks?
+
+14:57 - Jim Huffman You know what?
+
+14:58 - Craig Swanson I just realized my green screen is on, so it's catching weird reflections on me of the blue sky.
+
+15:06 - Jim Huffman Your window was blue in the background. I meant to say, did you have a billboard going? But yeah, it's very cool. All right, there we go.
+
+15:16 - Craig Swanson Fill the blue screen. So just like when you sent me all your frameworks, do you still remember that the relay forward slash growth hit, you know, like the growth hit frameworks I put together?
+
+15:32 - Jim Huffman Wait a minute, why am I, relay?
+
+15:34 - Craig Swanson I meant to say review pulse.
+
+15:40 - Jim Huffman Oh, yeah, yeah. Oh, yes, absolutely. Yeah, those are awesome.
+
+15:43 - Craig Swanson Yeah, yeah. So there's a part of me that wants to see if I could follow what you're doing, and effectively, how much could we build in these type of frameworks into AI? Because I think there's this chance that basically we could slowly over time replace your instruction with smart tools that understand your instruction.
+
+16:08 - Jim Huffman Yeah, yeah.
+
+16:09 - Craig Swanson And then in this world, in this world, you said like strategy, the offer-led growth, all this, the process, like there are things that you could then do from a consulting standpoint. Like you basically say AI is really good at executing this. Like when it comes down to the Facebook ads, we've got this AI tool that's gonna be really kick-ass for you to do your Facebook ads.
+
+16:30 - Multiple Speakers You're gonna input your customer feedback, you're gonna use the data and research that we're creating, and you're gonna feed that into the AI tool, you're gonna get these results.
+
+16:39 - Craig Swanson Yeah. The most important thing is this North Star strategy stuff you're doing. And for that, we've got some AI tools to help facilitate that. They're not as good yet. Eventually they're coming, but they're not there yet. And that's also where you could also say, but the one choice you can have, just to be aware, you could book a $3,000 one-on-one session with our create, with our, with our strategy team, because the strategy is what is valuable.
+
+17:07 - Multiple Speakers The execution of like all, like your growth hit is growth. It's future is not writing Facebook ads.
+
+17:14 - Craig Swanson Right. Yeah, absolutely.
+
+17:16 - Jim Huffman Yeah. It's like strategy over execution.
+
+17:18 - Craig Swanson And Facebook is going to like, eventually you're just going to like point Facebook at the webpage and it's going to do a passable job.
+
+17:25 - Multiple Speakers Right.
+
+17:25 - Unidentified Speaker Everything.
+
+17:26 - Jim Huffman Yeah. No, totally. And like the mistake I made with my first book, it was really because I was teaching like for however many years.
+
+17:35 - Multiple Speakers And I had all these slides. I was like, I don't want these to die in a Google Drive. Let me make the byproduct of the book. So it's like marketing 101.
+
+17:44 - Jim Huffman And what I did wrong was I didn't have IP. I didn't have a natural funnel to growth it. I mean, it indirectly did, but it wasn't like, here's the program, go to growth head to buy it. And I think with this, I want to do the opposite. It's like starting with that end goal in mind. Of like, this is the process, this is the system we use, you do it yourself or come to us, we do it, our implementers do it.
+
+18:06 - Jim Huffman So yeah, that was a mistake.
+
+18:09 - Craig Swanson And that's not a mistake, it's just it was a step. Yeah, absolutely. So EOS would not exist without scaling up. I don't know, have you ever read Scaling Up?
+
+18:23 - Jim Huffman I have, and we almost implemented it and then we did EOS just because it was simpler and easier buy-in.
+
+18:28 - Craig Swanson Would you even know how to implement scaling up? I mean, it's a whole bunch of tools, but there's no path to those tools that's very coherent.
+
+18:35 - Jim Huffman That's a really good point. That's the missing part. It's like, okay, what's day one? Where do we go?
+
+18:42 - Craig Swanson It's really hard for me to understand if I'm implementing scaling up, because there is no start, there is no end, there is no path. It is a bunch of tools. It is like, maybe I could convert to scaling up, I could believe in scaling up as a religion, but I would have a hard time implementing scaling up as a process.
+
+19:01 - Jim Huffman Yeah, and I think you're hitting on a good point, making the step-by-step program of day one, day two, because this is totally ripped from EOS. You've seen the EOS chart.
+
+19:14 - Unidentified Speaker Yeah.
+
+19:17 - Jim Huffman Where is it? This one.
+
+19:21 - Craig Swanson Yeah.
+
+19:22 - Jim Huffman That's essentially the inspiration, right, is this guy.
+
+19:30 - Craig Swanson Yeah. And the thing is, go back to that for a moment. Go back for that for a moment. There is a world in which, so first of all, we're probably going to do a six week, we're probably going to do this thing where you're teaching the concept. But there's a world in which, and I would have signed up for it. Right now, I, Craig, don't think there's a place I can sign up for an online program that will walk me through the EOS process as an education system in exactly those mechanisms.
+
+19:58 - Jim Huffman Oh, yeah.
+
+20:01 - Craig Swanson But if we could do that here, we basically like you scaled everything out and then basically like day one is this. And then we've got a bunch of educational resources and then day, you know, like next step is right here and along the way you've got education, you've got AI and then you've got implementers that could potentially step in and take over if necessary.
+
+20:20 - Jim Huffman Yeah, yeah, yeah. That's where it gets really interesting. No, we're very much aligned there. That can be cool. I think the AI components are really exciting as well.
+
+20:34 - Unidentified Speaker Could we go through this list?
+
+20:35 - Craig Swanson I mean, first of all, did this list anything in here you disagree with in terms of priority? Honestly, if we have these three things, that's a lot of what I see needed.
+
+20:49 - Jim Huffman Yeah, go for it.
+
+20:53 - Craig Swanson So workshop names right now. You're using.
+
+20:58 - Multiple Speakers GWS growth market GMOS GM, which is which is a mouthful, right? The growth marketing operating system. So yeah, that's yeah, and there's no ego with name.
+
+21:13 - Jim Huffman I do. I do like operating system.
+
+21:16 - Craig Swanson I like system, but again, open conversation.
+
+21:20 - Multiple Speakers Yeah.
+
+21:24 - Unidentified Speaker We are going to need a web page. We're going to need something. I was playing with different growth.
+
+21:27 - Craig Swanson I was going to ask you, is growth the keyword? If you were going to create a heat map of words, is growth the keyword? Is marketing, is this a revenue generating system?
+
+21:43 - Jim Huffman I do think more like, You could say marketing operating system, to be honest. I put growth, because like, growth hit, growth hacker, it's all aligned with that. So, but it is definitely market. I get nervous with saying revenue or profit, only because that might imply there are things around operations, or a sales team, or things like that, because this is pretty heavily focused on marketing. We can make a case where we need to add sales and I actually do have some thoughts on where that can live within this but again that would also be.
+
+22:26 - Jim Huffman Maybe more of a B2B model than a B2C model. So those are some thoughts on what's the anchor word there.
+
+22:36 - Craig Swanson What is growth? So the difference is some of this is growth. So is it a lead generating system? I mean, I think growth is the right word. I'm just trying to understand what is the output from the growth marketing system. Yeah.
+
+22:57 - Jim Huffman So let's even put down what I said. I'm trying to think how I say this and distill it in a simple way. You are a chicken with your head cut off as a founder trying to run a marketing team and you're throwing stuff against the wall. You then learn about this system for how to run a marketing team. And on the other side of it, you're like, oh my gosh, I have a goal and we're doing steps to move towards that goal.
+
+23:30 - Jim Huffman I'm tracking it. I'm holding my team accountable. I'm being very efficient with my resources. So you're getting the tools and the skills to run a marketing team with your lean resources that gets results.
+
+23:48 - Multiple Speakers And the results are a little bit open-ended because different companies have different results that they're shooting for?
+
+23:54 - Jim Huffman Yeah, well, that's a good question that we could talk about because do we make this open-ended to all growth teams? Or are we like, hey, this is just for consumer companies, e-commerce companies, Shopify companies.
+
+24:07 - Craig Swanson If so, there's very specific language we should use. Does the framework change in your mind?
+
+24:17 - Jim Huffman Not significantly, but there's little parts of it where I would tweak it. I love that.
+
+24:23 - Craig Swanson Do you know very much about the e-myth? First of all, tell me what you know about the e-myth.
+
+24:33 - Jim Huffman I feel like it's a godfather to four-hour work week and building a scalable online business.
+
+24:44 - Craig Swanson Go to Amazon. And this will be interesting because you're driving. So we'll see if this does. And just do a search for E-Myth. Actually, we'll scroll through. Did you see? We'll scroll through. But I'm looking for the E-Myth contractor. Let's keep going. So E-Myth contractor. Keep going. Keep going. Keep going, keep going. So we got E-Myth, the E-Myth real estate investor.
+
+25:20 - Jim Huffman Wow. E-Myth attorney. Oh, wow. So like growth marketing, everybody says some, for e-commerce, for B2B, for SaaS. Oh, interesting.
+
+25:29 - Craig Swanson Do you know what the difference is? Do you know, do you know, basically we get the growth, we get the growth marketing OS for dentists. You know how you get that?
+
+25:40 - Jim Huffman How?
+
+25:41 - Craig Swanson You put all bunch of dentists into the room and teach the same course.
+
+25:50 - Multiple Speakers And you have, and you adopt the language that dentists care about. But that's basically it. Oh, wow.
+
+26:00 - Jim Huffman Okay. Look at, man, that's so, that's fascinating.
+
+26:03 - Craig Swanson So, because, because I, cause I've actually, I've studied this company a lot. Like, and then this is old news. Like if you look at these, these are like these, these publishing dates, but this is, this is their marketing funnel. This is like, they started off by having this massive email marketing funnel. And then they have basically. The same book repeated over and over again with slightly different areas.
+
+26:23 - Craig Swanson And what they have is they have one champion that basically applied the system in their company or one champion, like, you know, the contractor. So it's basically a co-written book with someone from that industry and from the e-myth.
+
+26:35 - Jim Huffman Oh man, I love that. That's super exciting because it really is just like the final piece where it's like the language you use and like with e-commerce consumer, we lean one way. If it's B2B and involves sales, we can lean a little the other way.
+
+26:52 - Craig Swanson And the difference when you teach a class for a specific market, the more niche it is. So that's what's really incredible with online education like this, is we can create niche with general. So basically, you have a general model for marketing.
+
+27:10 - Jim Huffman And you can only charge so much for general models of marketing.
+
+27:14 - Craig Swanson And then you can take that exact model you can put your target audience into a room, teach it to that target audience and make sure you're using their language and their examples and you can charge 4x to 5x to 10x. Yeah. Oh man, I love that.
+
+27:30 - Jim Huffman That's, that could be the second and third one that we do, right?
+
+27:35 - Multiple Speakers It's like see where the traction is. Is it more B2B or consumer?
+
+27:39 - Jim Huffman Um, very cool. Or it could be real estate or dentist.
+
+27:44 - Craig Swanson Yeah. By the way, you're the first one that immediately got where I was going with this, because this is a scenario I've been like explaining to people, like sharing with people for years. Here's the analogy in photography, because I mean, I sold so much online stuff. So first of all, we had a course called Yoga for Photographers. You know what Yoga for Photographers is? Yoga, it's yoga with people talking about how their back aches after doing wedding photography or like different things like that.
+
+28:21 - Craig Swanson We could teach the very best posing course in the world and if the model was not wearing a veil, wedding photographers would not understand that it was for them. Yeah.
+
+28:36 - Unidentified Speaker Jeez.
+
+28:41 - Jim Huffman No, I mean, I think that's potentially the roadmap if we prove this first one, which, which could be a really fun experiment to go down. Exactly.
+
+28:49 - Craig Swanson So we can be generic to begin with, but also then like that's effectively like, like, and also almost like lets you create like, and then you can partner up with like influencers in different areas, like effectively, like, you know, we, we sell a million dollars of this generic, but then like, we could go sell a million dollars in this one niche and then a million dollars in this next niche. And like, it's just a matter of who we partner with.
+
+29:10 - Jim Huffman It would be amazing if we can get some initial traction and then do those segments with a partner that brings their audience. That could be huge.
+
+29:19 - Craig Swanson Yeah, I mean can you imagine I mean it would be this a little bit too big but like you could certainly do EO is a little bit too non-specific, but you could do potentially like you could potentially do a Y Combinator Growth marketing program, which is just like you just put a bunch of Y Combinators into the room like you you've already kind of done that But you can also do SAS you can do Shopify we could do All right.
+
+29:53 - Craig Swanson So we do need to like get the name down in the domain.
+
+29:57 - Jim Huffman I've been looking at GMO.
+
+29:59 - Craig Swanson So GMOS is available for $27,000. I think, I think that's the price.
+
+30:03 - Unidentified Speaker Yeah.
+
+30:04 - Jim Huffman Do we worry? Well, I guess EOS is, do they have EOS.com I assume?
+
+30:12 - Craig Swanson Nope.
+
+30:15 - Jim Huffman Cause yeah, growth market operating system. That's a long URL. It could be growth marketing OS.
+
+30:22 - Craig Swanson There's some people that are in this space. I think growth OS is already taken. And we also can change this a dozen times. We basically need to get the best name that we can for what it is. And hold that loosely and allow it to evolve.
+
+30:42 - Jim Huffman Okay, yeah.
+
+30:46 - Craig Swanson So let's assume that we've got that, like we don't have it now. So the next thing we need is like a public launch date. Do you have any sense of like, if we were going to just like, are we at a place we could talk about a date that we'd want to limit this?
+
+31:04 - Multiple Speakers Yes, I like forcing functions.
+
+31:07 - Jim Huffman I think I need to know, so am I teaching this in one shot or is it like I have six, like one hour live events I do at six weeks back to back?
+
+31:19 - Craig Swanson Talk to me about, Let me give you the generic way to do this, and we'll see if the generic is a perfect fit, or we can change it.
+
+31:27 - Jim Huffman OK. Yeah. OK.
+
+31:29 - Craig Swanson So I'm going to say the generic way to do this is six weeks. It could be four. It could be eight. But I'm going to say six weeks.
+
+31:37 - Jim Huffman It could be five, too.
+
+31:41 - Craig Swanson An hour to 90 minutes to two hours. So yeah, 60 to 120 minutes.
+
+31:53 - Jim Huffman And so of those sessions, how interactive are they versus how much is it teaching?
+
+32:01 - Craig Swanson Generally, it's going to be like, so if we stay with like, it's generally you teaching for a dedicated period of time and then segueing into Q&A.
+
+32:13 - Jim Huffman Cool, like what, yeah, I'd love to see Sue's framework, because yeah, we, with like Techstars, it'll be like 70 to 80% talking, the rest Q&A, ANA, maybe similar. We have like breakouts that we do, but okay, that's helpful.
+
+32:31 - Craig Swanson So when you do it at Techstars, do you basically teach for 45 minutes to 60 minutes with like a keynote, and then you go to Q&A, or is it Socratic all the way through?
+
+32:43 - Jim Huffman Yeah, I teach and then leave the last 15, 20 minutes for Q and A And I will let people like interrupt and ask questions along the way, but usually they hold until the end.
+
+32:53 - Craig Swanson So for that, what is your perfect time? Like, like what is the natural time that you put into that? I mean, is it a 60 minute talk, 90 minute, 45 minute? Oh, I'm sorry.
+
+33:03 - Jim Huffman You broke up a little bit.
+
+33:04 - Multiple Speakers Oh, just like when you're doing a Techstars, like how long is your standard session? Is it 45? Like how long do you normally teach at a time?
+
+33:11 - Jim Huffman Yeah, through the ANA, it's four hours. Textile is like an hour.
+
+33:16 - Craig Swanson Yeah. OK, so four hours. Of that four hours, you've actually teach three hours and then do an hour of Q&A.
+
+33:23 - Multiple Speakers Yeah, or an hour of Q&A or they do an exercise.
+
+33:28 - Craig Swanson OK, so if you're going to do this, so just what is ANA?
+
+33:33 - Jim Huffman Association of National Advertisers.
+
+33:36 - Craig Swanson OK. How it, and when you teach those four hours, is that the only thing you're doing or do you like, or are there several different things that you've taught for them?
+
+33:46 - Jim Huffman Um, I have a digital marketing metrics that matter workshop. I have a digital marketing essentials workshop where, um, I basically have a hundred slides of each that I go through and then a breakout exercise. So I have like two specific curriculums.
+
+34:00 - Unidentified Speaker Yeah.
+
+34:02 - Craig Swanson So I would say you tell me the length of time that you want to teach per week. And we just take that as a given for the moment.
+
+34:14 - Jim Huffman Yeah. Yeah. I think it's, uh, maybe an hour over four to five weeks.
+
+34:23 - Unidentified Speaker Cool. Let's start with that.
+
+34:31 - Craig Swanson So an hour over four to five weeks, uh, with, um, 30 minutes to 60 minutes of Q and a, depending on what happens. Yeah.
+
+34:40 - Unidentified Speaker Okay. All right.
+
+34:45 - Craig Swanson When. And let's say that we launched that the first week of May. We can't launch that the first week of May, I'm just telling you. But let's say that we did. Are you ready to deliver that? I'm trying to get a sense of how much this is basically done. Do each one of these represent 10 hours of work for you ahead of time? 100 hours of work for you ahead of time? Three? Where are these things?
+
+35:12 - Jim Huffman And I will say, we've got like the starting point of the like I thought through the frameworks, it's more so like thinking through how I present it.
+
+35:24 - Craig Swanson I'll be honest, I feel quite What's the quote?
+
+35:29 - Jim Huffman In order to get ready, stay ready. I'm ready. So if I have a four week head start, which I do, I work well with deadlines. So I'm game. I can go as fast as you want, Craig.
+
+35:46 - Multiple Speakers I can go as fast as you want.
+
+35:47 - Craig Swanson And to some degree, you can even repackage existing stuff.
+
+35:51 - Jim Huffman And especially the first one. I feel like the first one, if you're like Jim Doodle Monday, I'd pull something together. Because it's not like I need all of them done at the same time.
+
+36:02 - Craig Swanson So there are people for whom I do not trust this statement. For you, I trust this.
+
+36:08 - Jim Huffman I will say June will be a little crazy or late May, early June's a little crazy.
+
+36:16 - Craig Swanson We'd have to look at a calendar.
+
+36:18 - Jim Huffman I got my calendar up here.
+
+36:21 - Unidentified Speaker Maybe you can even share your calendar, but we could look at it.
+
+36:27 - Craig Swanson If we were going to pick a 4-5 week period that we're going to do this, what would we look at?
+
+36:39 - Jim Huffman be amazed so my wife's going to see where it's um pull bill stuff off what are we at now when's that memorial day this is memorial day right the 8th and then So I'm waiting on like, I'm actually flying to Orlando to do a talk at Marriott. And I'm not sure when that lands, but regardless, we'll be fine. I mean, what are your thoughts on, I'm thinking pre and post Memorial Day. I'm thinking after, what is it?
+
+37:19 - Jim Huffman Do you recommend taking a week off for a holiday or is that a bad idea?
+
+37:26 - Craig Swanson It's okay. So honestly, um, historically I've always wanted to be, I've always wanted to continue selling during this, like use the actual delivery as a sales tool. Um, in practice, in practice, we're going to get most of our people during the presale for this. So we're probably not going to sell it. So once we start the delivery of it, kind of our sales for that first round are kind of baked at least historically for me.
+
+37:50 - Craig Swanson So, so we can shift it to like, we can, we can take a break for holidays. Okay, we're gonna take if I could take a break I would try to like find a way that I could do you know, like try to make the break part of the story so like This topic I want to
+
+38:09 - Jim Huffman give you an extra week to like kind of process it Okay, so let's play aggressive and conservative we want to be aggressive I'm out next week Let's say like, you know, mid May, the week of the 13th or 20th,
+
+38:30 - Multiple Speakers if we want to be aggressive, if we want to be conservative, I would say the week of the third or the 10th.
+
+38:40 - Jim Huffman So I'm just hesitant. I can't remember when the heck my wife is. I thought I had this. It's on our calendar upstairs when she's she's going to Europe. Oh, yeah. She's gone this week. So that might be a little dicey.
+
+38:50 - Craig Swanson But anyway, I can make I can make stuff work. OK, so, yeah. So in this case, we're going to be doing some list building leading up to it.
+
+39:00 - Multiple Speakers So the actual, think about the sales happens before this.
+
+39:04 - Jim Huffman So, um, maybe one, a little more time. Yeah.
+
+39:08 - Craig Swanson So I think like, let's, let's play with June 10th. It's just kind of like now. Your audience, how do your sales happen? Like what happens to your sales at growth hit during May, June, July, August? Like, like do people take the summer off? Are they, are they just hitting the ground?
+
+39:25 - Multiple Speakers Anything August can be slow. Um, but yeah, growth hit it's kind of always there, there, there's no core seasonal impact other than August and maybe December and January can be a little crazy.
+
+39:38 - Craig Swanson How about from a sales standpoint? I'm not talking about from a revenue standpoint.
+
+39:43 - Jim Huffman Oh, good question. No, I feel fine about June. But yeah, because January will get a lot of new budgets and people ready to go. And then sometimes December people are trying to like spin budget. So it can be a little crazy in those two months.
+
+40:02 - Craig Swanson Okay, so B to C.
+
+40:04 - Multiple Speakers Sorry, but leading up to Black Friday, Cyber Monday, like September, October, people are like, we need help. Yeah. Oh, okay.
+
+40:12 - Craig Swanson So I actually, I like June, like June works, June is summertime, like in a B to C world where there's a lot of women, they tend to like, it tends to get softer during June and July, because that's summer
+
+40:26 - Multiple Speakers and like families take vacation, all that. Yeah, yeah.
+
+40:29 - Craig Swanson Like you were mentioning your wife was not available during that time.
+
+40:32 - Jim Huffman Yeah, Amazon's doing a retreat in Europe, which I'm not happy about.
+
+40:39 - Craig Swanson So let's play with June 10th. So June 10th, yeah, I kind of like that. Yeah, that gives us, it's aggressive, it gives us time. And that means we would be delivering. By the way, Sue Bryce, we were going to launch January, I don't know, January 20th, and we ended up launching March 15th.
+
+41:01 - Jim Huffman So I'm not setting the state.
+
+41:07 - Craig Swanson I wasn't necessarily happy about that, but also the key thing was to have momentum that we believed Yeah what what pushed what delayed it her content or leads? Her content and leads and it wasn't her content. So effectively. Sue wanted to pre-record everything before we so I would have been happy to deliver live.
+
+41:36 - Jim Huffman But she wanted to pre-record everything.
+
+41:37 - Craig Swanson She's also earned that right. She sold, you know, she sold like $40 million with me in the past, so I could, you know, like, But she also would not sell while she was recording. So basically I couldn't do any of the lead generation ahead of like her finishing this thing.
+
+41:54 - Jim Huffman Gotcha, yeah.
+
+41:58 - Craig Swanson So June 10th, and then if we say, basically it's June 10th, 17, 24, July. It's July when we take a break.
+
+42:13 - Jim Huffman Yeah, potentially for July 4th, right? Maybe take a break and then pick it back up.
+
+42:17 - Craig Swanson Okay, so July 8, 15, and 22. So we can probably do a six week. So if you've got five weeks of content, you can always do a sixth week, which is basically storytelling and extended Q&A.
+
+42:32 - Jim Huffman Cool. Yeah.
+
+42:36 - Craig Swanson All right. So let's go back to the list of stuff. So we'd want to create a web page that has the name, the target of June 10th. And then a signup page for people.
+
+43:07 - Unidentified Speaker Do you, is this defined enough? Do you know what's covered in those four to five weeks?
+
+43:12 - Jim Huffman No, I have some ideas based on how I actually look at this, right, on how I Break this, wait, anyway, how we break this down. Maybe I can think through what that looks like, Cause some of these are meatier than others. I could take a crack at outlining the five weeks.
+
+43:37 - Craig Swanson By the way, let's just put that graphic up for just a moment. So Northstar, strategy, process, research, but by the way, this explains something I had a question on because you took the EOS thing and I was wondering if process and data led into Northstar and I thought that doesn't feel quite right.
+
+43:55 - Multiple Speakers Yeah, you're right. It isn't circular, right?
+
+43:58 - Craig Swanson Yeah. So Northstar leads to strategy, which leads to this cycle until we change Northstar or strategy.
+
+44:06 - Jim Huffman Correct? Yeah. All right. And then cross or sorry. The other goal is I want to put a timeframe here where it's like day one again, stealing from their graphic.
+
+44:19 - Craig Swanson Yeah.
+
+44:19 - Jim Huffman I'm trying to figure out what that is. Cause I do like their quarterly cadence.
+
+44:22 - Multiple Speakers Like there's, there's something really nice here that I'm still trying to like hone in on.
+
+44:30 - Craig Swanson If we have, so I also tend to think that you are going to invent a portion of this while there are people in front of you.
+
+44:36 - Jim Huffman So that's okay. Yeah.
+
+44:41 - Multiple Speakers There'll be parts of it. The good thing is like there's parts of this I've already taught.
+
+44:46 - Jim Huffman A lot of this just never together. So I feel content on the modules. It's really the connective tissue and showing the step-by-step plan, which by the way, I think is crucial to nail that.
+
+45:02 - Craig Swanson If we were gonna break this into two, three-week things, I almost feel like North Star Strategy and something else are the first three weeks, based just on this, and then process data and research. Are they each taught individually? So it's almost like the strategy and then the rat race, the hub, the cycle, the flywheel. Flywheel's not bad, but basically there's this kind of, There's this thing that you're building.
+
+45:32 - Craig Swanson And this, by the way, this process data research, this is the thing I feel like potentially we could really augment with AI.
+
+45:39 - Unidentified Speaker Yes.
+
+45:41 - Craig Swanson Because that is what your agency makes most of its money on right now. But that's the thing that's going to go away most likely, right?
+
+45:48 - Unidentified Speaker Yeah.
+
+45:49 - Jim Huffman Well, what's interesting, the agency kind of Like we like run this internally, but don't sell it because we sell like CRO ads But then there's this system that we run to do it. No you I start to get loud like like research, like no one does research well, um, for the most. And so like, that's the quantitative, qualitative stuff. Data is like how you track and it's like an input scorecard in addition to your KPI scorecard.
+
+46:18 - Jim Huffman And then like how you run things. Cause like, it's like, we don't really directly sell this. We indirectly sell this. If that makes sense.
+
+46:25 - Craig Swanson What I meant was the work product created by that flywheel is what you sell.
+
+46:29 - Unidentified Speaker Correct.
+
+46:30 - Jim Huffman Yes, yes, yes.
+
+46:31 - Craig Swanson And so basically you have strategy, like big picture stuff, and then you have this internal flywheel system you use to create all the ads to do all this. And that's the stuff that I think is probably at greatest risk for AI.
+
+46:46 - Jim Huffman Absolutely, the execution, absolutely.
+
+46:49 - Craig Swanson Exactly. Yeah. So if I were going to, look, this is your area, but like, now do you think you teach, like if you're picturing teaching this, do you teach process data research as three separate weeks?
+
+47:06 - Jim Huffman So there's a lot of meat in strategy and process.
+
+47:11 - Multiple Speakers These are a little bit lighter. And I'm thinking of almost like breaking up.
+
+47:18 - Jim Huffman So I'm thinking of how to put this across five. So it's like maybe North Star plus a little bit of strategy and the one just dedicated a strategy that's to process three. Process might need two and then one which is data and research and how it works together. It's kind of where I'm going on this. I'm also thinking through how I teach with, what I see goes well is frameworks and examples and case studies and And yeah, and how to fit this into an hour.
+
+47:54 - Jim Huffman But anyway, I think I can even write that out on what I'm thinking for the order.
+
+47:59 - Craig Swanson Yeah. When I create the sales document, like when we create the sales document, I'm not going to say whether it's an hour or so. Oh, okay. Yeah. Like we give as few details basically for the initial sale. For the initial sale, we give as few details as are required to get the sale.
+
+48:22 - Unidentified Speaker Yeah.
+
+48:23 - Craig Swanson Um, because we, you can't take something away from people once you've promised to deliver it.
+
+48:31 - Jim Huffman Yes. Yeah.
+
+48:33 - Craig Swanson But you can add things that they never anticipated or were promised. So, you know, it'd be a six, it'd be a 40. So if it's four to six weeks and we're uncertain, it's a four week course. Like, like basically we basically go for the most deliverable thing that we can do and no one will get pissed if we add two more weeks in.
+
+48:55 - Unidentified Speaker Gotcha.
+
+48:56 - Jim Huffman Yeah, yeah. It's like a bonus. Okay.
+
+48:59 - Craig Swanson Um, And I think, so how are you at engaging with online communities?
+
+49:22 - Multiple Speakers And what online communities do you engage with if you engage with them?
+
+49:27 - Jim Huffman Um, I'm in a few like tech stars, slack, um, there's, you know, slack there's, um, a couple of DST communities that I'm in and like the acquisition entrepreneurship stuff, but I can be much more. Engaging leading up to this in an authentic way.
+
+49:45 - Craig Swanson Yeah. If you were, if you were going to pick now, I don't think that we're selling exactly the people that you've been selling.
+
+49:54 - Jim Huffman Yeah, correct.
+
+49:57 - Craig Swanson We're probably gonna get more entrepreneurs like we're gonna get people that aspire to something like, you know And I wonder sorry interrupt.
+
+50:04 - Jim Huffman I'm think like this is a good conversation for us. It's like for so it's like the EOS Evangelists Colton people that if we just say us for this you have like founders You also have the people that are like just becoming managers, or I actually have a lot of
+
+50:25 - Craig Swanson friends that are becoming CMOs now that are like, oh, I'm interested about that.
+
+50:29 - Jim Huffman Like growth or marketing managers or marketing leaders. And then you obviously have the entrepreneurs, right? Which might be, I think with my book, that's probably the leader.
+
+50:44 - Craig Swanson And then you have the industry specific, if it's like Shopify, startup founders, et cetera. So the way I envision this is people don't even get to see the offer until they give us their email address.
+
+51:11 - Jim Huffman Tell me, meaning the price, right?
+
+51:15 - Multiple Speakers No.
+
+51:16 - Jim Huffman So can I, let me share my screen. Please. Yeah.
+
+51:19 - Unidentified Speaker Mm-hmm.
+
+51:21 - Craig Swanson Here, let me see.
+
+51:22 - Multiple Speakers I think I know what you're talking about, because you showed it with the Sue Bryce, where it's just like teasing what's coming.
+
+51:28 - Craig Swanson Yeah. OK, I love that concept. So I'm going to go to Healing Vibrations, so Sound Healers. So these guys have a 650,000 person Facebook list. This is right now- Wait, is this guy an EO? What's that? Is this guy an EO? He is an EO accelerator So there are two lead captures that are happening right now So basically if we click join the waitlist, this is you know, stay tuned for the journey We'll email you when we have something to tell you And he's been doing a series so let me let me actually kind of like walk you through this so there's this and then there is Singing I love how simple and clean your funnel is, by the way.
+
+52:21 - Jim Huffman It's just like, I love it. Yeah.
+
+52:24 - Craig Swanson And then we're giving away a crystal singing bowl, your chance to win by crystal singing bowl. And if you click enter now, you enter the single giveaway. Cool.
+
+52:34 - Jim Huffman I have a lot of crap we could give away.
+
+52:37 - Craig Swanson If we go over to Klaviyo, by the way, do you use something else?
+
+52:44 - Jim Huffman I use ConvertKit, but for this, I'm fine using any tool. We use Klaviyo for all of our clients, so I'm down for this.
+
+52:52 - Craig Swanson Actually, do you use Klaviyo for your Shopify store? What do you do for Shopify?
+
+52:56 - Jim Huffman Yeah, for me, we use Shopify. I mean, Klaviyo.
+
+52:59 - Craig Swanson Yeah. So here, like healing vibrations. Um, you know, we've got 1300 people in that list since like, I think we built, you know, earlier this week. And then, um, where that is coming from
+
+53:14 - Unidentified Speaker Well, I should probably spell something correct.
+
+53:26 - Craig Swanson Uh, Basically, he's doing an eight-week live streaming series, which is literally just him talking with his audience about incorporating singing bowls into their healing practices. And this whole thing is basically driving the definition. There's that thing that drives them to go sign up. So this is the flow. They go here, they go to that front page right there, they sign up. And so the only people in there, in the waiting list, kind of believe in him enough to just show up without really anything.
+
+54:11 - Craig Swanson So we're not putting our thumb on the scale at all.
+
+54:15 - Jim Huffman And I think you've got that to some degree.
+
+54:20 - Craig Swanson I think that, so basically we want to promise, by the way, we click through, so there's one of two things. Probably we get a waiting list up initially. So we get a waiting list up really quick.
+
+54:32 - Jim Huffman You could start mentioning it on your podcast.
+
+54:37 - Craig Swanson Basically we could do that. Then at some point we shift over and now there's an offer.
+
+54:42 - Multiple Speakers And the offer is basically the sales pitch, the name of the course, the price, all that.
+
+54:50 - Craig Swanson But still they can't get access to it unless they basically give their email because what that lets us do is It lets us drive email capture while we are driving conversion advertising.
+
+55:03 - Jim Huffman I Love it.
+
+55:03 - Craig Swanson Yeah, that makes little sense because I mean the name of the game is building that waitlist exactly And if we do it like we do the Sue Bryce, I would get enough information from you I that we could effectively write out like a weekly or bi-weekly email series that is educating and basically like, I showed you all those Sue Bryce ones, but basically once they get on the waiting list, as we are marching towards June 10th, they're getting hit by all these things.
+
+55:38 - Craig Swanson So we really want to maximize that. You remember I had that countdown? On your Friday email, we could literally like whether it's at the top or the bottom.
+
+55:47 - Multiple Speakers Yeah, I could just put that countdown GIF incorporated into your layout and just basically continually hit people that basically you're counting down to the launch of this thing.
+
+55:56 - Craig Swanson Yeah, a a well-communicated deadline and countdown, because you haven't done that many live sales. But basically, for me, in the final, like a well-communicated deadline, you will get up to 50% to 80% your sales in the final two days of a well-communicated deadline.
+
+56:20 - Jim Huffman Oh, nice. Yeah, that makes total sense.
+
+56:23 - Craig Swanson And along the way, you get to basically deal with all the objections leading up to that.
+
+56:30 - Jim Huffman It's like oh, I want to do it, but XYZ you say that yeah I I'm thinking through the content. I need to arm us with to do this well from Transcripts copy video work one just to like have enough content that we could transcribe So you can easily do things. Yeah, and also High-quality video content because I think you mentioned the teaser video we need to nail that and like yeah We don't need, so we don't need the teaser video until we have the offer.
+
+57:10 - Jim Huffman Okay.
+
+57:11 - Craig Swanson So, so there'll be phase one, which will be effectively a single page get on the waiting list. Um, phase two will be the offer, which will need a, a great video of you speaking to camera. Great video of you. It doesn't like, it is just literally just a well shot video of you making your pitch to camera.
+
+57:31 - Jim Huffman Gotcha.
+
+57:34 - Craig Swanson And for that, like you've had the capability to like, you could film it there. If you like, you could film it there. First of all, you could film it there and we could use it. And also we can film it better. Like we can also like invest a little bit and do a better job.
+
+57:48 - Unidentified Speaker Yeah.
+
+57:49 - Jim Huffman Yeah. I'm down to do it, do it, do it well. If I need to get some equipment or I go to your studio or whatever that is.
+
+57:54 - Unidentified Speaker Yeah.
+
+57:58 - Craig Swanson And then We're in this list building process where you can't see the offer if you do not, if you've not given us your email address. Um, and then that ends and then the third, then basically then we just have a wide open offer and that offer page has been updated with all the information from the people that have purchased. Um, And I'll set some dates around March 10th or June 10th. I'll just kind of like back out some dates on what those different things look like, If I wanted to create a web page as soon as possible, like I wanted to get us to the place where we can do the waiting list, I tend to do...
+
+58:41 - Craig Swanson One of the challenges with marketing topics, I tend to work with things that are photogenic. In some ways, because I've been selling photography and all these other things, when you're doing a photogenic thing, it's almost like you don't have to think out the sales page all that much.
+
+58:55 - Multiple Speakers You just put a really beautiful photo. Even the sound here, that's actually cool. Just the lighting of what he was in, it's like...
+
+59:01 - Craig Swanson Exactly. So I'll probably just look at maybe some of your other landing pages. Do you have any, from the stuff you've sold, do you feel like there's any messaging that's been super powerful? Oh, and I'm just kind of riffing a little bit. We just need a photo, an image, or something. If you have something, yeah, a lot of your stuff has a lot of words on it. It's not really like it says.
+
+59:36 - Multiple Speakers Okay, yeah, so photo, I am, let me see, photo.
+
+59:44 - Jim Huffman Hmm.
+
+59:46 - Craig Swanson I mean, do you have a good photo of just you? I tend to not do this. I like that you don't have particular tech bro energy. You can certainly hang with the tech bros, but you don't have that innate tech bro energy for me. But if you just had a confident image of you looking at camera, like the hero image, that could be enough for us to do this.
+
+1:00:13 - Jim Huffman If there's any specific examples you're thinking through, let me see what I can find or could attempt to recreate. I'm thinking through action items here. Okay Or we could go text heavy, I mean like it could be you know, I want to know what you've done that works Not to say that wouldn't work. But yeah, I mean down for either I Wish I had better images of me like teaching to a group.
+
+1:01:03 - Craig Swanson I don't know if that's, you know, even that, even that is not. So I even think we might just go with just bold type. Potentially we might just go with like, I mean, we may just go with a bold type promise or something like that.
+
+1:01:14 - Unidentified Speaker Yeah.
+
+1:01:17 - Craig Swanson And a pain focus, like basically bold type pain sign up to the, you know, sign up for the, for information. Yeah. Um, Then once they sign up, once we get them on the mailing list, a type form that basically asks the two questions, what is it you want to create in your life? What problem do you want to solve? Basically, kind of wordsmith, what do you want in the most compelling way? What problems keep you from having that?
+
+1:01:47 - Craig Swanson So basically, that's the two-step question. And then because these are people in marketing, one of the things I love is I think we can actually, I love it when I can just say, I am using a sales technique on you right now.
+
+1:01:58 - Multiple Speakers And effectively, the third thing would be two fields.
+
+1:02:07 - Jim Huffman Tell us how much you want to pay and what you want to get for it. Oh, interesting. Yeah. I mean, if we get that data, that's amazing.
+
+1:02:14 - Craig Swanson I mean, I wouldn't totally believe it, but it is, it'll be interesting.
+
+1:02:18 - Jim Huffman Yeah. I have to go there and say, you know, pick up my kids, but tell me like, talk about ads and driving traffic to this wait list and content or creative, um, that you're thinking through to pull that off.
+
+1:02:36 - Craig Swanson Um, so initially the, the initial, 100 to somewhere between 100 to 1,000 initial people, it's kind of unused. So I'd probably lean into the podcast or something else. So that were 1,200 for Healing Vibrations, they literally, they're just pushing that out. I'm not doing any scripting or anything. They're just basically doing it, and I'm kind of watching.
+
+1:03:05 - Jim Huffman Sorry, 100 to 1,000 waitlist or pre-sales?
+
+1:03:08 - Craig Swanson Waitlist, not purchases. Okay. Yeah. Don't worry. I'm not, I, yeah, you just sell a thousand of these and then I can like show up and do something. But then, potentially, we pull from your video archives of just good clips of you teaching something. We could potentially pull memes, we could pull headline things. I don't know if you, have you had very much photography of you?
+
+1:03:40 - Jim Huffman Do you have a library of media assets for you?
+
+1:03:44 - Craig Swanson I can pull together some.
+
+1:03:46 - Jim Huffman It'll be a little light, but I can pull together some.
+
+1:03:52 - Craig Swanson So that's one advantage I have with Sue. Because I've been teaching all these things, they're very visual. You saw the ads I was doing with Sue, which is a photo of Sue and then just big, bold type that's promising something.
+
+1:04:05 - Jim Huffman Yeah. Yeah.
+
+1:04:07 - Craig Swanson So for you, you are going to have like these statements that are going to be on podcasts that we can search through and basically pull these really great ones and make type graphics out of them. Yeah, I. I will kind of like be watching you to see what you think people react to. And then I will kind of lean in. You also like you, you're doing all this stuff in LinkedIn, probably the stuff that you're doing on LinkedIn, that's selling, or that's working for growth hit will be things that we can repurpose.
+
+1:04:40 - Jim Huffman Yeah, absolutely.
+
+1:04:42 - Multiple Speakers And like the neat content that build in public does much better.
+
+1:04:45 - Jim Huffman So there's a world of leaning into that with this and like any behind the scenes building public stuff that could help. I I'm down for that.
+
+1:04:53 - Craig Swanson I actually love it. I love the idea of basically, you're almost using Neat as an example, and you just say, so I say, I am in your shoes. I am in your shoes. I am the CEO of a company. Sometimes they say, so here's the advantage I have as CEO. I sold billions of dollars of other people's stuff. And I'm the expert in the room in a lot of cases. And when I'm not the expert in the room, I'm able to bring to you expertise that even surpasses mine because I have access to it.
+
+1:05:24 - Craig Swanson And I'm motivated because I, like you, have to make my business succeed. So come join me, and I'm going to show you how I scale.
+
+1:05:35 - Jim Huffman Oh, man. I'm glad we recorded this because I think that's the script.
+
+1:05:40 - Craig Swanson Yeah.
+
+1:05:43 - Jim Huffman And also, we get to take multiple stabs at Scripps, just like you, yeah.
+
+1:05:47 - Craig Swanson And I think, also, the other thing we can do is we can also leverage EO.
+
+1:05:52 - Jim Huffman Leverage EO in a strategic way, because By the way, I can call your cell.
+
+1:05:59 - Craig Swanson I don't know if you want to call it.
+
+1:06:03 - Jim Huffman Finish that thought, though. I want to hear what you're thinking with EO.
+
+1:06:06 - Craig Swanson Well, first of all, I'm a learning chair, so I'm already talking about having you effectively come and teach this thing for EO.
+
+1:06:13 - Multiple Speakers Yeah, can we time it? Can we time it? Whether we use EO as a guinea pig, or we use it as a way to amplify it. One way or another, did you see on LinkedIn, did you see the trailer I did for BioLiftoff? Yeah, I liked it. That was really well done.
+
+1:06:28 - Craig Swanson So we'll make one of those for you about you teaching at EO.
+
+1:06:31 - Jim Huffman Awesome. That could be our promo video that we use. There we go.
+
+1:06:35 - Craig Swanson We can get testimonials. There's a whole bunch of stuff we can do.
+
+1:06:39 - Jim Huffman We can offer it to EO around the world.
+
+1:06:42 - Craig Swanson Basically, we can also do these niche things. So the thing is we can play with some really fun stuff. So I would say for you, LinkedIn, Facebook, you've got all these ads. If you've got a Dropbox with a ton of shit in it, just send me that and let me look through it.
+
+1:06:58 - Multiple Speakers Yeah, sorry. Let me, I just want to make sure I have my action items.
+
+1:07:02 - Jim Huffman I'm very big on like progress and moving things forward. I think with me it's, what's, let's talk about most urgent. First, let me think through the photo library to pull stuff together and get assets, because key is getting that wait list page going. And then I am thinking through, I'm also just thinking through how I get, bring the first, um, tranche of people for the wait list. And then this one's also just kind of thinking through this, not as it's important, but not urgent.
+
+1:07:36 - Jim Huffman Correct.
+
+1:07:37 - Multiple Speakers Do you currently have a sponsor for this, for the podcast?
+
+1:07:41 - Jim Huffman Um, no, we will, we do for the newsletter, but not for the podcast, but yeah, I can start making this the sponsor.
+
+1:07:47 - Craig Swanson Yeah. Yeah. Cool. All right. Go pick up your kids. This is, we'll need to figure out a cadence where we can meet regularly and start marching through this. But, um, um, if we got, we don't need to have a public date, we're not going to tell anyone about June 10th right now. So we just need a wait list, a wait list and like in 10 words or less what they're waiting for.
+
+1:08:08 - Jim Huffman Yeah. Okay. That's awesome.
+
+1:08:11 - Craig Swanson All right.
+
+1:08:14 - Jim Huffman Sweet. So I'm excited, man. It's gonna be fun. Cool.
+
+1:08:17 - Craig Swanson All right. This is gonna be fun. And this has the potential to be huge. What's that? This has the potential to be huge. Yeah. No, I agree. Well, cool.
+
+1:08:27 - Unidentified Speaker Thanks, Craig.

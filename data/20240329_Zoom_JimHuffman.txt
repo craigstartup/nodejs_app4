@@ -1,0 +1,612 @@
+Jim Huffman: Meet with Craig (Zoom) 
+Fri. Mar 29, 2024
+
+1:13 - Craig Swanson Do do do do. All right, let's take a look here. This is a test, it is a test, it is a test, a test of test.
+
+3:43 - Jim Huffman This is the meeting I've been waiting for.
+
+3:49 - Multiple Speakers Hello, sir. How are you doing?
+
+3:51 - Jim Huffman I'm good. It's funny. When I was texting you like crazy yesterday, I had just like two, a double like espresso hit. And then I'm mentoring tech stars in New York this year. So many impressive startups. I usually am, it's like half underwhelmed, half impressed, but more consumer facing startups that I've seen, usually it's B2B, SaaS, FinTech, a lot of consumer. And this one that GetRipple that I showed you, as they're doing the demo, I'm just like watching my life flash before my eyes.
+
+4:25 - Jim Huffman I'm like, Shit, it is go time.
+
+4:29 - Craig Swanson They asked me to mentor, and so I'll be their lead mentor.
+
+4:32 - Jim Huffman So I want to help them, but I also am trying to get really deep under the hood. So happy to share with you as I kind of work with them.
+
+4:41 - Craig Swanson That'd be great. And I would really love, yeah. And I was thinking about this. So I am an open book. Some of this is messy, you know, like, so like, this is not a, so I, but yeah, like, I figured what I could do is just kind of like, just start showing you what I've been doing and let you kind of like, just ask questions and kind of like, direct where it goes.
+
+5:01 - Jim Huffman Would you be comfortable, I know we have read AI, I told Yonathan about what you did with Sue Bryce and I told him about, He's just like, can I be a fly on the wall? I was like, well, if I'm going to record it, if I get his permission, I could probably share it with you. But I'm going to keep it just to me and Jonathan.
+
+5:19 - Craig Swanson So absolutely. So what we can do, you can either add your note taker, or I can just forward mine to you when it's done.
+
+5:26 - Jim Huffman Yeah, just for it. That'd be awesome.
+
+5:27 - Craig Swanson Yeah, you know what? Let me just record this as well. Just.
+
+5:32 - Jim Huffman Dude, I'm so fired up. I've got another buddy. I need to introduce you to the CEO of click minded. He ran SEO at Airbnb and PayPal. He he's doing some impressive things as well around like AI enabled funnels and tools. But anyway, I'm kind of having similar conversations with him. Happy to share anything I can cover there.
+
+5:55 - Craig Swanson First of all, let me just show you, just for context, this is all basically lacking a front user interface.
+
+6:08 - Multiple Speakers Basically, I'm just doing a whole-. What am I looking at right now? What is this?
+
+6:13 - Craig Swanson You are looking at my JupyterHub Python scripting environment in which basically I write programs to do stuff. And so, I'm actually having a conversation after this. I'm trying to brainstorm. I'm trying to figure out if I want to and can build a slick user interface that lets people do this type of stuff without needing...
+
+6:38 - Multiple Speakers I would be a customer just off of the stuff you showed me initially.
+
+6:43 - Jim Huffman If you can make this idiot-proof for me to use and to train my team on.
+
+6:47 - Craig Swanson So let me just start pulling up some things. And then basically, I'm curious which things work, which are interesting. So let me see here. So this is email.
+
+7:04 - Multiple Speakers We use Klaviyo.
+
+7:07 - Craig Swanson Our staff at The Guinea Pig, if you need any tools or access to play around with real data, happy to Well, let me just show you what I did for, I'll just show you what I did for Sue Bryce, because really that's the share right now. So, Content Curator, so this is the website that we've been selling.
+
+7:30 - Jim Huffman And Matorik, here's our sales dashboard.
+
+7:38 - Craig Swanson If I go for year to date.
+
+7:41 - Jim Huffman Is Matorik just an analytics tool?
+
+7:44 - Craig Swanson It is just a reporting tool. It's just, it's just a dashboard tool. So I'm just kind of like, um, and then, uh, so like, like basically this has been a combination of Facebook ads and email. So like, like it's not a complex sale by any means.
+
+8:00 - Jim Huffman Yeah. Love it. So it's like WordPress, Klaviyo, Facebook ad manager. Got it.
+
+8:05 - Craig Swanson Exactly. So if we're going to look at this, where would you be most interested in starting?
+
+8:11 - Multiple Speakers I'm interested in starting from step one of what's the data set you use with video reviews and content to set the foundation for creating a website, to create the ads, to create the emails?
+
+8:26 - Craig Swanson OK, great. Let me see. OK, so let's just start with that. Let's just start with that, because you're going to be, to some degree, underwhelmed. So this looks just slightly different. But effectively, this was the sales page. This was the page that we started on March 1st. So on March 1st, it said, build your creative empire. Learn to monetize your creative effectively with the mentorship of Sue Bryce.
+
+8:55 - Craig Swanson And then this button basically said, see what Sue is doing next, something like that.
+
+9:00 - Multiple Speakers And if you quickly write this yourself and stand this up, or did you have a I make this?
+
+9:05 - Craig Swanson Oh, you know what? Um, this is great. This is great. Um, no, I actually ended up doing a bunch of things ahead of time. Um, so let me, okay, we need to show you in the back end.
+
+9:21 - Jim Huffman So in the back end, I'm going to go to Content Curator.
+
+9:26 - Craig Swanson So this is all the stuff that I've been working from
+
+9:30 - Jim Huffman This is just all text files.
+
+9:32 - Craig Swanson So when we first started, she had taught this class back in 2022. So I had the text transcripts of her class.
+
+9:45 - Unidentified Speaker Amazing.
+
+9:45 - Jim Huffman So this is your dataset. You took all of her video content, put it into text files, and popped it in here.
+
+9:52 - Craig Swanson Exactly.
+
+9:54 - Multiple Speakers And for this, I have a slightly user-friendly interface.
+
+9:59 - Craig Swanson If I go to Content Curator 2002, so if I go to this, this is my internal system. So like Week 1 Keynote, if I click on this, basically there's the video, there's the full transcript of everything. So like I've got a system that generates that for me. And then I've got transcript prompt, click on that, and basically I can build anything I want from this specific transcript.
+
+10:24 - Multiple Speakers You showed me this. I love this. Yeah, yeah. Or it's like give me a clip of her talking about like how to get started or something like that.
+
+10:33 - Craig Swanson Exactly. So this is on a video by video basis. The thing that is happening back here in the background is exactly the same thing. It's just letting me do the entire, like all six weeks at one time, as opposed to just doing a video by video. And so when I started out, basically, I'm in here and I'm basically just defining the pile of stuff. So basically, I'm giving it all the transcripts for all six weeks.
+
+10:59 - Craig Swanson I'm giving it, we ended up using vocal video No. This is not AI. This is just like collecting user testimonials. But basically, we just got a bunch of user testimonial videos like this from people that had been through her class before.
+
+11:24 - Multiple Speakers And then we got transcripts of all that.
+
+11:26 - Craig Swanson And so that is in there.
+
+11:30 - Unidentified Speaker Uhm?
+
+11:32 - Multiple Speakers We got the transcript for her promo video because like she did her best job kind of pitching this thing and then I've been basically adding things to this overtime and and kind of like the magic for me and the
+
+11:44 - Craig Swanson thing that like I'm not really adding that much to it is. Because this now goes to an entire 128. K context window. I can basically run prompts that are based on all of this at one time. It's amazing.
+
+11:58 - Jim Huffman Yeah. Having that data set of the curriculum, the testimonials, her promo video, you're armed to do whatever you want.
+
+12:06 - Craig Swanson Exactly. So let me see if I can find a prompt for an email. So let's do...
+
+12:14 - Multiple Speakers I remember you also showed me how you like entered copywriting frameworks. You'll probably get to that, but I thought that was super interesting.
+
+12:21 - Craig Swanson Let me just take a look here.
+
+12:26 - Unidentified Speaker Just looking for something in the past, it's a little bit messy. Blog post.
+
+12:38 - Craig Swanson All right, so these are not very sophisticated prompts, but basically this is what, this is kind of the magic, is basically you take all of this stuff, all of this stuff that I can basically hold in one concept, And I say, from the transcript of Content Curator Weeks 1 through 6 and the testimonials from PLAS students, please write 150-word announcement email in the PAS Copyright Framework using Sue's voice and focusing on what's taught in the course.
+
+13:05 - Craig Swanson This is to people on the early access email list who know about Content Curator. But have been waiting for it to be available to buy. The full price will be $6.99, but everyone on this list can get it now for $2.99 during the presale. The CTA is for people to link to the sales page and sign up. So, I mean, it's kind of a wordy prompt, but like that, there's nothing terribly magical about that, right?
+
+13:24 - Craig Swanson Like you've probably done things like that.
+
+13:28 - Jim Huffman It's actually been a while.
+
+13:29 - Craig Swanson Let me see if there's something run. Yeah. And so, and actually in this case, like basically I was just kind of working with a bunch of prompts. Let me show you what the prompts ended up creating.
+
+13:40 - Unidentified Speaker Yeah.
+
+13:42 - Craig Swanson Um, can I like introducing you to my messy world?
+
+13:48 - Jim Huffman I know that messy world. I have a similar one content curator.
+
+14:14 - Craig Swanson Let me see if my text, cause I, you know, like I ended up doing a lot of, a lot of quick temporary files. Um, but I've got one where I was just kind of collecting everything, which will both show you the strength and the weakness of this. Okay, that's customer service. Let me see if it remembers open recent.
+
+14:49 - Jim Huffman While those writing frameworks. Right.
+
+14:52 - Multiple Speakers Well, actually, I think I showed you this. So basically, I just went through this process, like, literally, there are just like, this was just me going, you know, like, do this in a ClickFunnels framework.
+
+15:04 - Craig Swanson Actually, this will actually be super helpful. This isn't what I ended up going with, but this is how we ended up building the first sales page. If you look at this, go to text display, I'm going to soft wrap this. Exactly the same prompt you saw before, except instead of saying, do this as an e-mail, what I was saying is basically do this as a landing page, and in this case, do this in the style of CopyBlogger.
+
+15:29 - Jim Huffman Yeah. And so you'll actually, you'll see.
+
+15:34 - Craig Swanson So first of all, remember it's got all this, like this is a single result from a single prompt. And so that prompt is looking back over here, like it's written something like this, where basically, you know, from the transcript of the six weeks and the testimonials, please write. And then it would say in here, you know, a landing page in the style of copy blogger. And I think I said something to the effect of, um, make sure to describe what is covered in each week of the course.
+
+15:59 - Craig Swanson And then from that, it has everything. So it has, like it has copy bloggers kind of like approach. It has what the course actually teaches. It created its own course overview. It created its own summary, like copy blogger does like what you'll create as opposed to, let's look at another framework, digital marker framework, little bit different in terms of what a digital marketer would do.
+
+16:27 - Jim Huffman Yeah. Well, Ryan Dice.
+
+16:30 - Craig Swanson Yeah. So actually, you asked where was step one? I was kind of jumping to step two or step three, but literally step one was me doing this. And now here's both a pro and a con. Each one of these things Normally, when you do a prompt, you're using chat GPT or something like that, it's effectively like you're paying pennies to nickels to dimes for each prompt. I didn't quite realize this until after my day of playing around, I had a $200 bill inside of OpenAI.
+
+17:06 - Craig Swanson No, that's fine because like I can afford it and like, you know Because of the data you put in there to process correct exactly so each Individual each individual time I asked for something It is using so many tokens
+
+17:22 - Jim Huffman that it was costing me about a buck to two bucks instead of a dime Quick quick questions this because you're using the open AI API Are you doing this in their interface? You're using their API?
+
+17:36 - Craig Swanson Oh, no, no. I'm doing this. Literally, this is all generated through this interface where I'm just typing in code and this code is doing it through the OpenAPI.
+
+17:44 - Jim Huffman Okay, gotcha. Okay. So if I go to open it, so if I go to, um, open what I'm thinking through is like, cause I do prompts with the open AI, but like, I don't have the data set. I have to always like, Hey, write this as Jim Huffman, the growth hit CEO, blah, blah, blah. And it's like, not as good as it could be with this.
+
+18:03 - Craig Swanson So yeah, go ahead. Exactly. So here's, here's, here's both the difference and the similarity. Um, let me go get me back to this. Sorry. I'm jumping around. Where is my there's there it is right there. What I'm doing here is effectively identical to what you're doing with OpenAI in chat GPT.
+
+18:27 - Jim Huffman So it's not like I'm adding on immense layers of technical knowledge.
+
+18:32 - Craig Swanson The only difference is because I'm doing this with a direct connection to the API and I'm paying for all those transactions and I'm willing to do it, it is doing all of that processing you do through OpenAI, but it's dumping in all of this context. So what that means is I pay between a buck to two bucks per time I do it. Now, if I were releasing this as a commercial product, there are probably ways I could make that more efficient.
+
+18:58 - Craig Swanson I probably didn't need to pay a buck to two bucks for each individual one. But for me, well, so first of all, once I kind of made peace with it and said, OK, I'm spending a lot for what people pay on that. But compared to if I hired a person to do this, I'm still in the super cheap realm.
+
+19:16 - Jim Huffman Right, yeah. Come to my world as an agency owner. Yeah, it's like...
+
+19:20 - Multiple Speakers Exactly. So, you know...
+
+19:21 - Jim Huffman Pay humans or pay robots, yeah.
+
+19:23 - Craig Swanson So if I go in here and look, like I paid that same buck to two bucks just because I was curious to see what it would do if it gave me a Hemingway version of that sales pitch.
+
+19:34 - Multiple Speakers You know, maybe that's kind of useful.
+
+19:37 - Craig Swanson Um, but that was just kind of me playing around. Um, but, but even when I play around with that, it's still like knows what's in all that. I mean, like, that's the really cool thing. It's like, instead of getting the generic response, I get the specific response.
+
+19:50 - Jim Huffman Yeah. Yeah. I think that's the difference because just to be, I love the prompt you've given me before, like Jim, be very selfish for yourself, the way I'm looking at this. Our Shopify clients, I pull in their reviews, their products, any history of content they have, they're about us, and then I can do it. It's gonna be so much better than me just being like, hey, you're a neat D2C brand that makes sweat-proof clothes, write this thing or create this campaign.
+
+20:15 - Craig Swanson Exactly. All right. So you are, so you are totally on board in terms of like both, both the fact that I'm not adding huge layers of technical wizardry. I'm just basically doing, doing what you know, you can do an open X. Like, like what you could do is you could take all your knowledge of like your frameworks with open AI and like how you phrase things. And then you add on the layer of Oh my God, it actually knows all this stuff about us.
+
+20:37 - Multiple Speakers The thing that I need is like, right now you have the Jupiter set up. Like I don't have the playground where like, okay, I have the Shopify or whatever customer data.
+
+20:47 - Jim Huffman I've got the API. Where do I build this? You know what I mean? That's what I need.
+
+20:51 - Craig Swanson Yeah. And actually, I mean, to be honest, one of the things I'm actually looking at, like the amount of work it takes to build it is so light that I'm actually not sure that it's not just going to be replaced.
+
+21:01 - Multiple Speakers So it's like one of the things is like, I thought I was going to build, I originally thought I was going to build an AI startup.
+
+21:08 - Jim Huffman And then two things happened.
+
+21:11 - Craig Swanson I started to see how many AI startups were happening, and it really feels hard for me to understand what makes my AI startup different from everyone else's. Other than, I mean, I might have a week or two, or I might have a philosophical thing, or a marketing lead, but ultimately, I know how little I'm adding on top of the AI framework.
+
+21:30 - Jim Huffman It's like once you're mowed, the barrier to entry and how quickly it's moving, because even Ripple, I think it's cool that I'm like, I mean, Klaviyo could do a feature update and it's like, you're gone, you know?
+
+21:44 - Craig Swanson But then the other thing is basically I said, well, but I can totally go like just do courses that are so much cheaper. Like I can basically do the thing that I know how to make money.
+
+21:52 - Jim Huffman So I might be playing.
+
+21:53 - Craig Swanson Now, when I, so I think this was happening when I, so here is just like, and I'll keep walking you through this, but from my vantage point, here was what started to appear to me as a framework for a modern advertising agency. And I think there's even the possibility, I think I kind of pitched you something along this line, but I don't think you heard me and I don't think I pursued it all that much.
+
+22:18 - Jim Huffman Wait, it's sort of like an AI enabled agency?
+
+22:21 - Craig Swanson Well, exactly. So effectively, so effectively, the way the agency would be structured is you would have a, you would have, because, and I think we've even had this conversation, or I've had this conversation with someone. Everyone wants AI to do the strategy. And actually, AI is terrible at the strategy.
+
+22:40 - Jim Huffman That will not be the case forever.
+
+22:41 - Craig Swanson Like, unfortunately, we can't rest our laurels and say, well, strategy's safe. It's not gonna be. But right now, right now, AI is terrible at strategy.
+
+22:49 - Jim Huffman But what it's great at is basically execution.
+
+22:52 - Craig Swanson And so what I would see as an agency is basically you have, you're basically like you have, you have, you have customer leads, you have strategy leads and you have stress and you basically have marketing-oriented developers that basically is doing something like what I'm doing over in Jupyter. So instead of basically writing something up and going and having a team of people write, copy, and do these other things, you basically have your top leads and your developer, and then the developer just writes the AI agents to do what needs to happen.
+
+23:29 - Jim Huffman Right. I know as I look at the future of hiring, I need people that know how to use the tools. Right. Exactly. That's my main thing right now is like, I'm looking at my existing team, like who has a growth mindset that will nerd out and like go deep on these tools or I need to hire people that they already are showing that.
+
+23:48 - Craig Swanson Exactly. And I think if I were like, if I were creating an agency from scratch, The one thing that I see so much in the marketing realm happening, and this may be a bias on my part, I see so many people going to the packaged, so basically everyone's using the pre-designed web versions. And the pre-designed web versions are all about basically how much can I create with as little information as possible.
+
+24:16 - Jim Huffman Yeah, yeah, yeah.
+
+24:18 - Unidentified Speaker Mm-hmm.
+
+24:21 - Craig Swanson And if you think about what analytics companies do, or some of these quants, where you hire a, you've probably worked with companies that hire, what do you call them when they're basically, they're the analysts that come in and start pushing around a lot of data and figuring things out and trying to figure out where their opportunities are.
+
+24:43 - Multiple Speakers I forgot the name of it. Like a data scientist? Like a data scientist.
+
+24:46 - Craig Swanson So basically, if you took a, So if we partnered your growth understanding with a data science or someone higher up on that food chain that's basically about sucking in data and managing data, and then flowed that data through the AI creation process, all of a sudden you'd get what I'm envisioning as an agency.
+
+25:07 - Jim Huffman First, as a quick note, I'm all in on doing that as a thing to do, and I only want to do it if it's really trying to go big. Because I think there's two things that AI enables us to do really well, and it's speed and cost. And I'm thinking through how do you win by being the fastest, the most cost effective, and ideally winning on the third effective. I heard Jeff Bezos in his interview with Lex Friedman, he said something so interesting.
+
+25:39 - Craig Swanson He's like, when we had Amazon, the goal was to be the most customer centric company in the world.
+
+25:43 - Jim Huffman Like that was it. And then as he has, you know, Blue Origin, he's now saying, because the way space moves, like space development, he's like, we want to be the most decisive company in the world. And I think about that. And as I think about like this idea, What's that one tenet you think would allow this to just really go to the moon? And it's either speed, cost, or effectiveness, but speed usually wins.
+
+26:11 - Jim Huffman And I think there's something magical where we just need the right people to pull the tools. Um because I mean like right now we actually we're getting a lot of leads a lot of them um I'm like about to hopefully hire another salesperson like it's going well but I see the writing on the wall like I'm just doing like a cash grab as long as we can because the whole agency model is getting disrupted so I'd like this as a as a test.
+
+26:38 - Jim Huffman But anyway, that was a lot. Yeah, I love this idea. If you could help us build the back end and I could be the dancing monkey to drive business.
+
+26:46 - Craig Swanson I mean, you know what you say that and I know you value. So yes, and there's another. I mean, I totally get dancing monkey is the the way to like discount or like, you know, be self effacing. You can also say, you know, Rainmaker. You could also say You know, client lead, visionary, relationship developer, you know, star, you know, like, these are all, you know, the other thing to think through is, what's an amazing activation offer where this because here's the physics of this business model.
+
+27:28 - Jim Huffman What's exciting is you're taking the agency model, and you're removing one of the biggest barriers for scale, which is people.
+
+27:34 - Multiple Speakers Um, and then it's like, what's the close?
+
+27:36 - Jim Huffman Is this still a strategic sale and it's premium or is it SMB? And it's, it's different. And so that's another thing.
+
+27:44 - Multiple Speakers Anyway, I'm thinking through, I also think, I think there is to some degree, um, uh, content curator, there's also a level of like how big you're going and like how much risk and how, so, um, The one thing I'm
+
+28:03 - Craig Swanson not finding is content sales pages. I ended up having all of my emails just into this one huge thing. But you can see actually, this was a throwaway one, Fuck Jerry. But actually, so first of all, that's what Fuck Jerry is. But it gave me my favorite line. So first of all, it's fuck Jerry, but also like, I see the structure of her content in here.
+
+28:35 - Jim Huffman Yeah, it's like they still nailed it. And it has that framework.
+
+28:38 - Craig Swanson Yeah, exactly. And here we go with Sue's mastery. You'll learn to craft your chaos into coaching.
+
+28:44 - Jim Huffman Yeah, it's pretty after chaos.
+
+28:46 - Multiple Speakers Like I basically that became like that.
+
+28:49 - Craig Swanson That was one of my email subject lines. It's like some of this is also like judgment, where it's basically like, like there was me going through all this stuff I'd created. And like, I was kind of using for the most part entire letters that it wrote, but I would like cherry pick the subject lines.
+
+29:04 - Jim Huffman Yeah, and then I would use and then I would use the subject lines it found.
+
+29:12 - Unidentified Speaker For the Facebook ads.
+
+29:16 - Craig Swanson So.
+
+29:21 - Unidentified Speaker If I go to.
+
+29:22 - Craig Swanson I know we were just talking about something else and then I'm going to veered off, but if I go look at some of these.
+
+29:33 - Jim Huffman And this, yeah, not to even veer off, well, I'm interested in this creative development. If this was already existing Photoshop or if this is AI or a combination of all of it.
+
+29:46 - Craig Swanson In this case, this is Sue Bryce. So she has a huge library of photography. So she, like I was given a huge library of selects.
+
+29:53 - Multiple Speakers And I just basically added type to her existing select images.
+
+29:58 - Jim Huffman You added the craft structure itself. Yeah.
+
+30:01 - Multiple Speakers By the way. Yeah. So turn your chaos, you could shake like that literally came from wait, sorry, how did you make this ad creative?
+
+30:10 - Jim Huffman How do you put the text on there?
+
+30:12 - Multiple Speakers Did you? So in this case, I know Photoshop so well that I don't think of it as a challenge.
+
+30:16 - Jim Huffman Gotcha. Okay. Yeah, I'm just asking from because we're playing with ad creative AI right now Yeah, in addition to figma because we charge extra for creative and yeah AI comes in creative is less and less valued.
+
+30:30 - Craig Swanson So That said have you worked with IDEO?
+
+30:35 - Jim Huffman IDEO? IDEO. Oh IDEO, no.
+
+30:39 - Craig Swanson So IDEO is the graphic tool that I use for my creative because it does not fuck up words.
+
+30:49 - Jim Huffman Oh, cool.
+
+30:53 - Craig Swanson So one of my emails, I needed basically a six-week schedule. So you can see, basically, I just typed in the same prompt a bunch of times. And so this is where I got my images for the six-week schedule. Amazing. And it is transformative. Oh, FAQ, just my FAQ page, my EEO brainstorm. These are all basically.
+
+31:11 - Multiple Speakers This is awesome.
+
+31:14 - Craig Swanson So you can, you can see, cause you've probably done enough with imagery to know you can tell like when something like you just can't get words to look right from a lot of AI tools.
+
+31:23 - Jim Huffman Yeah, no, totally. Okay. This is super interesting. Man, that's some really good stuff in here.
+
+31:30 - Craig Swanson I know, I know.
+
+31:31 - Jim Huffman I would not want to be a designer or copywriter right now entering the job market. Good Lord.
+
+31:38 - Craig Swanson Yeah. So like in this case, it's getting the major type correct. This stuff is like bullshit in here. So like, and the thing is for me, I'm comfortable enough to be able to go into Photoshop and like clean something up.
+
+31:54 - Jim Huffman Content curator starts Monday.
+
+31:55 - Craig Swanson This is just basically me just basically like getting, I like write my email and I just need a graphic at the top of the email.
+
+32:01 - Jim Huffman Yeah. So can you export it into Figma and edit it? Or is it exports like a PNG?
+
+32:07 - Craig Swanson It's a PNG. Yep. Let me show you. You want to see the email? Do you want to see the creative, like the email, like the email sequences I created? So here, let's just kind of go through this, because I'll tell you what. I mean, I've done it.
+
+32:27 - Multiple Speakers Do the soap opera email series from Ryan or from Russell Brunson.
+
+32:31 - Craig Swanson Like tell me like, yeah, what'd you do? Yeah. So let me just, so I'm just going to go, let's see here.
+
+32:37 - Unidentified Speaker Last 90 days.
+
+32:44 - Craig Swanson So let me move this thing. So the first email, the very first email, this is the first email announcement, looked like this.
+
+33:06 - Jim Huffman And it's fairly boring, but I didn't write it. It's direct big call to action.
+
+33:12 - Craig Swanson Yeah. So this, this I just pulled from a promo video. So like I made the gift myself, this writing, I mean, honestly, like what ends up happening is I ended up like kind of like running, um, running prompts. But one of the other thing I was trying to do is rather than me taking the prompts, getting the result and then cleaning it up. I was also just trying to use the discipline of only taking the output.
+
+33:32 - Craig Swanson So basically I just ran the prompts until I got something that worked pretty much as it is. So this prompt is basically exactly what came out of AI.
+
+33:43 - Multiple Speakers I may have churned through and done a bunch of prompts and thrown things away.
+
+33:50 - Craig Swanson So that was the announcement, that was March 1st. March 4th, I basically started doing two emails a week, or three emails a week. Second one was, what is Content Curator? And then this is pulling directly from all those videos that she's already produced. The great thing is, we already know what it is. And the one thing you'll see is I didn't even named the weeks yet. Like I knew at some point I was going to have to give the weeks a really coherent name.
+
+34:20 - Multiple Speakers Yeah. But I didn't need to yet.
+
+34:23 - Craig Swanson And so as we go through, you're going to see all these emails are taking a different tag at how to basically describe it. And you ever need to create a whole bunch of email series that's basically saying the same thing over and over again with slightly different angles and positions and all that?
+
+34:37 - Jim Huffman Yeah. That is just exactly perfect for what this thing is.
+
+34:40 - Craig Swanson It really is.
+
+34:41 - Jim Huffman And then the one thing I added is basically a animated GIF countdown timer.
+
+34:46 - Craig Swanson This is literally just refreshes every single time. So this started off at 27 days. So the other thing is I'm also trying to drive in that countdown. So my emails are doing two things. It's conveying information, but it's also constantly reminding people that there's a countdown clock going so that they hit that spike at the end in all the purchases.
+
+35:04 - Jim Huffman Yeah, totally. So that was the second day.
+
+35:07 - Craig Swanson This one is not AI. So this one was literally just, this is like one of the non-AI ones, where I just was looking through Sue's most engaged posts. And she did this one post that had basically pictures of all of her behind the scenes for her stuff. That's cool.
+
+35:30 - Jim Huffman I like the annotations on it. This is cool.
+
+35:34 - Craig Swanson She did all that. So basically this was her post what I did is I basically took the text of her post in the comments And I had it right up these little like captions underneath You know, so so this is like this is this didn't take creative work on my part as much as just kind of like Recognizing what I needed. Yeah This one I love this one This one was, again, written by AI. And actually, this FAQ asterisk, some assembly required, I ended up building this in Photoshop.
+
+36:10 - Craig Swanson But if you go here and you scroll back through it, it didn't occur to me. And it was inspired by some things that started popping up here. I went, oh, actually, that's a great idea. And I thought, you know, that's just type. I can just do that easier myself.
+
+36:24 - Jim Huffman Totally. Yeah.
+
+36:26 - Craig Swanson But basically, this is saying, let's answer your questions about Sue's content career course. I'm Craig, one of the behind-the-scenes business creators on Sue's team. This is all basically driven by the prompt. I'm basically asking for their questions, asking them to ask their questions. And then here was what the, for me, if I go to Help Scout, this became just transformative for me. I never answered any questions.
+
+36:53 - Multiple Speakers My AI did. Really?
+
+36:56 - Craig Swanson So the AI basically...
+
+36:58 - Multiple Speakers It knows everything in the content so it can...
+
+37:01 - Craig Swanson It knows everything in the content and I was willing to let it, I was willing to pay like a dollar per question. So I'm just going to scroll back down.
+
+37:09 - Multiple Speakers So they asked the question, did you have to like do any copy pasting? I did. I did. So what I would do is, here we go.
+
+37:19 - Craig Swanson Really, look at that. So, I mean, this question, having seen like this, I would just literally copy this whole thing. I would paste it into my... Please use the transcripts of content curator and testimonials from users to answer the following support question. Literally, I just paste it in here and get the answer down below.
+
+37:50 - Jim Huffman That's amazing.
+
+37:52 - Craig Swanson That's one of those things where also with a developer, I can also build this right into Help Scout. That's also one of those things that I've been making. In fact, actually, one of the things I need to do is I can't hand this over to a new customer support person until I automate this process. But effectively, I use this to answer all their questions. Occasionally, I would need to actually answer something and then In here.
+
+38:19 - Craig Swanson Actually, you know what I can just show you and show you the result in here. Because it's one of the it's one of the data sources that all this is happening with.
+
+38:39 - Unidentified Speaker You're able to see through some of the technical stuff, right?
+
+38:42 - Jim Huffman Yeah, totally.
+
+38:45 - Craig Swanson Content curator. Because remember, as I'm collecting information, it's kind of going into this pile of source that my AI can just be aware of to answer.
+
+38:54 - Jim Huffman So Q&A.
+
+39:05 - Craig Swanson These are all the Q&A. These are basically all the questions that people ask. So this is literally the raw Q&A. Will there be replays available for those who purchased the course? Hi, Jim. Yes, there'll be replays. And these are literally just me pasting in the answers. Sometimes I had to edit if it doesn't know. So once I've answered it once, it doesn't need to again.
+
+39:21 - Multiple Speakers And these are all these things.
+
+39:25 - Craig Swanson And then once I had had a whole bunch of questions and answers, I email for questions. What's this? Oh, that's, that's, oh, literally. Oh my goodness. I even gave it the email. I even gave it the email. That's, that's, that's creating these questions.
+
+39:43 - Jim Huffman Yeah.
+
+39:44 - Craig Swanson Um, but then if I go to FAA, so current FAQ, I had to generate the FAQ from all those questions.
+
+39:51 - Jim Huffman Nice.
+
+39:52 - Craig Swanson So basically I just, yeah, that's, that's huge. Built the FAQ. And then I ended up like using this FAQ to basically became like my kind of my database of finished questions. And then I have my sales literature basically pulls from the FAQ or the questions. So it can all build that in.
+
+40:12 - Unidentified Speaker Yeah.
+
+40:15 - Craig Swanson Um, and I, what I was going to do is like, I was actually going to like, add this all to like one of those really nice FAQ tools. But the more I go on this, like this feels like, like an FAQ feels so outdated to me. I'll still, I'm still doing it.
+
+40:28 - Unidentified Speaker Right.
+
+40:28 - Jim Huffman Yeah.
+
+40:29 - Craig Swanson But because like the AI is getting so close to me, just taking my hands off the wheel and just letting it just totally just respond for me.
+
+40:37 - Unidentified Speaker Yeah.
+
+40:37 - Jim Huffman Especially when it has all of those contexts.
+
+40:39 - Craig Swanson Um, this is interesting.
+
+40:44 - Jim Huffman Um, and then basically, like, I just had to go long enough until I felt like the FAQ had enough stuff.
+
+40:49 - Craig Swanson Are there any prerequisites for joining? There are no specific requests. I had to do a little bit of work on my prompting. Basically with my prompt, with my prompting, the AI very much wanted to convince everybody that like, I had to basically add a lot of weight to the customer service prompt so that it respected their autonomy to decide for themselves
+
+41:08 - Multiple Speakers whether this was a fit and it told people it was not a fit if it wasn't.
+
+41:12 - Jim Huffman Yeah. Um, which, which is good marketing.
+
+41:16 - Craig Swanson I mean, like, it doesn't do me a good to sell. Like, if, does it do this, the, the AI by itself really wanted to say yes to everything and want to be very pleasing. And I had to like, you know, and I had to like, try to like introduce the ability that it can say no and like say that.
+
+41:29 - Multiple Speakers Yeah.
+
+41:33 - Craig Swanson Um, so this was the email that started people asking questions.
+
+41:39 - Jim Huffman And was it the strategy derived from AI or did you already have the strategies? Like, okay, and I'm going to do like the pre-launch launch post-launch. I'm going to do this, do that.
+
+41:50 - Multiple Speakers Or did you, I don't ask AI strategy questions.
+
+41:53 - Jim Huffman Yeah.
+
+41:56 - Craig Swanson I mean, I ask it a lot of, I ask it a lot of data analysis questions. So like, one of the things that we haven't talked about is, let me, so basically, 21 emails, like there's 21 emails in here. Let me just see if there's another interesting one. Here, Thursday, I use the same tools I teach. Just to kind of like show you, but basically, This image was another image that people really responded to in her LinkedIn profile.
+
+42:28 - Craig Swanson So she's an active influencer. So I basically grabbed this.
+
+42:32 - Multiple Speakers This was from her own notebook showing when she was working on Constant Curator.
+
+42:36 - Craig Swanson And then I had my AI basically write it up using what she teaches. And again, look at this. It defines all six weeks. Every time, it is basically giving a summary of what's taught in those six weeks in slightly different language. Here, Friday, last call, view campaign. Again, the weeks, slightly different language, slightly different format. And then finally, I knew that I needed to actually clarify everything.
+
+43:11 - Craig Swanson So by the time this one, and this was the 25th, so we've done 25 days of me just letting it define things. I haven't even figured out what to call the individual weeks. Finally, on this one, I actually named the weeks because I now needed to actually put up, I actually needed to own that stuff.
+
+43:29 - Multiple Speakers And I think in this case, I had three of the weeks named because she had named them internally.
+
+43:37 - Craig Swanson The others were unnamed, and I basically had it list. I had the AI basically looked at all the content. I did two things. I basically had it come up with naming suggestions, and then basically asked it for a percentage of how well that name fit exactly what was taught in that week's course. And so I would come up with these naming suggestions, and then it would say, this is like 80%. She goes off this subject 20% the time, or different things like that, and super helpful.
+
+44:02 - Jim Huffman Wow, that is very cool. So yeah, there's a little strategy baked into that.
+
+44:07 - Unidentified Speaker Gotcha.
+
+44:09 - Craig Swanson I see it as like, and like I said, I would definitely keep strategy at the top level. I guess I still need, I would still hire on my team, whether it's me or someone else, a great strategist, I just trust this to go right.
+
+44:24 - Multiple Speakers Exactly. And then and then like, you know, like, you know, when you get the when the great strategist gets in the room with like a whole bunch of employees to like brainstorm and come up with stuff. That's the stuff that basically the AI is like really good at for me.
+
+44:34 - Jim Huffman Yeah. And then on though, So it's helpful with the ads with creative or with copy. And then, um, I'm seeing the email and then with the website, it was more of like the copy on the page. Cause one thing we're checking, they're like AI generated landing pages and whatnot.
+
+44:54 - Craig Swanson Um, obviously those are things that are of interest happens for this page. Basically it's just copy on the page.
+
+45:02 - Jim Huffman Yeah, because you already know what works. You've done it so many times with pages.
+
+45:05 - Multiple Speakers Well, I mean, yes.
+
+45:06 - Craig Swanson I mean, well, I mean, whether I do or I don't, I know it works. And actually, we ended up doing a lead page version of this. I've actually, I've actually, I've done enough split testing of like really visual lead pages and really simple text pages. And they are similar enough in results that I'm willing to just kind of trust my own instincts. Does it, you know what I mean? Like in other words, like I'm not saying that the simple pages always win or that the lead page is like, but it is, it's a, it, it is not, it's not a home run for the fancy ones and enough so that I feel comfortable going into simple until I really am in like a scaling mode where I really want to like start tweaking things.
+
+45:50 - Jim Huffman Yeah.
+
+45:54 - Unidentified Speaker Nice.
+
+45:55 - Jim Huffman Where are you like, talk about where the time suck is and even managing this or guiding it, like where it's like, wow, this is magic and where it's still a point of friction.
+
+46:11 - Craig Swanson Here's where the time suck is. And it's a combination of the speed. I am used to having a Tuesday meeting with my growth or creative team, having them work for a week on stuff and then bringing it back to me, maybe having conversations along the way for me to make judgment calls on what we pull the trigger on. And so for me, I get a Tuesday kickoff. With my growth or creative team, and then I basically have a week to think, reflect, and process, and they bring back to me, and then we launch.
+
+46:47 - Craig Swanson That has always felt like we're moving pretty quickly. Basically, we've been working in weekly sprints. What happens now is I effectively have that kickoff conversation, and then I get an immediate response back from AI. What's actually happened is I'm getting things done much faster. And like in total, I'm probably putting in less effort, but it feels more effortful because I've got no waiting for a human being process.
+
+47:12 - Craig Swanson That's giving me downtime.
+
+47:13 - Jim Huffman Yeah. And having that space to think and process, um, that there is value in that.
+
+47:19 - Craig Swanson Um, and also just someone else carrying the load. I mean, basically I'm the only human being carrying the load for a lot of this.
+
+47:25 - Jim Huffman Yeah. You are doing like strategy and execution. Granted, the execution is toggling basically the AI agent, but that's still execution, which that's a different part of your brain you work than when you're like strategy, right?
+
+47:41 - Craig Swanson Yeah. And even then, it's not harder than handing it off to a human being. I was thinking about this a lot. If I hand it off to a human being, I do a lot of that kind of organizing of thought and all that. It's just that because I get immediate response, There's just no downtime on my side of the conversation. If you hand it off to an employee and then they give it back to you right then for you to then evaluate, there's been no downside.
+
+48:09 - Craig Swanson Even if efficiency is wildly in the charts, it feels like I'm doing more work than I used to.
+
+48:15 - Jim Huffman Yeah. Interesting. Where I'm thinking through what business model industry or type of entrepreneur does this, where does this have the most value? Cause it might just be obvious. It's people that have a lot of data and content that they can leverage to drive their strategy. So e-products, e-courses.
+
+48:39 - Multiple Speakers Let me show you one more thing in here about the data, but I think, but for me, it's like selling and other things, but, um, Last updated.
+
+48:48 - Jim Huffman What do you want to create? Don't even build an agency, just like acquire e-products and courses and grow those, right? Yeah. So I think I've talked about this before. Basically, I do a lot of these answer a two question survey. Have I talked to you about this before?
+
+49:08 - Craig Swanson No, this is cool. I mean, this is, in a nutshell, my customer service feedback. Basically, question one, can you describe what you'd most like to focus on creating in our upcoming course? Step two, what stands between where you are and making that dream possible? So it is like, in varying terms, I'm always asking the same two questions. What is it that you want? And what stands in your way, or what do you want, and did you get it?
+
+49:35 - Craig Swanson If you got it, what did it look like,
+
+49:36 - Multiple Speakers So basically- That is beautifully phrased, that second question. I really like that. And we've done a lot of surveys, that is very good.
+
+49:45 - Craig Swanson So if I go into Typeform, because I'm just doing the, like, it's just in here, look, 17 responses since I opened this up last. I have got 138 responses from the people who have paid money for this course.
+
+49:57 - Jim Huffman Wow. Put that in and be like, tell me what to make next.
+
+50:02 - Craig Swanson Exactly. And in fact, if you look at the very bottom of this list or the very top of the survey responses 15 hours ago, I uploaded the last round. Once I started getting those responses, I'm starting to use those responses to start writing my copy. And like, I'm actually, I don't think this last one is like really stellar, but if you think about it from the standpoint of writing a problem agitate, solve, or like an opera series, let me show you the email that went out this morning.
+
+50:41 - Unidentified Speaker Friday. Okay. So this is today.
+
+50:42 - Craig Swanson This is today, by the way, like my, these other emails I wrote up until like the 25th, they were already prewritten this one. This is just a graphic. Like this is the cover of her, her PDF that we're giving out. So a human being created this, like that was the design.
+
+50:59 - Jim Huffman Yeah.
+
+51:00 - Craig Swanson This is all just email. I mean, this is just all AI email, like from last night. And I mean, you know, this is not like stellar. And honestly, this was kind of yesterday, but I've been listening, intently connecting with so many brainy with incredible ideas. You've shared your aspirations to captivate audience, to craft courses that resonate, to launch retreats that transform lives and speak with authenticity that inspires.
+
+51:21 - Craig Swanson I hear your desire for structured roadmaps, clarity of messaging, and the courage to step boldly into the content creation realm. That's basically all just drawn from that first column of what do you want?
+
+51:30 - Unidentified Speaker Yeah.
+
+51:32 - Craig Swanson And you voice the challenges standing in our way, the overwhelming fear of the unknown, the daunting tech, the joy, the concern of not being quote enough. It's like standing at the end. Honestly, this is not like the strongest email I'll have done in this realm, but also it also took like 15 minutes because I realized I needed one to go out today.
+
+51:52 - Jim Huffman Yeah, yeah. Man, it's telling me go where there's businesses sitting on data that is being untapped and not leveraged to do various things. From video content and transcripts to customer reviews, surveys, And like, who can gain the most from these? I mean, even like freaking sales transcripts, almost like a tool for salespeople.
+
+52:22 - Multiple Speakers Oh my God. Oh, so, um, this is not something I was involved in, but it's something that I saw another EO member do.
+
+52:30 - Craig Swanson They fed in all of the recorded, um, phone calls from their front desk for a veterinarian agency. Um, and the AI was basic. So, and actually it made me realize if I were managing a sales team, I would need to have them all recording everything because it was amazing. Like most of these calls are like, you know, three to 15 minutes long, but basically it was able to identify if they, if they identified the problem, if they, if they correctly diagnosed the right solution to give, if they.
+
+53:03 - Craig Swanson Basically it gave people a grade on their closing rate based on what the opportunities in the call presented. Um, including indicating if they closed for something they shouldn't be closing on.
+
+53:16 - Jim Huffman Yeah. Um, and it was amazing.
+
+53:19 - Craig Swanson It was amazing. And then like, and then you can basically follow that thing and click on anything and actually see the raw transcript. And it's great for, for coaching, for training, for like overseeing and managing. Um, this is one of these worlds, like we're going into, I am now recording every conversation I have because right now, every like this, this conversation we're having right now. Goes into Craig's future course pile of stuff.
+
+53:43 - Jim Huffman Yeah, absolutely.
+
+53:45 - Craig Swanson And, you know, like as I'm trying to figure out like what I'm doing next, I'm basically kind of creating this massive backlog of all my thoughts along the way, all the things that people have responded to. So smart, like control your own data. All right, I'm going to have record on at every second of the way during the business hours is what that's doing. I think if you're looking at it from your standpoint, like from a business standpoint, I'm going to jump back to this.
+
+54:12 - Craig Swanson Like if I were building an agency, if I were building an agency, I think just philosophically, One of the things I was trying to do is I was basically willing to spend more money on AI processing. So like I said, we paid about $1,200. And I was willing to not solve things by me typing with my hand, to basically go back and rework the prompt five or six times to get something that would output what I need, rather than me just quickly correcting
+
+54:40 - Jim Huffman something.
+
+54:43 - Craig Swanson Because my goal was not to solve the immediate problem of getting this email done. My goal is to try to understand what it would take to write the code that would have this thing not require a human being to intervene at the next step. Which means that, and this is one of the things I think becomes difficult in an agency, unless like someone really has to have that mindset, or you basically have to forego short-term efficiency of what's possible, because the goal is not to solve the problem that's in front of me, but the goal is to use the problem in front of me as the mechanism by which I build the tool that solves future problems.
+
+55:29 - Jim Huffman Yeah. Yeah. It's not the immediate problem. It's the future problems later. This can be done in a scalable way.
+
+55:35 - Craig Swanson Right.
+
+55:36 - Multiple Speakers Exactly.
+
+55:37 - Craig Swanson And then once I understand that, then basically for me, I think then I can move from like this backend Python script to a front end script that basically just like streamlines that for users.
+
+55:49 - Jim Huffman Yeah. No, I mean, just even what you have here, this rough version, if there was a way we could be bringing in these different data sources, then that's amazing to do things. And again, I'm very interested in having those conversations on the side of an agency. I can even, it's interesting, so I can, you wanna see how Ripple's onboarding me right now?
+
+56:11 - Multiple Speakers You wanna see the email we just sent?
+
+56:14 - Craig Swanson So check this out. Yeah, do you wanna share your screen or?
+
+56:16 - Multiple Speakers Yeah, I'll share my screen for a hot second. By the way, just let me throw this up for you and what you're doing. If there's any way that you could basically ask those two questions of people for Neat, which is, what were you hoping?
+
+56:31 - Craig Swanson Basically, the question is, when you bought this, what were you hoping that it would solve for you? Yeah. Then the second question is, did it solve it? Yes, no. Then the third question is, if it solved it for you, can you describe how it solved it for you?
+
+56:47 - Jim Huffman Yeah, getting that feedback. From a CRO perspective, when we get voice of customer data and turn that into marketing, that is everything. And this does it in a very scalable way. That's a good problem. So yeah, so again, they focus on email, they're getting Shopify with my Shopify URL, Shopify token, Klaviyo API, and then I guess access to maybe that's Klaviyo or Shopify, and then we export The reviews.
+
+57:20 - Craig Swanson Yeah, and that that's Yeah, that is like I mean kind of it.
+
+57:25 - Jim Huffman I mean maybe Could you forward that to me?
+
+57:28 - Craig Swanson Just like I mean like I think I kind of think I'm not chasing this anymore. I kind of feel like I don't know. I kind of feel like like me building out a sass I I just don't know that my skill set I don't know if I'm going to win at SaaS, especially with everything else coming online. I know I can bank on a bunch of money just by basically really quickly selling stuff.
+
+57:57 - Jim Huffman That's the thing. It's like you're like, I just love watching you tinker and how it's getting better and better and better and better. Now it's like it went and you can continue to tinker. But you kind of have these two exciting options. This AI enabled agency could go down or no, I've got the tools better than anyone else. Let me sell products and things. And there's a world you can do both, right?
+
+58:20 - Jim Huffman Like, How can you leverage people or money so you don't get sucked into any one thing, right? You could pilot both where you have partners that can help with the execution.
+
+58:33 - Multiple Speakers That would be very, very interesting.
+
+58:35 - Craig Swanson I think if I were doing a moonshot, if I were doing a startup where I'm basically betting it all on this thing doing it, I'm doing it the wrong way. But also a moonshot has a really low chance of success. So basically what you're doing is you're basically saying I'm playing for huge market opportunity with a really low chance of success. And I think where I'm probably like, I'm kind of like threading the needle and saying, you know, I think I can make millions of dollars servicing this niche that I totally know how to do.
+
+59:08 - Craig Swanson And I think I can use those examples and that millions of dollars to create this engine that makes that more efficient and I might be able to spin off and like actually make into a product. And I do know that by focusing on making the millions of dollars in the way I'm doing it, I've got a little bit what you've got, which is an agency module. It's hard for an agency to also build a SaaS for an agency.
+
+59:33 - Craig Swanson It's this whole balancing act of short-term, yeah, short-term mindset versus long-term platform. I need to solve my client's issues today, and that becomes more important than me tinkering with a platform that's not quite working.
+
+59:51 - Jim Huffman Yeah, you get sucked into that black hole where it's like doing well, well enough, you can't ignore those short-term fires, but then you can't focus on the big long-term opportunity, which could be a dangerous place to be sucked into. I'm also thinking through, if you do the agency route, which persona has the biggest appetite and budget for this? Like deep down, a part of me wishes I had like Yesler marketing agency, had a B2B like ABM, account-based marketing focused agency.
+
+1:00:25 - Jim Huffman And I was working with like Varonis, who's publicly traded doing 11 billion a year that spends 50 100 count agencies because like we work with Shopify agencies, they pay 5 to 12 grand per month.
+
+1:00:38 - Multiple Speakers So, you know, okay. So, so unfortunately I've got to call it 12.
+
+1:00:41 - Jim Huffman So I don't, but we almost should do another call about this.
+
+1:00:43 - Multiple Speakers Cause I'm really curious. I mean, what I want to ask is how much you're taking.
+
+1:00:48 - Craig Swanson Okay. So here, here's my response, but I'm not, I don't think I'm necessarily playing the biggest game I could. I don't know if I want to play the biggest game I could, because I also kind of like my life. Yeah, it's like lifestyle design within the biggest game you want to play. Yeah. So the one thing I'm doing is I am not an agency. Nobody pays me anything. What I do is I own equity in the thing that I build with.
+
+1:01:16 - Craig Swanson And so I would say for me it's a little bit like kind of the Billy Mays model, because they used to do this thing where they'd do their infomercials, they'd have all the information, but effectively they also take a piece of ownership for a lot of those things.
+
+1:01:31 - Jim Huffman Again, I wish I had a bigger audience so I could be a perfect persona, but we're going big on the growth marketing operating system. I took your advice. I did sell, launch, build, and I just put out there.
+
+1:01:45 - Multiple Speakers I saw that. Four figures of sales.
+
+1:01:46 - Jim Huffman I'm like, okay, that's cool. If that's something where you're like, whatever you want to partner with, I'm down to have those conversations.
+
+1:01:53 - Multiple Speakers At the very least, I would love to talk to you about that because that thing when I was looking at it.
+
+1:01:59 - Craig Swanson What, like, like that would fit so nicely into my backend system. Like I would love to at least like, and I don't know how much, I don't know if you've got anything built for that, but like, I have all the frameworks built out. See if you've got the frameworks built out. I mean, yeah. I mean, I, so.
+
+1:02:15 - Jim Huffman That's just like the playground stuff.
+
+1:02:18 - Craig Swanson Let's just play with that. If you wanted to do it together, let's do this. Let's at least talk about it. It is so much in my wheelhouse that I would at least love to talk and share and show you what I could do with these tools. And then if we both wanted to, It's also something we could do together, because the idea of taking this existing scaffolding, selling it to people, using their feedback to iterate what that thing is, and then trying to build a sales engine that scales, that's kind of what I do.
+
+1:02:50 - Craig Swanson Yeah, man, that's why I think it could be really fun.
+
+1:02:53 - Jim Huffman Um, so let's set up that call, like whenever, but, and I can show you what I have and you can honestly be like, okay, Jim, for this to be successful, we need to do this, this, and this. And like, I can put our team on it.
+
+1:03:06 - Craig Swanson Um, I'm leaving. So I need to go to my other call. Can you look, could you, can you look at my calendar? See if there's anything open from Monday to the, to Thursday of next week and see if we could just do it. And you can walk me through what you got.
+
+1:03:18 - Jim Huffman Yeah, I'll book a time. Cool, thanks.

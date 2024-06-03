@@ -1,0 +1,106 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 02 - The Real Reason Startups Fail  ====
+
+2
+The Real Reason Startups Fail
+“Most businesses actually get zero distribution channels to work. Poor distribution—not product—is the number one cause of failure.” —Peter Thiel, PayPal cofounder and investor
+ 
+
+Let’s go through your thought process as you launch a product:
+
+“I have the best idea ever.”
+
+…
+
+I’m so excited I can’t sleep. I’m doing it. It’s happening.”
+
+…
+
+“Wait, why aren’t more people using it?”
+
+…
+
+“Why aren’t my customers coming back?”
+
+…
+
+“My product sucks.”
+
+Has your inner dialogue ever gone down this road?
+
+Well, your product (probably) doesn’t suck. Lots of this self-inflicted pain is caused because you’re expecting to create the next big thing, but you can’t acquire one user other than your mom. You’re not seeing instant user growth. People aren’t falling in love with your product like you thought they would.
+
+Below is a chart of the top 20 reasons startups fail, according to CB Insights:
+
+ 
+
+
+You’ll see that 42% of startups failed because there was no market need for that product or service. They either didn’t create something that people wanted or they were targeting the wrong users.
+
+“So what?” you say. “If I build a great product, it will sell itself.”
+
+Wrong.
+
+The best product doesn’t always win. What wins? It’s a product that satisfies the right market. Are you putting the same amount of care and attention into your growth strategy as you are into building your actual product?
+
+We’ll talk about how to identify whether the problem lies with your product or your distribution plan in chapter 4. Maybe your product is amazing. Maybe you did everything right and your product just needs to be discovered. Maybe your initial idea isn’t the right idea, but it’s two iterations away from something great.
+
+The problem could be that you’re not connecting your product to potential users the right way. Your distribution plan isn’t thought out and it’s taking you down the wrong path. Maybe you’re not getting the product in front of the right users or getting the feedback you need. Maybe there is too much friction between your product and your potential customers. Maybe you didn’t put enough thought into your user-acquisition strategy or your messaging.
+
+WARNING: Over 60% of your growth experiments will fail. Luckily, you only need one to work.
+
+You could have a ground-breaking iPhone app but you aren’t optimized for Apple’s App Store. You haven’t connected with an app sales rep and you have no idea how to do any paid marketing to get app downloads. Heck, maybe you don’t even know how to calculate your customer acquisition cost (CAC) against the lifetime value (LTV) of your customer.
+
+Quick tip: A basic rule of thumb on CAC and LTV is that you want a 3:1 ratio with your LTV being 3x of your CAC. Example: Spend $30 to get $90.
+
+You could have a stunning clothing line for the maternity category but you have no idea how to optimize your Shopify site for organic traffic. You could be ignoring some of the best keywords like “baby shower dresses” that get a high volume of monthly traffic (it’s 50,000 per month, according to Google Keyword Planner).
+
+Maybe you don’t understand the true power of affiliate marketing and influencer marketing in e-commerce fashion.
+
+You could be an incredible service for Ruby developers and you never even tried to connect with your potential customers through online forums or online marketing for offline events through Meetup.com.
+
+What does this mean? It means the doubters, the haters and the I-told-you-so-ers are feeling good right now. You’re losing hope in your product because you aren’t growing.
+
+But the truth is, it might not be the idea or the product. It could be that you aren’t using the right framework to uncover your opportunities for growth, the opportunities to put your product in front of the right people at the right time.
+
+If you build it, they will…not give a sh*t
+
+Unless you’ve invented free money. Users usually don’t just magically appear. You need to make sure you understand that. Know that you will launch a product and nothing will change. Yes, you’ll get some initial traffic from press, but that goes away.
+
+This comes as a surprise to people. Why is that? Because the overnight success of a startup has been romanticized to a point where it’s corrupted how people view growth. It has influenced how people view marketing and it’s setting people up to fail. If you aren’t thinking about how you’re acquiring users, you’re going to have some tough days ahead. You need to understand your market and be relentless about connecting with them.
+
+Imagine if BuzzFeed launched as a print publication instead of a social-first online publication on Facebook. What if Groupon hadn’t worked so hard to craft an email strategy for its retention marketing plan? What if Mint hadn’t used beautifully crafted infographics on its blog to build trust for their personal finance app? What if Dropbox hadn’t used free storage as a referral marketing program and kept trying to fine-tune its paid advertisements? What if PayPal hadn’t stopped trying to do partnerships with banks to focus on a viral growth strategy to give away money to new users?
+
+For every growth success story there are 10 more stories about the thing that failed before they found their ideal distribution channel. So what does this mean? What is the silver bullet for growth marketing?
+
+The silver bullet is…that there ISN’T a silver bullet.
+
+It’s not about tactics and tricks. It’s about an approach and process that will help you figure out the best way to align your product with the ideal users. That’s what we’re going to talk about. It’s about how you can ensure success before you even launch a product.
+
+It’s about the strategy to sustainable growth. Are you putting the same amount of care and attention into your marketing as you are into building your product?
+
+Jay Baer, a New York Times best-selling author and the founder of Convince and Convert, says, “Make your marketing so useful people would pay you for it.”
+
+The best growth marketing plans are made up of lots of lead bullets. These one-off growth hacks are not going to make or break the success of a company.
+
+Relentless focus is the multiplier that turns your idea into something valuable. Not just getting lucky, but consistently making your own luck, over and over again. But it’s impossible to do this if you don’t have a system.
+
+You need a method of deciding on the right combination of marketing channels, data analysis and growth strategy. Define a set of rules for deciding how and when to make changes as you learn more about your business model and the industry in which it operates. Run multiple checks to make sure you’re on pace to achieve your goals.
+
+It’s worth the effort up front to do a little research to figure out:
+
+Does my target customer hang out online?
+If so, where?
+How do I get to them?
+You can reach moms online. You can reach gamers online. You can certainly reach and sell to marketers online. But can you reach dentists and masonry professionals at scale online?
+
+Some say that distribution can save your startup. Correction: the right distribution strategy can save your startup.
+
+The right distribution strategy connects your solution to the people who have the problem in a frictionless way. It forces you to connect the two by finding the right path or paths to uncover the people who will love your product. By focusing on distribution, you’re starting with the end in mind. You’re setting yourself up for success.
+
+CHAPTER 2 CHEAT SHEET
+
+Most companies fail because they haven’t identified a market for its product.
+The silver bullet to growth marketing is that there isn’t a silver bullet. It’s about a process for uncovering sustainable growth channels.
+Your target demographic/customers will dictate what marketing channels are an option for your business.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 02 - The Real Reason Startups Fail  ====

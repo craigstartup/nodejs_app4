@@ -1,0 +1,146 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 01 - Why Growth Marketing Matters  ====
+
+1
+Why Growth Marketing Matters
+“Growth is never by mere chance; it is the result of forces working together.” —James Cash Penney, Founder of JCPenney
+ 
+
+It doesn’t matter that my business idea wasn’t perfect.
+
+The main thing is, I made it happen. It was 2011 and I built the website myself. No coders. No agency.
+
+To clarify, it was just a simple WordPress site with some plug-ins, but to me it was a thing of beauty. It was about to change the world. And my website was live!
+
+Damn, was I wrong.
+
+Sadly, this is where that story ends. That finished product was the main highlight. The users never arrived. Investors never called. We never filed an IPO. Today, the domain is just a tombstone inside my GoDaddy graveyard. #RIP
+
+Since then, I have grown four startups that generate over a million dollars in sales per month. I’ve mentored founders who’ve worked at Google, Apple and Techstars on growth and led growth marketing workshops at companies like Mattel, FedEx, Oreo, Clorox and more. I have helped market a launch of a Netflix special in over 130 countries.
+
+As I write this book, I am running growth for an e-commerce brand that’s grown from 500 subscribers and $10,000 a month to over 75,000 paying customers and seven figures in sales per month.
+
+I haven’t done this with one trick or tactic.  I don’t have a magic SEO hack that will change your life.  I’ve used various channels, including search engine optimization (SEO), email marketing, referral marketing and paid social ads to drive growth. It’s the principles of growth that got me to this point. That is what I hope to pass on to you through this book.
+
+But, first, why did my first product fail, you ask?
+
+Why didn’t my website get traffic? The truth is that it never stood a chance. Connecting potential customers to the product was never a part of the strategy or my vision. Building a thoughtful acquisition strategy was not a priority. I was naive and just assumed that customers would magically appear after I built a shiny website.
+
+It didn’t fail because of the idea. It failed because I undervalued the importance of connecting my product to a market that would care about it.
+
+In most startups, the problem isn’t the product or the service you offer, it’s the distribution strategy. In other words, I didn’t build a product with growth in mind.
+
+Unfortunately, this isn’t uncommon. You might have a decent business idea bouncing around in your head. Then you muster up the energy and the team to execute on it and turn it into a workable prototype. Congrats, you have a working web app! Your mom will be proud. What’s next?
+
+How do you connect your new product with the world? Did you assume that simply because you took the initiative to make something, people will flock to it?
+
+The truth is, this is how most people approach marketing. They put their growth strategy on the back-burner. They assume that because they’re building the greatest thing since the iPhone, marketing will take care of itself.
+
+Don’t get me wrong: The most important thing is a product that truly solves a problem in a way that’s 10 times better than the next best solution.
+
+But that product should also come with validated customer demand and a distribution strategy to get it in front of them. How will you connect this product with users in an organic and seamless way? Do you have a strategy other than “run Facebook ads” to acquire users?
+
+This sounds so simple and obvious, but it’s constantly forgotten. Worse, people think they’re doing this, but instead they’re implementing a below-average marketing and growth strategy.
+
+Don’t agree? Take it from Dave McClure, founder of 500 Startups and former head of marketing at PayPal. He says this:
+
+“The Valley skill set that should be in highest demand and greatest scarcity is neither engineering nor design, but rather internet marketing.”
+
+How did I go from building a crappy website that barely got any users to helping startups grow to millions of dollars in sales and teaching Fortune 500 companies how to run growth? That’s what we’ll break down in this book, including the following topics:
+
+How to be customer-focused in every aspect of marketing
+How to run your growth team when it’s 10 people or just you
+How to build a conversion funnel that works
+How to scale your growth strategy
+Best practices for acquiring users, converting customers and scaling growth
+There is a plethora of marketing, growth-hacking and startup books out there, so how will this book actually help you?  Where does this book fit in with all the other options?
+
+First, this isn’t marketing. It’s growth marketing. Wait, what is growth marketing? Dave Gerhardt of Drift, a conversational marketing tool, defines growth marketing as the following, “Growth marketing is all about one thing: attracting more engaged customers. And while traditional marketing focuses on the top of the funnel, the growth marketing job description requires focusing on the entire funnel.”
+
+Said another way, marketing is about the first touchpoint and getting people to your website. Growth marketing is about the entire funnel: Getting people to the site, activating them, getting them to return and getting them to refer. The more you can control the entire experience, the more powerful you’ll be as a marketer.
+
+How is this marketing book different from all the others?
+
+It’s not about one person’s growth story. It’s not about high-level theories. It’s about actual on-the-job advice for growing your online business. Thoughtful insight and advice along with the mistakes to avoid.
+
+If this book was a dog it would be a mutt. A scrappy, friendly mutt named Oliver, made of the best parts of all breeds.
+
+It’s part marketing playbook (reference chapter 7).
+
+It’s part growth philosophy book (reference chapter 3).
+
+It’s part database and resources (reference chapter 9).
+
+Plus, it has a little touch of motivation (check the last chapter).
+
+Most importantly, this book is a resource that gives you the confidence to grow your business the right way.
+
+It contains actionable advice and recommendations you can implement or use along every phase of your company’s growth: clear examples, recommended tools and an approach for growing your website. Plus, you’ll find case studies,  marketing tool recommendations, 101 growth ideas to test and 11 quotes to help light a fire under your butt to get started.
+
+This book is different because it’s the stuff you actually want to know when it comes to growing your startup. Not just some academic talking high-level philosophy. It’s principles and tactics.
+
+Who am I and why should you listen to me?
+
+I’ve mentioned some of my successes in growing venture-backed startups and the various workshops I teach on the subject to Fortune 500 companies. But, here is the real story about me:
+
+I’ve failed more times than I’ve succeeded. I’m a bootstrapped startup founder who lives and dies on each day’s sales. I’ve ridden the glorious waves of unsaturated marketing channels (think Instagram circa 2014) and I’ve worked with businesses that have had extreme setbacks because Google or Facebook made a “technical tweak” to their algorithm. I know how hard it can be to get one visitor to a site.
+
+But I also know how powerful the right automated system can be for fueling your growth engine.
+
+I’ve tested and implemented these principles on my students and my startups. My goal is to share all of my findings with you so you don’t make the same mistakes I did. My goal is to help you expedite your growth process.
+
+This book is for you if:
+
+You have a startup idea but you don’t know how to grow it.
+Great. You’re halfway there. Your idea is a solution to a problem that a certain group of people have. Your growth plan is what connects your solution to those people in a scalable, repeatable and frictionless way. Right now is the perfect time to come up with a hypothesis of how you can build distribution into your product. This book will give you the tools to help determine how to grow your idea. In chapter 5, you’ll learn how to uncover those opportunities.
+
+You don’t have a startup idea but you’re working on it.
+Perfect. Now you can think about your distribution plan as you’re evaluating the problem you want to solve or the product you might build. You can formulate your idea while understanding how you’re going to connect with potential users that will truly value your solution. In chapter 4, you’ll learn about how to know when that idea is validated and you can focus on growth.
+
+You’re in charge of marketing and have limited resources and no idea where to start.
+I’ve been there. Now is the right time to take a step back and develop your high-level plan for maximizing your time and energy. We’ll dive into the right process for how you can evaluate every potential growth opportunity and then prioritize each one in order of impact and the amount of resources you will need. In chapter 7, you’ll learn how to run this process yourself.
+
+You don’t know sh*t about marketing or growth.
+Welcome! So glad to have you here. This book will give you a framework for how to approach growth with your company, a startup or even an idea. In chapter 8, you’ll get exposure to the basics of everything from Facebook ads to conversion rate optimization.
+
+Your company is a rocket ship and you’re wondering if you need this book.
+Congrats. Ride that wave for as long as you can but don’t get a big head. This book will help you understand exactly why it’s working and how to optimize your growth. In chapter 8, we talk about scaling growth by turning customers into marketers. If your growth begins to slow then we can help you determine “what to do when things get hard” and the right channels to test.
+
+Your company is sinking and you’re wondering if it’s too late.
+Breathe. This book gives you the tools to evaluate the potential problems so you can answer that question yourself. Startups like Airbnb and Zappos have been on the ropes but bounced back. Maybe that’s your current company. Maybe it’s because your company isn’t ready for growth and you should be focused on product-market fit. How much do your customers actually love your product or service? Is your company focused on the right segment of users? Which marketing channels have you tried and why did you determine that they weren’t successful? You’ll find the foundation to navigate the world of growth and make the right strategic moves. See chapter 7 where you’ll learn what to do when things go wrong.
+
+What other books are out there and how does this one fit in?
+
+There are so many great books and articles out there around this topic. Each one has its own purpose.
+
+To develop your startup idea, check out Paul Graham’s Essays (paulgraham.com/startupideas.html).
+
+To test your startup idea, read Lean Startup by Eric Ries.
+
+To understand how to track and measure your business, dive into Lean Analytics by Alistair Croll and Benjamin Yoskovitz.
+
+To understand all the options for marketing channels, Traction by Gabriel Weinberg and Justin Mares is your book.
+
+To learn how to manage your team, read The Hard Thing About Hard Things by Ben Horowitz.
+
+To get a history lesson on growth hacking, dive into Hacking Growth by Sean Ellis and Morgan Brown.
+
+To get a detailed playbook about growing your startup, you’ve come to the right place. Keep reading.
+
+When is the right time to read this book?
+
+Before you do anything around growing a company, you’ll want to establish a foundation in growth marketing. It’s about understanding the basics, analyzing case studies and leaning on a playbook to help you power through your own business growth. Developing this mental model around growth is what will allow you to guide your thought process and it will help solidify your decisions.
+
+It’ll help you be more creative in your approach and, most importantly, it’ll help you become confident in your growth ideas and how you’ll make them a reality.
+
+Are you testing every possible distribution channel to uncover more users, or are you just seeing how many people like your latest Instagram posts?
+
+Who should NOT read this book?
+
+People who want pages loaded with fluffy marketing content and minimal details. Those looking for a beautifully constructed piece of writing with zero grammatical errors. And Sean Ellis because he invented growth hacking.
+
+CHAPTER 1 CHEAT SHEET
+
+This is a playbook with actionable steps you can take right now.
+This book is for beginner  and proven professionals who want to reset their approach to growth.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 01 - Why Growth Marketing Matters  ====
