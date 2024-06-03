@@ -1,0 +1,108 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 09 - RESOURCES: Finding the Right Marketing Tech Stack for You  ====
+
+9
+RESOURCES: Finding the Right Marketing Tech Stack for You
+“A growth hacker is someone who has thrown out the playbook of traditional marketing and replaced it with only what is testable, trackable, and scalable. Their tools are e-mails, pay-per-click ads, blogs, and platform API’s instead of commercials, publicity and money” –Ryan Holiday, Author of Growth Hacker Marketing
+ 
+
+It’s time to give you superpowers.
+
+Whether you’re on a team of 20 or a team of one, you need the right tools to measure your performance and optimize your efforts.
+
+Below is a breakdown of the digital marketing tools you can use to support your growth marketing efforts.
+
+Think of this chapter as a database for building out your marketing tech stack. You can pick a few of these to build out the right tech stack for your company – they range from free tools to high-priced platforms.
+
+Where Should You Start?
+
+Before we dive in, I want to talk about how to think about these options. As a founder, you can easily get caught up in the nuances of the various shiny new marketing tools. In the early days, I found that the quest for the best dashboard or conversion tool resulted in information overload and lots of wasted time.
+
+Start with the end in mind. What are you trying to accomplish and what metrics help determine if you are getting there? That will tell you which platform you need. For an e-commerce company, you need a tool that shows attribution by marketing channel (how are my Facebook ads doing?) and segmenting a conversion funnel based on a user’s attributes (how are the new users doing on iOS devices vs. the desktop users?).
+
+Below are some of my favorite tools and the right use case. I also listed similar alternatives for some of the tools listed, because there is usually more than one right solution.
+
+For Tracking Website Traffic
+
+Tool: Google Analytics.
+A great tool for tracking where users are coming from (social media, search, email, etc.) and it’s great for seeing what your traffic is doing on the site. Plus, it’s free and it’s powered by Google.
+Use Case: Track your traffic from Google ads and Facebook paid campaigns by using custom UTMs to correctly attribute paid ads to conversion on your website. This allows you to answer which campaigns resulted in sales.
+
+For Event Tracking
+
+Tool: Heap.
+Ideal for event-based tracking, funnel analysis and detailed retention modeling by cohorts. Heap allows you to easily track any event on your website (Example: a button click) or segment users based on a combination of actions. This tool allows you to understand how specific users behave within your website or app.
+Use Case: Onboarding is essential for apps, and Heap gathers all data during registration to make signing up simple and painless. You can track where users drop off or run into a bottleneck.
+Similar Options: Mixpanel and Amplitude
+
+For Landing Page Experiments
+
+Tool: Unbounce
+A landing page builder that doesn’t require any involvement from a developer. It’s mobile and web responsive and allows you to easily A/B test and optimize for conversion.
+Use Case: Create different landing pages for ad traffic to test who has the highest sign-up rate or click-through rate. For example: you could test a “How it Works” video in the hero section vs. an aspirational image of how the product will make you feel.
+Similar Options: Leadpages and Optimizely
+
+For Personalization
+
+Tool: RightMessage
+Personalization software is great for making custom funnels for users based on where they are in the journey. This can be applied to B2B and B2C companies.
+Use Case: You want to market to your VIP customers about a premium service for limited customers. You create a custom landing page that uses their name and targets them with early access to this premium service at a discount for VIPs.
+Similar Options: ConvertFlow and Optimizely X
+
+For Email Capture
+
+Tool: Sumo
+An exit intent email-capture tool that allows you to easily A/B test what your email pop-up will look like. Sumo easily integrates with any email service provider, like MailChimp, Campaign Monitor or Pardot by Salesforce.
+Use Case: For all new users, you can test an email pop-up after 20 seconds. Option A shows a discount of 20% off your first purchase and option B allows a new subscriber to enter a giveaway.
+Similar Options: OptinMonster and JustUno
+
+For an Email Service Provider
+
+Tool: Campaign Monitor
+A user-friendly email service provider that allows you to create email newsletters, custom email flows and transactional emails. Campaign Monitor has an approachable price point similar to MailChimp and has a lot of powerful features for custom flows. It’s a good tool for starting out.
+Use Case: You want to create a five-email onboarding series for people who just downloaded your ebook. Use this tool to A/B test all email in the flow, and you can make the emails conditional based on a user’s actions.
+Similar Options: For e-commerce companies, I would recommend looking into Klaviyo and Bronto. For SaaS products or service companies that want to use customer data to drive their email strategy, check out Drip, Hubspot, or Marketo.
+
+For UX (User Experience) / Heatmaps
+
+Tool: Hotjar
+A website heat map tool that records sessions of your users on mobile and desktop. Great for understanding exactly how people are using your website and interacting with your product. The tool helps you understand how various page designs are performing.
+Use Case: You’re launching a new product page for your company and want to create recordings and heat maps for 1,000 sessions on this page. Hotjar allows you to see how users are responding to your new design by watching those site recordings.
+Similar Options: Crazy Egg and Mouseflow
+
+For Competitive Analysis
+
+Tool: SimilarWeb 
+A digital marketing intelligence platform that allows you to understand the traffic of your competitors. Everything from traffic medium to the exact keywords and ad platforms that a competitor uses.
+Use Case: You want to understand how a competitor gets traffic to help determine how to build your marketing campaign. SimilarWeb shows you that 30% of your competitor’s traffic is from social media. Digging deeper, you uncover that Reddit (not Facebook) is their top social channel.
+
+For Content Marketing Research
+
+Tool: Buzzsumo.
+This tool allows you to research topics based on the number of social shares an article received. You can also research influencers and writers based on keywords relevant to your own content.
+Use Case: You’re researching ideas to write about for your blog. After typing three topics into Buzzsumo you uncover a topic that has five times more shares from notable influencers in your industry. Bingo – you found your topic.
+
+For Social Media Management
+
+Tool: Buffer
+A social media scheduling tool for planning, calendaring and posting on multiple social channels from one main tool.
+Use Case: If you’re approaching the holiday season and don’t want to be living in your social accounts, then schedule all your posts ahead of time, so you can actually engage with your community when the post goes live.
+Similar Options: Hootsuite, Sprout Social and Meet Edgar
+
+For Ad Reporting
+
+Tool: ReportGarden
+Reporting software built for marketing agencies that merges AdWords and Facebook’s Ad Manager into one platform so you can make custom reports for your clients or your own company.
+Use Case: Want to show the ROI for an AdWords holiday campaign and a new Facebook video ad? You can build a custom report that shows the total spend, clicks, conversions and ROI for each channel.
+
+Summary
+
+This just scratches the surface of all the marketing analytics tools that are out there. It takes some research and planning to get the right stack setup, but don’t make it harder than it needs to be. Use these recommendations as a loose guide for how you should approach creating the right marketing tech stack for your company.
+
+If you feel overwhelmed, then check out the $9 marketing tech stack by Rob Sobers. He has a 2,000-word blog post that will walk you through how to find the perfect tech stack. I found it to be very helpful.
+
+CHAPTER 9 CHEAT SHEET
+
+Build your tech stack based on your business model, your budget and the metrics you care about. Start with the end goal in mind.
+Before investing in a marketing analytics tool, write down all the KPIs you want to track and what you want the tool to deliver.
+
+==== Start of Transcript: Growth Marketing Playbook Chapter 09 - RESOURCES: Finding the Right Marketing Tech Stack for You  ====
