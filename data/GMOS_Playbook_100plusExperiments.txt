@@ -1,0 +1,127 @@
+==== Start of Transcript: Growth Marketing Playbook - 101+ Growth Experiments  ====
+
+Category:	Growth Experiments
+Acquisition:	Host an AMA (ask me anything)
+Acquisition:	Build a tool that adds value to your customers that they can use for free.  For example: Hubspot made a Content website grader tool to let people grade their websites for free.
+Acquisition:	Test ads on Pandora based on geography and region.
+Acquisition:	Repurpose your top content on Linkedin ads for people in your industry or that fit your user personal.
+Acquisition:	Write an ebook and give it to people in your industry to help them with their #1 business problem.
+Acquisition:	Add a chat tool on your checkout page to see if the user has any questions that are holding them back from making a purchase.
+Acquisition:	Create timely content around current events so your content will be in the trending section of Twitter or Google.
+Acquisition:	Add a refer a friend section to your order confirmation emails and get new customers to invite their friends.
+Acquisition:	Launch a Webinar with another company in your space and give a free course to potential customers or users.
+Acquisition:	Provide a first purchase discount to new customers of 20% or more.
+Acquisition:	Give a free trial for 14 days to potential customers.
+Acquisition:	"Launch Plan Outreach (pre launch, launch, post launch)  
+- Press Outreach to Bloggers, editors, Publications, Influencers, Podcasts, etc.
+- Affiliate Program
+- Content Marketing (Email, social & blog series)
+- Referral program"
+Acquisition:	Reach out to editors and publications for press and links
+Acquisition:	Launch a Meetup group for people in your industry.
+Ads:	Twitter ads: They use event targeting, allows them to increase exposure around discussions. that are trending.
+Ads:	Setup the Facebook pixel on your website and retarget people that visited your site with Facebook ads through the Facebook Pixel.
+Ads:	Build Lookalike Audiences in Facebook Ads based on your top 1000 customers.  The lookalike audience allows you to find more customers similar to your existing ones.
+Ads:	Use Lead Ads on the Facebook platform to acquire more email signs.
+Ads:	Leverage testimonials and other social proof as ad copy on your Facebook and Instagram ads.
+Ads:	Evaluate Google Adwords and Remarketing Ads: Google Ads, Gmail Ads, Youtube Video Ads, Google Shopping (Retargeting and Single Keyword Campaign - Plus Size Dresses, Plus Size Skirts, Use social proof on Competitor Ads)
+Ads:	Launch Outbrain ads and Taboola ads with your top performing content.
+Ads:	ADs: Launch Pinterest retargeting ads.
+Ads:	Build Lookalike Audiences in Facebook Ads based on your purchases from your Facebook Pixel.  The lookalike audience allows you to find more customers similar to your existing ones.
+Ads:	Test Facebook ads based on the number of days since they visited your website.  Use the following segments: 3 days, 7 days, 14 days, 30 days and 60 days
+Affiliate:	"Affiliate Program with Bloggers (Tools: LeadDyno or Refersion)
+- Setup Affiliate Structure
+- Build Pipeline and Reach out to Bloggers"
+Analytics:	Install and Setup Google Analytics to track basic site metrics.
+Analytics:	Build KPI (Key Performance Indicator) Dashboard with the top five metrics your team should be tracking.
+Checkout:	UpSell New Products at Checkout with Shopify App "Product UpSell"
+Community:	"Manually grow community with FollowerWonk & Virtual Assistant, Socedo and Mentions.com
+IDEA 1: Use FollowerWonk ($29) & a VA to target the 8,203 twitter profiles with the right keywords” in their profile
+IDEA 2: Use Socedo ($300) to target those people and send a message to them. 
+IDEA 3: Use Mention.com to track your brand, your competitors and anything around Keywords"
+Community:	Launch brand ambassador program in your top markets to help build your brand awareness.
+Community:	Campaign that asks for Five-Star App Ratings within the Apple app store
+Community:	Launch a Slack channel for people in your industry.
+Community:	Launch a Reddit channel for people in your industry.
+Community:	Launch a Facebook Group for people in your industry.
+Content:	Be a Podcast Guest within Industry podcast
+Content:	Competitive Analysis of SEO and Content Landscape to uncover the top keywords for driving traffic.
+Content:	Build a Data-Driven Content Marketing Strategy by using tools like SpyFu, Buzzsumo and SEMrush.
+Content:	Design Content Distribution Checklist that outlines every outlet you should use when promoting content.
+Content:	Guest post for blogs, publications and other Industry Outlets
+Content:	Create content for forums, communities, industry boards, Quora, REddit, etc.
+Content:	Launch a podcast series that highlights you or your company as a thought leader.
+Content:	Ask influencers to Guest Post on your platform
+Content:	Submit your most recent deck to Slideshare 
+Content:	Use user generated content (UGC) from your top customers to showcase your products.
+Content:	Create a blog post round up with embedded tweets so it's easy for your readers to share the content.
+Content:	Create a Video Content Series
+Contest:	Run a contest on email and social
+Conversion:	Use a sign up wall or welcome mat on your blog to help capture more emails. EX: Must Sign Up to See More
+Conversion:	Try adding social logins with Facebook, Twitter or other social platforms your users would like.
+Conversion:	Add certifications to the footer of your website to showcase that your company or brand is approved or credible.
+Conversion:	Launch a first purchase email flow for customers that made a first purchase.  The goal could be to cross sell with similar or complementary products.
+Conversion:	Use video testimonials on your website with users and/or customers talking about why they love your product or service.
+Conversion:	Add an email capture form the the footer of your website or at the end of every blog post.
+Conversion:	Test personalization within your email campaigns.  The users name can be in the subject line or within the email.
+Conversion:	Launch a free trial program for the first month or the first order of a product.
+Conversion:	Launch Email Capture Tool as an exit intent pop up
+Conversion:	Optimize Homepage for Conversion: (1) Main Benefit or Value Proposition Copy, (2) Update the CTA (Call to Action), (3) Social Proof, (4) Hero image or video, (5) Highlight top 3 features.
+Conversion:	"Test Lead Generation Tools: 
+- Content Upgrade (Guides)
+- A Free Product with purchase
+- Discount on Products"
+Conversion:	Launch a virtual assistant on the site to answer any questions a customer might have.
+Conversion:	Audit your conversion funnel and remove one click or step from the process.
+Conversion:	Put a sitewide offer on your site for 20% off and have it expire within 24 hours.  Use this exploding offer as a way to get users to convert within 24 hours.
+Conversion:	Launch Right Message or convert Flow on your website and use a customer's journey and data to create a personalized experience for them.
+Conversion:	Remove everything from your toolbar and header menu except for your one main call to action button.
+Conversion:	Include 3 more options for payment on your product detail page.  Options include Credit card, Paypal, Apple Pay, Amazon Pay and more.
+Conversion:	Offer a free consultation for you service to turn website traffic into leads.
+Conversion:	Use a recommended product feature on your site to upsell users when they are on a product detail page.
+Email:	Build Email Drip Campaign for Onboarding New Users
+Email:	Launch Abandonment Emails - Shopping Cart Abandonment and Browse Abandonment Emails
+Email:	Increase email frequency with a new guide or content series.
+Email:	Send out a birthday email asking for the birth date of your customers and tell them that you'll give them a surprise on that day.
+Email:	Launch a win-back flow for customers or users that have gone doormat. This can be within 7 days or 3 months of not using your product or service.
+Email:	Do a a/b test on subject lines using personalization and not using personalization.
+Engineering:	Build tools (calculator) to acquire users or customers
+Facebook:	Update Facebook Page Cover Image with CTA
+Facebook:	Facebook Groups - Join all of the groups and reach out to them about US
+Giveaway:	Giveaway using your existing resources
+Giveaway:	Partner with other brands to do a giveaway
+Homepage:	A/B Test Homepage with Optimizely, Unbounce or Hubspot
+Influencer:	Partner with a comparable brand and do a GIVEAWAY to build brand awareness and capture more email sign ups.
+Influencer:	Partner with your top influencers to create a custom product, service or experience.
+Influencer:	Run Influencer ads on TapInfluence or other platforms
+Offline:	Launch pop up shops in other markets to inform people about your brand.
+Offline:	Get a Conference Speaking gig that's related to your industry
+Partnerships:	Partnerships: Identify brands with a similar audience for a partnership (Giveaway, Pop-Up Event, Product Collab, etc.)
+Partnerships:	Sell on Other Platforms: Etsy, Amazon Handmade and EBAY
+Referral:	Referral Program with Shopify App ReferralCandy or Referrify.  (EX: Invite a friend and get $25 if they Buy)
+Referral:	A double sided referral campaign that gives and incentive to two parties involved.  The giver and the receiver.
+SEO:	Optimize Website for Organic Search Traffic (Speed & Keywords)
+SEO:	Build and Launch Backlink Building Strategy
+SEO:	Build a website Glossary
+SEO:	"Scale Link Building (Influencers, Bloggers, Content Sites, Forums, etc.)
+- Research influencers with Buzzsumo, FollowerWonk, Google
+- Find top backlinks for competitors with MOZ Tool
+- Find emails of influencers, authors and bloggers with https://emailhunter.co/
+- Ask to do the following: get included in the article/round up, to be featured in the future, be on your email list, to get FREE products or to be an affiliate."
+SEO:	301 Redirect Old Pages
+SMS:	Launch SMS/Text marketing
+SMS:	Offer discounts for people that order via text message.
+Social Media:	Pin Your Call to Action to Your Own Board on Pinterest
+Social Media:	Buy Reddit Karma on Fiverr and Have them post on Reddit
+Social Media:	Setup tracking for press and Google alerts strategy
+Social Media:	Competitive Analysis of top social accounts
+Social Media:	Pin a Tweet with a CTA to Join Your List
+Social Media:	YouTube Video related to your industry
+Content:	Create a beginners guide or a how it works download for new users.
+Email:	Add an Autoresponder Email With a Call to Action in it.
+Email:	Update your email signature with your best piece of content.
+Content:	Use Snip.ly to Add a Call to Action to Any Link You Share
+Content:	Answer the most upvoted questions on Quora related to your industry.
+Acquisition:	Export Your Linkedin Contacts and email then about your product or service.
+
+==== End of Transcript: Growth Marketing Playbook - 101+ Growth Experiments  ====
