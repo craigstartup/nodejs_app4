@@ -1,0 +1,211 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 03 - Growth Marketing 101  ====
+
+3
+Growth Marketing 101
+“In real estate, the wisdom says, ‘Location, location, location.’ In consumer internet, think, ‘Distribution, distribution, distribution.’” —Reid Hoffman, LinkedIn founder
+ 
+
+Growth marketing, a history lesson.
+
+Marketing is simply a channel that connects your product to your customers.
+
+Originally, it was just word-of-mouth marketing. Then newspapers came into existence, then radio and eventually TV.
+
+These channels got better, but the cost to be on these channels stayed high. It also gave the power to people that owned these channels and the people that could afford these channels.
+
+Yes, I know you already know this, but stay with me.
+
+Then the internet happened and it flipped everything on its head. Chaos ensued.
+
+The number of distribution channels quickly doubled and tripled because of the internet. Channels emerged that were more personal, more relevant, more timely, and, most importantly, cheaper than everything else. We’re talking websites, blogs, social media, messaging, email marketing, forums, SMS, etc.
+
+Plus, it wasn’t just about content. People who understood how these channels work (looking at the developers, coders and SEO specialist of the world) were able to maximize these channels for scale and growth. Thanks to the internet, marketing now has a technical component to it.
+
+This shift made the barrier for companies to enter extremely low. Old-school publishers that were industry leaders found themselves losing to younger, smaller and more agile internet platforms. It wasn’t about money. It was about rapid innovation.
+
+Online channels like websites, blogs, email newsletters, social networks and messaging platforms emerged as the favorites in the eyes of consumers. They were much more engaging and rich in experience.
+
+The brave brands that latched onto these channels before the masses caught on found themselves beautifully positioned to grow its user base at an insane pace. If they could connect the right platform with the right user, they struck marketing gold. The ones that didn’t adapt started to fall farther and farther behind.
+
+Let’s talk about a few of those success stories by platform.
+
+Blogs
+Have you heard of Bill Simmons, “the BostonSports Guy”? He was the top editor at ESPN and now he is with HBO and the owner of The Ringer website. Before he became a media mogul he was a bartender in Boston with a blog.
+
+He was simply the Boston Sports Guy who went on rants about the Celtics and Red Sox via his AOL account. He wanted to write for traditional media outlets like The Boston Globe but he would have had to work for years to get that same audience reach. The key was that he started blogging on this emerging platform as it was gaining momentum and before it became oversaturated.
+
+That, combined with his high-quality product (his writing), created the perfect formula for his success. New Medium + Quality Product = Rapid growth.
+
+Email
+You might not remember this (I’m looking at the millennials out there), but your inbox open rate used to be over 90%. This was before Google sliced your inbox into folders and before you got spammed by a Nigerian prince looking to borrow money. That was a time when companies like Groupon and DailyCandy started to leverage this channel.
+
+DailyCandy was a media company that told influential women in urban areas the most important thing they needed to know each day. They didn’t push their website and they didn’t launch a print magazine. They focused on crafting the best email newsletter every single day. That’s it. They did this very well with emails that were 150 words and targeted by location. Everyone was using email for personal messaging so Daily Candy’s content was well positioned to be easily shared and distributed. This meant the Daily Candy brand was reaching a lot of women and at a very low customer acquisition cost. The result: they built up such a significant user base that Comcast acquired them for $150 million.
+
+Social Media
+With social media, we saw companies like BuzzFeed and Upworthy build content specifically for this platform. On Instagram, influencers like Josh Ostrovsky, aka, “@thefatjewish,” started as a silly account that posted funny GIFs and photos. But he joined Instagram at the perfect moment. It was outpacing Facebook’s growth rate and it wasn’t oversaturated yet. His sharable content plus the platform’s ridiculous growth rate resulted in him getting over 7 million users in one year. He built an audience on Instagram and then took it to YouTube with his online TV channel. He even took it to the liquor stores with his own rosé called, White Girl Rosé.
+
+App Store
+When Evernote launched their mobile app they did it right as the Apple App Store was starting to take off. Their app got featured on the front page of the App Store and the result was thousands of downloads within one day. Apple users were early adopters of new technology, so they were open to using this new app called Evernote. After that first launch, Evernote decided to always time their new product launches with any new iPhone or Apple product release. They saw the Apple app store as this new distribution channel. Their founder Phil Libin said, “We really killed ourselves in the first couple of years to always be in all of the app store launches on day one.” Their hard work paid off and they averaged 19,000 new sign-ups per day.
+
+The common theme is the following:
+
+Right Product + Right Channel + Right Time = Accelerated Growth
+
+Below is a chart created by Silicon Valley entrepreneur and investor James Currier and updated by Growth Tribe cofounder Peter Van Sabben, showing different marketing distribution channels based on their timing and their effectiveness.
+
+ 
+
+
+Unfortunately, this is much easier said than done.
+
+What if you can’t time the right distribution channel at the right time? What if your product isn’t naturally shareable or viral? Sorry, insurance companies and personal finance apps.
+
+What if the best channel for you is oversaturated? What if you can’t wait for the next Instagram because you’re running out of money?
+
+I hear you.
+
+We’re going to take a step back and talk about how to approach growth in a constantly changing environment, how to utilize the existing channels and how to find the right channel for your customers. We will dive into the different philosophies around growth marketing.
+
+But first, let’s talk about the end game: Finding a sustainable growth channel. We’ll determine the difference between good growth and bad growth.
+
+The Goal Isn’t Just Growth. It’s GOOD Growth
+
+What does growth really mean? What is the right growth and what is the wrong growth? Bad growth is when you use a tactic that results in getting people to your site and they don’t take the action you want and never come back. (For example,  they don’t join, they don’t make a purchase or they don’t engage with your content.) It’s easy to be fooled by “bad growth.”
+
+Imagine that you have a lot of money to spend on paid marketing channels like Facebook and Google AdWords—thanks, investors! You could optimize your ads to send more and more people to your site each month. This would result in a nice line graph that shows your sessions growth going up and to the right. This might make you feel smart and your partners will feel good. And your investors might think you’re brilliant.
+
+But a deeper look into the data would show some ugly truths. Vanity metrics (like page views) could be going up, but your percentage of repeat users might be decreasing. Your churn rates could rise. Your retention rate might be horrible. The lifetime value of your user could be so low that it doesn’t justify the amount of money you’re dumping into ads. It would just be a matter of time before your amazing growth rate was exposed for what it really is.
+
+Below is a graph from Alex Schultz, vice president of growth at Facebook, that outlines what good growth and bad growth look like. Good growth means retention is strong and users come back—it’s the line that flattens out. Bad growth is when users come once and then never come back again—it’s the line that face-plants into the x-axis. Ouch.
+
+
+So what is good growth?
+
+Good growth is growth that is sustainable for your business model. It’s free channels that help you acquire quality customers that need your product or service. It’s paid channels with a positive net return. You’re getting more money out of the users than it cost to acquire them. Your CAC (customer acquisition cost) is less than the LTV (lifetime value of a customer).
+
+That also means your retention curve doesn’t dive into the ground. It flattens out over time because you have users that are returning to your site.
+
+It’s good growth that brings users to the site and has them taking the action that you want, like signing up for your email list, creating an account, interacting with users, making a purchase or inviting friends to your website.
+
+It’s growth experiments that aren’t one-time hacks. They are repeatable and scalable.
+
+Get it? Got it? Good!
+
+Now that you understand the difference between good growth and bad growth let’s look at the existing frameworks that already exist around growth. We’re going to do a brief summary on the following four frameworks, but I highly recommend reading more about them from their respective books to truly do them justice.
+
+The ICE Score by Sean Ellis
+
+Sean Ellis, former head of growth at Dropbox, came up with the phrase “growth hacker” in 2010 when he was trying to hire his replacement. The marketing candidates weren’t working out because he wanted marketers that were more data and product driven. We’ll get into this in more detail in chapter 8.
+
+In addition to being the growth hacker pioneer, he also developed the ICE score framework to allow teams to easily prioritize their growth experiments. This method allows you to list out all of your growth ideas and score each one by three categories: impact, confidence and ease.
+
+Then you focus on two to five experiments per week based on which ones have the highest score. This framework allows you to quantify each experiment idea so you can use data to drive what experiment you should focus on.
+
+As an example, you could list the growth marketing idea of launching dynamic product ads on Facebook for your e-commerce store. This might get a 7 for impact, a 9 for confidence and an 8 for ease. The impact is high because it’s hitting a very engaged user, and your confidence is also strong because you have had good success with your paid campaigns on Facebook.
+
+You also rank the ease of 8 because your e-commerce store is on Shopify and they have a seamless integration with Facebook. It just requires you checking the connection and reviewing the dynamic product catalog.
+
+Below is an example of  the ICE framework used by the growthhackers.com software. It allows you to prioritize your growth experiments based on impact, confidence and ease of implementation. (Image is from Anna Rehermann.)
+
+
+Lean Startup by Eric Ries
+
+The Lean Startup by Eric Ries has become so famous that it has warranted spin-off books, conferences and podcasts. It’s an inspiring read about getting to product-market fit by talking to your customers.
+
+In his book, Eric talks about how to grow after you have product-market fit. He says there are three engines that drive growth for a startup. The sticky engine, the virality engine and the paid engine. Below is a breakdown of his framework and what each engine means for that business.
+
+Sticky Engine: Focus on getting your customers and users to come back to your platform and use your product. Eric believes that engagement and retention are a great (or maybe even the best) predictor of success.
+Virality Engine: Focus on existing users spreading the word about your product or service. The measurement for this is viral coefficient. It’s the number of new users that each existing user brings to the product.
+Paid Engine: Focus on getting payment from your users and monetizing your product. It’s the final metric that determines if you have a sustainable business model. Getting paid allows you to funnel that money back into the business to spend on acquisition and other growth channels.
+Pirate Metrics by Dave McClure
+
+Dave McClure is an entrepreneur, a venture capitalist, and founder of the startup accelerator called 500 Startups. He created the Pirate Metrics framework to breakdown the five key components of growing a successful company.
+
+The name comes from the acronym for the metrics that a startup must focus on—acquisition, activation, retention, revenue and referral—or AARRR. This is something that my growth teams think about every week when trying to decide what to focus on at that moment. (Image below is from startitup.com.)
+
+
+This framework flows as a conversion funnel for the customer or user. Here’s how you can look at each part of the funnel and how it relates to your business:
+
+Acquisition: How do you get users to your website? This could include growth ideas like SEO, SEM, email, PR, content marketing, social media, ads, etc.
+Activation: How do you get visitors to take action on your website? This could mean sign-ups, creating a profile, submitting content, etc.
+Retention: How do you get users to return to your platform? This could include email marketing, push notifications, social media, updates, etc.
+Revenue: How do you get paid from a user’s activity? Ways to make money include transactions, subscriptions, affiliate fees, clicks, etc.
+Referral: How are users promoting your product to their network? Referral mechanisms include emails, texts, social media, plug-ins, widgets, etc.
+The Bullseye Framework by Gabriel Weinberg
+
+Gabriel Weinberg is the founder of the privacy-protecting search engine DuckDuckGo and the coauthor of Traction, a book that breaks down the 19 channels for getting traction with users. I recommend reading this book for the case studies alone.
+
+He came up with the bullseye framework in his book on how to navigate all the options to find the right one for you. Gabriel says it’s a five-step process to find your channels for testing: brainstorm, rank, prioritize, test, and focus on what works. You’re aiming for the “bullseye”—the one traction channel that will unlock your next growth stage.
+
+
+How the bullseye framework works:
+
+Brainstorm: Come up with reasonable ways you might use each of the 19 traction channels.
+Rank: Place each of the traction channels into one of three columns, with each column representing a concentric circle in the bullseye: Column A (Inner Circle): which traction channels seem most promising right now? Column B (Potential): which traction channels seem like they could possibly work? Column C (Long-shot): which traction channels seem like long-shots?
+Prioritize: Identify your inner circle by selecting three traction channels that seem most promising.
+Test: Put your ideas into the real world. The goal of this step is to find out which of the traction channels in your inner circle are worth focusing on.
+Focus on What Works: One of the traction channels you tested in your inner circle will produce promising results. That’s when you start directing your traction efforts and resources toward that most promising channel. One traction channel dominates in terms of customer acquisition.
+Growth Loops by Brian Balfour
+
+Brian Balfour is the founder of Reforge, a growth program for experienced practitioners, and he created the Growth Loops process. Brian says the following about growth loops on reforge.com:
+
+“The fastest growing products are better represented as a system of loops, not funnels. Loops are closed systems where the inputs through some process generates more of an output that can be reinvested in the input. There are growth loops that serve different value creation including new users, returning users, defensibility, or efficiency.” (Image below is from reforge.com.)
+
+ 
+
+
+ 
+
+What Can We Learn from These Frameworks?
+
+All of these frameworks are powerful when used the right way. There are some overlaps with each of them, but the key takeaways are that: (1) you should only market a product worthy of your marketing; and (2) once you do, it’s about testing and iterating on the growth experiments that can have the biggest impact.
+
+But always remember that you should only start marketing if you have something that customers actually want. Do you have product-market fit? If not, stop marketing and get to product-market fit.
+
+The FACT Framework for Growth by Jim Huffman (me)
+
+After advising various startups and fortune 500 companies, I have developed a preference for different frameworks and processes. For managing a team, I like a combination of the bullseye framework and the ICE process, and we’ll talk about how to manage your process in chapter 8.
+
+This framework isn’t about running a team or a process. This is about the strategy for developing your growth marketing plan. Basically, where to start on day one.
+
+The key component of the FACT framework is to design your strategy around one thing: your customer. The better you understand your customer the better you’ll be as a growth marketer. Here’s a breakdown of the FACT framework:
+
+Find your customers
+Acquire your customers
+Convert your customers
+Turn your customers into marketers
+ 
+
+
+ 
+
+Find your customers
+In chapter 5, we will talk about how to uncover where your customers live online. This could be the forums they frequent on Reddit or the influencers that they follow on Instagram.  From analyzing competitors to building out user personas, we will pin-point where these people live online and the right way to get in front of them. With one exercise, you will actually find 1,000,000 potential customers online. Side note: if you can’t find one million potential customers online then you better be selling something with a high price point.
+
+Acquire your customers
+After you have identified where your customers live online, the next questions is, how can you make the right first impression? What’s the right way to get in front of them and what is the right messaging?  It could be through direct outreach from the founder or through a paid channel with the right editorial touch. It could also be through offline meetups and online referrals.
+
+Regarding the message, you want to speak their language and address the common pain-points in their industry.  Remember, if you try to be everything to everyone then you will disappoint everyone. Think of your product as an exclusive club that is only open for a specific type of person. We’ll get into lots of options for acquisition in chapter 8.
+
+Convert your customers
+You have identified your ideal customer and you have determined the right channel for acquiring these customers. Next, you need to make sure you can convert them into a loyal customer.
+
+How do you turn visitors into subscribers, customers or users? How are you bringing customers back to your site and how long before their next interaction or transaction? Conversion and retention will make or break companies.  We’ll dive into the best practices for converting and retaining customers in chapter 6 and chapter 8.
+
+Turn your customers into marketers
+Once you’ve activated your customer, the next goal is turning that customer into a marketer. Let me pause and say one thing: this is the most powerful thing you can do in online marketing.  This means building a user experience that turns a first time customer into a brand advocate (online or offline) that helps you get new customers for free.
+
+This could be sharing your website URL with their friends via a social channel or getting them to actually invite people to use your product through email. We’ll go through the best practices for doing this at the end of chapter 8 when we talk about scaling tactics with growth marketing and growth hackers.
+
+The main goal with the FACT Framework is to always put the customer first in every step you take and every part of the funnel. From how to identify them online to how to give them a reason to want to convert, marketing is about adding value for your customer, so I want that to come through in this framework. The rest of this book feeds into this four-step strategy.
+
+In the next chapter, we’re going to talk about how to know if you are ready for growth. And most importantly, how to use product-market fit to drive your entire growth strategy.
+
+CHAPTER 3 CHEAT SHEET
+
+The internet has created a marketing landscape that favors companies that are both fast and technical.
+There are many existing growth frameworks to choose from. They include Sean Ellis’s ICE framework, Dave McClure’s Pirate Metrics, Eric Reis’s The Lean Startup and Gabriel Weinberg’s Bullseye framework.
+The FACT Framework allows you to build your strategy around your customer and their interactions with your brand.
+Start with the customer’s digital footprint and end with the goal of turning that customer into a marketer.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 03 - Growth Marketing 101  ====

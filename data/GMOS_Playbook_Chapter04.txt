@@ -1,0 +1,150 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 04 - How to Know You’re Ready for Growth  ====
+
+4
+How to Know You’re Ready for Growth
+“You want some good marketing advice, make stuff that people want.” —Paul Graham, Founder of Y Combinator
+ 
+
+The secret to growth marketing happens before you do any marketing.
+
+It happens when you pick a phenomenal product or service that’s worthy of your time and energy.
+
+A great product will make you look like a brilliant marketer. It will allow you to roll out experiments and determine if a distribution channel works or doesn’t work very quickly.
+
+A great product will make you excited to focus on growth.
+
+A great product will market itself—you just have to find the right marketing avenue to send it down.
+
+Put another way, only invest in growth once you have  product-market fit. If you don’t have product-market fit then you should not be focused on growth. You need to be focused on your customers and figuring out how to make a product or service that they truly need.
+
+You shouldn’t need any marketing to find 10 target customers to try your product. Listen to their feedback and iterate. Until you can convince a handful of them to shout, “Shut up and take my money!” don’t focus on growth. You don’t have product-market fit.
+
+Wait, what is product-market fit?
+
+According to venture capitalist Marc Andreessen, this is the definition of product-market fit:
+
+“Product-market fit means being in a good market with a product that can satisfy that market.
+
+You can always feel when product/market fit isn’t happening. The customers aren’t quite getting value out of the product, word of mouth isn’t spreading, usage isn’t growing that fast, press reviews are kind of “blah,” the sales cycle takes too long, and lots of deals never close.
+
+And you can always feel product-market fit when it’s happening. The customers are buying the product just as fast as you can make it—or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You’re hiring sales and customer support staff as fast as you can. Reporters are calling because they’ve heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck’s.”
+
+Simply put, you’ll know it when you have it because you cannot handle the demand.
+
+Product-market fit happens when you are painfully better than any alternative out there. That could be a competitor or a previous way of life. For example: hailing an Uber on your phone from a restaurant was significantly better than standing in the rain with your hand in the air looking for a cab.
+
+Are you 10 times better than the next best option?
+
+Getting to product-market fit starts with solving a problem. It’s finding a pain point and getting rid of it. It’s solving that problem in a way that is 10 times better than the next best alternative. Yes, you could solve a problem but if it’s only two times better than the industry leader then it’s not going to be that noteworthy. In most cases, if won’t be great enough to switch from what they’re doing to get people to tell their friends about it.
+
+Sometimes it might not be about being better than a competitor. Your competition might not be an actual company. Your real competition could be unimportance or indifference. Your product or service could solve a problem, but if people don’t care, the problem might not be that important. It might not be a true pain and they don’t care about what you built.
+
+For bootstrapped founders trying to make $10,000/month in MRR (monthly recurring revenue), you might approach it from a conflicting perspective.  You don’t have to invent anything new or something that’s necessarily 10X better than everyone. You can build something slightly above average, have a great growth plan, and still crush your goals. The key thing is that you put your own spin on a tried-and-true idea that targets a very specific user.
+
+Rob Sobers lays out this approach in his blog post titled, “Easy Mode” (https://robsobers.com/easy-mode/).  Here are a few options for product ideas in the B2B space:
+
+The Lightweight Product. Fewer features, but much better UX (Drip, Buffer)
+The Delightful Product. Give your product a personality and focus on the little details that make people smile (Freckle, Slack)
+The Single-Purpose Product. Do one thing exceptionally well with zero distractions (Pinboard, TinyLetter)
+The Opinionated Product. Take a strong stance on how a problem should be solved (e.g., budgeting software YNAB forces you to manually enter expenses so you’re conscious of your spending)
+Is it a vitamin or aspirin?
+
+If it’s solving a real pain, people will be happy to use it regardless of the flaws it may have in the early days. Users will be shouting to you that they love it and they’ll give ideas on what they want you to do to make it better. If it’s a vitamin people will say “oh, that’s cool I would totally use that,” and then time passes and they don’t use your product. If it’s not a solution they’re actively searching for then they might not use it.
+
+You don’t want to create a “nice to have” product. In tough times, the “nice to have” products get thrown out. You want a “must have” product that users can’t live without. How do you know if you have a must-have product? Here are a couple of ways to determine if you have product-market fit:
+
+The 40% test
+
+Sean Ellis, former head of growth at Dropbox, says you can determine if you have product-market fit by asking your users just one question: How would they feel if your product went away? You can email them through a free survey tool like SurveyMonkey or Google Forms. If over 40% of your users would be “very disappointed” if your product went away, then you’re on to something. Here’s how he recommends framing the question:
+
+
+Image from cobloom.com
+
+Do you have “word of mouth” marketing?
+
+“‘Tweet’ and ‘like’ buttons isn’t word of mouth. Rather, word of mouth comes from content, thoughtfulness, solved problems, and ease of use—in short, the whole experience of a product or service.” – Sean Ellis
+
+Word-of-mouth marketing is hands down the best marketing a company can get. But how do you measure that? Are people sharing your product? Are they referring friends? Are they talking about your product online or offline? This is usually pretty clear. One way to do that is by calculating your Net Promoter Score (NPS).
+
+NPS is a tool to gauge the loyalty of a brand’s customer relationships. The Net Promoter Score is calculated as the difference between the percentage of Promoters and Detractors. The NPS is an absolute number lying between -100 and +100. For instance, if you have 45% Promoters, 35% Passives and 20% Detractors, the NPS will be +25.
+
+If you don’t have product-market fit, then you should really be focused on talking to customers and getting feedback on why they don’t like your product. The Lean Startup Canvas methodology is a great resource for going down that road.
+
+If you have product-market fit then something amazing will happen. Complete strangers will do free marketing for you. They’ll talk about your product at happy hours, at coffee shops and they’ll even email you to say how amazing you are.
+
+This is word-of-mouth marketing and it’s the best possible marketing channel. It’s free and these people will do it with a smile on their face. Sign me up.
+
+Listen to your promoters
+
+When people are talking about your product, you need to do one thing: listen.
+
+What are these enthusiastic promoters saying about your company? What are their exact keywords? Is your product saving them time, money or is it raising their status? Why do they love it? How do they feel after they use your product?
+
+It’s so important to understand the language and verbiage that your customers use when talking about your product. Why? Because it’s those words that will help shape how you, as a marketer, should be promoting this product. It can drive the copy you use in your ads and on the landing page of your website. You need to use the language of the customer to attract other customers.
+
+Here are examples of how customers simply explain products they love:
+
+Allbirds: “Running shoes made of wool.”
+
+Drip: “An email marketing tool designed for drip campaigns.”
+
+Snapchat: “Send a text to a friend and then it disappears.”
+
+Warby Parker: “Premium glasses for $99.”
+
+Universal Standard: “Replace your clothes if you go up or down a size.”
+
+Uber: “Tap your phone and a car shows up in five minutes.”
+
+Shazam: “An app that tells you who’s singing any song.”
+
+iPod: “1,000 songs in your pocket”
+
+GrubHub: “Food from any restaurant, delivered to your door.”
+
+Hotel Tonight: “Book premium hotels the night of at a discount.”
+
+Airbnb: “Turn your spare bedroom into a hotel room.”
+
+How easy is it for people to explain your product or service to a friend? Can they convey your value proposition to a group of people at a crowded bar . . . after a few cocktails?
+
+Also, how are people positioning your company against competitors? It’s important to know what you are and what you are not. One thing to watch out for is when a competitor emerges in your space with a comparable must-have product. How do your users compare you to them? Positioning is very important if you’re in a crowded space.
+
+But what if I don’t have customers yet?
+
+You want to start talking to people about your product as soon as possible to get their feedback. Eric Reis goes into this in great detail in the book The Lean Startup.
+
+One way to fine-tune your value proposition is with the “mom test.” Pitch the company to someone who is removed from the product development process. Yes, you can use your mom. Now, have them pitch the company back to you. How did they do? What keywords did they use? What feature do they focus on? The startups that get real traction are the ones that succeed in this startup version of telephone.
+
+Not ready to tell people about your idea? Struggling with your pitch? Use the following elevator pitch formula to break down why your product or service is special and different. This structure is great for helping you take a step back and understand how to position your company.
+
+For (target customer)
+Who (statement of need or opportunity)
+(Product name) is a (product category)
+That (statement of key benefit)
+Unlike (competing alternative)
+(Product name) (statement of primary differentiation).
+
+Here’s an example of the elevator pitch in action for the online women’s clothing company, Universal Standard.
+
+For women of any size
+Who are looking for elevated looks for their wardrobe
+Universal Standard is a premium size-inclusive brand
+That sells direct to consumers, offering the highest-quality products at the best price.
+Unlike plus-size fashion lines, Universal Standard will replace your clothes if your size goes up or down within a year.
+
+Speak their language
+
+As you get feedback from press, customers, friends or even your mom, stockpile all the blurbs that capture the essence of your product in their words. What problem does your product solve? How does it make them feel? What is their favorite feature? How does it benefit them? Take all of their feedback and put it into one sheet. This is the starting point for your marketing messaging.
+
+As an example, BeOn, a caffeinated chocolate snack, started to get testimonials from customers on why they loved the product.  Customers kept saying the energy gems provided a hit of energy without the crash one gets from coffee or energy drinks.  After seeing this pattern, BeOn started adding this benefit of “no crash” into its marketing campaigns.
+
+When it comes to messaging, you’re limited in the attention a person will give your brand. That means you need to: (1) give them a message that will resonate; and (2) give it to them in their own language. This message should be consistent no matter where they see it: your homepage, your About Us page, your social channels, your blog, your welcome email, your messaging tool—anyplace where you would touch a potential user. But it starts with your homepage. In chapter 8 about activation, we’ll break down how to lay out the perfect home page.
+
+CHAPTER 4 CHEAT SHEET
+
+Product-Market Fit First: Don’t focus on growth marketing until you know you have product-market fit.
+Surveys: Leverage Sean Ellis’s 40% test or NPS surveys to quantify if you have product-market fit.
+Speak Their Language: Leverage the language of your top customers or brand ambassadors for your marketing and product copy.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 04 - How to Know You’re Ready for Growth  ====

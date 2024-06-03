@@ -1,0 +1,200 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 05 - PLAYBOOK: How to Uncover Your Growth Opportunities  ====
+
+5
+PLAYBOOK: How to Uncover Your Growth Opportunities
+“Many entrepreneurs who build great products simply don’t have a good distribution strategy. Even worse is when they insist that they don’t need one, or call no distribution strategy a ‘viral marketing strategy’ … a16z is a sucker for people who have sales and marketing figured out.” —Marc Andreessen, Venture Capitalist at a16z
+ 
+
+Congrats, you have product-market fit.
+
+Now it’s time to tell your market about your product. It’s time to develop a growth strategy.
+
+This is like building a house.
+
+You want to have a blueprint first and then get started on building. It’s the same thing for growth. After you have product-market fit, you want to develop the right growth plan to scale the right way.
+
+It’s easy to want to do some of the things you hear people talking about on podcasts or in articles you read on TechCrunch. Things like paid acquisition (“time to do Facebook ads”) or conferences (“I’m going to speak on panels”) can be very appetizing.
+
+I’m not saying you shouldn’t do those things, but you should make sure you’ve done your research first. You need to be confident that you’re focusing on the right channels for your specific audience.
+
+Your user-acquisition strategy may not be the same as other companies in other industries. Hey, it might not even be the same as your direct competitor’s. This section will help you uncover what the right distribution channels are for finding potential customers.
+
+It’s amazing to me how much time and money can go into a marketing plan without even thinking through the customer mindset or the customer persona. We will go over what to factor in when you’re building your growth strategy.
+
+Your end goal will be to optimize every phase of that funnel. As a reminder, here is the FACT Framework funnel:
+
+Find your customers
+Acquire your customers
+Convert your customers
+Turn your customers into marketers
+ 
+
+
+
+ 
+
+Before running experiments and trying to grow, it’s important to understand your entire marketing landscape. It’s time to do the homework to uncover any growth opportunities. You’re about to learn how to understand the following:
+
+Competitive landscape
+Industry landscape
+Customer landscape
+How to Understand Your Competitors
+Competitive Analysis: Give Yourself a Head Start
+
+By focusing on your competitors, you’ll start to understand their marketing priorities and positioning within the market. It also shows you where they are and, more importantly, where they are not.
+
+It allows you to see what’s working in your industry and what’s not. You can understand how they are positioned within your market and what makes them unique.
+
+Understand a Competitor’s Traffic
+
+First, you want to understand where their traffic is coming from. By using a “marketing intelligence” tool such as SimilarWeb, you can see the number of visits they’re getting per month and where those visits are coming from. It’ll be broken down into organic traffic (from search engines such as Google and Bing), direct traffic (users going direct to the company URL), referral traffic (users coming from other websites like TechCrunch, Business Insider, etc.) and social traffic (users coming from social networks).
+
+If you see that your competitors are getting over 30% of traffic from search then you’ll want to dive in and understand their technical SEO structure on their site and the top keywords they’re ranking for on Google and various search engines. What keywords are paid keywords and what keywords are organic? Translation: what search terms are they paying for and what search terms are they getting for free?
+
+Tools like SEMrush and Moz allow you to dive into their organic traffic profile even more. They also allow you to see the top backlinks your competitors are getting. Meaning: the websites have sent them the most traffic. This way you can see if it’s better to go after niche blogs or wide-ranging publications.
+
+Understand a Competitor’s Brand Position
+
+To understand their brand positioning, go to the homepage of every competitor and write down the main headline and the first call to action on the site. How do they position themselves and what do they ask users to do? Are they more benefit-focused and talk about the user or do they hype up a new technology they created? Who are they speaking to and how are they talking to them? What language are they using—conversational terms or technical speak?
+
+Analyze the Main Call to Action
+
+Are they trying to get people to start a free trial or are they optimizing to get people to download an ebook?
+Do they offer a free trial or 20% for buying their product?
+Do they give out a checklist or guide to educate the potential customer about the product?
+Look at all of your competitors and put them side by side to understand common themes and opportunities with positioning.
+
+For a deeper look at their ongoing marketing strategy, you want to get a sample of email newsletters and ads from each competitor. You can do this with a simple hack: join their email newsletter and watch the onboarding campaigns and newsletters come in. You can also use a tool like MailCharts to look at every email campaign a company sends and understand how often they send newsletters. MailCharts is a paid service, but worth it if you want to dive deep into the email analysis.
+
+Pay attention to the following when analyzing your competitors’ emails:
+
+Frequency of send (once per week or once per day)
+The “from” name they use. Is it from the company or from the founder?
+How segmented or personalized is the content? Are they targeting you based on certain characteristics?
+What products are they pushing in the first few weeks?
+Do the emails contain only text or are there pretty graphics and GIFs?
+For access to your competitors’ ads, visit their website and put something in your cart. Then you’ll start to be retargeted with ads on Facebook and sites that are on their remarketing network. You’ll be able to see how they try to pull you back to their site. For a bigger sample size of ads from your competition, check out Adbeat to see their top-performing ad campaigns.
+
+Summary
+
+With these tools, you can recreate almost the entire marketing funnel for a company to understand that brand’s marketing strategy. Put these strategies side by side and ask yourself how can you make an experience that’s better than this? Or how can you innovate on some of these tactics? For an example on how to build this analysis, go to growthmarketersplaybook.com and download the growth templates to make your own.
+
+How to Understand Your Industry
+Before you enter any industry you need to ask yourself “What are the common pain points in this industry?” Unless you’re creating your own category or business model, you’ll find that the common issues are very well known.
+
+Below is a chart from Ben Yoskovitz that highlights the common pain points by industry.
+
+INDUSTRY	PAIN POINT
+e-Commerce	CAC (customer acquisition cost) vs. LTV (lifetime value)—margins are usually very small. A $10M e-commerce business is small.
+SaaS (Software as a Service)	Freemium requires tens of millions of free users. They can be expensive to support. Will enough convert?
+Mobile Apps	The average number of apps downloaded by North Americans is down. Monetizing is incredibly hard. Popularity is fleeting.
+Marketplace	Chicken and egg problem. Supply and demand. How do you build up both sides of the market enough?
+Media	Real monetization requires hundreds of millions of engaged visitors. People’s attention is hard to capture and keep.
+UGC (User-Generated Content Sites)	Content creation. Will it be enough? Will enough people do it? Why?
+For e-commerce companies, the main issue always comes back to how much it costs to acquire a customer. What’s your CAC (customer acquisition cost) vs. how much a user will spend with you over their LTV (lifetime value)? If it costs $100 to acquire a customer, but they spend $1,000 per year, those numbers work.
+
+But if you’re spending $20 to get a user and they never spend more than $15, those numbers don’t support a sustainable business model.
+
+If you’re a SaaS (software as a service) business with a freemium model, factor in how many users you need to acquire because only a small percentage of those users will actually convert to paid users. Plus, how long will it take to get a user to convert?
+
+Within your industry, what type of business model do you have? Below is a graphic from Lean Analytics that showcases the three types of business models for an e-commerce company.
+
+ 
+
+
+If you only sell your product once per year to one customer, then your marketing efforts are more focused around a low CAC (customer acquisition cost) and upselling at checkout. Examples of these businesses include Christmas trees, diamond rings and vacation packages. Why do you think every jeweler also offers ring insurance and beautiful custom boxes? They’re trying to increase your lifetime value because they might not ever see you again.
+
+If you’re an e-commerce company that sells to a customer more than 2.5 times per year, then you care more about customer service, customer loyalty and offering a wide selection of options. Examples include diaper companies, grocery stores and clothing retailers. It’s not about maximizing a one-time spend but optimizing for satisfaction so a customer comes back again and again.
+
+Summary
+
+Based on your industry or your business model, you should have an idea on the big hurdles you’ll need to leap as a marketer. Those pain points can end up being your opportunities if you approach them the right way.
+
+How to Understand Your Customers
+Knowing your business model, your competitors and your industry is very important, but there is nothing more important than truly understanding your customers.
+
+Taking the time to do this can’t be overstated. Here’s a process and some tools that can help you in this area:
+
+Step 1: Understand the Interests of Potential Customers
+
+In its simplest form, marketing is about connecting your product or service with actual people. Who are these people? Where do they live online? Are they in Facebook groups or subreddits? Are they on platforms like Snapchat or Quora? Do they use certain digital products or hardware devices?
+
+A starting point is looking at the customers of your competitors by leveraging the data from the competitive analysis you performed earlier. You know the backlinks that drove traffic to their site, the keywords they used, the social networks they’re on and the language that attracts them. Use that information to find these people online and understand their digital footprint.
+
+Here’s how you would do that if your company is a men’s clothing brand trying to compete with Bonobos. After researching Bonobos.com on Similarweb.com, you’ll discover that they get a lot of traffic from Reddit, Cool Hunting, Business Insider and The Wall Street Journal. Also, they’re aggressive about owning the search phrase “mens pants.” Last, the data shows that these visitors look for products at Brooks Brothers, another competitor to inspect.
+
+This research quickly helps us know that one user group is very business minded and they’re hitting the Bonobos pants page between articles on WSJ and Business Insider. This information can help drive how you target these users, by utilizing promotions around business attire or lookbooks that take place in an urban financial setting.
+
+Next, you’ll dig into Reddit because the data shows that Bonobos users live here. After going to Reddit and seeing the conversations around Bonobos, you’ll discover that these users love getting into the details of a product and really testing the quality and durability.
+
+This could inspire the idea of pushing a video series to the Reddit community around how you make each product. Just by understanding your customer, it quickly opens up your ideas for marketing toward users similar to the users your competitors have.
+
+Step 2: Build a User Persona Matrix
+
+Next, you’ll want to take the information you have on your customers (or soon-to-be customers) and build out user personas. The user personas allow you to put more color around the customers you want to target.
+
+It helps you understand how your ideal users act and think. You need this information so you know how to message a user the right way. Below is how to break down your customer personas:
+
+Persona
+ 	Fashionable Finance Man
+Gender	Male
+Age	25–45
+Region	Cities
+Academic Profile	College Educated
+Career	Real Estate, Finance, Management Consulting, Accounting, Lawyer
+Marital Status	Single
+Family	No kids
+Hobbies/Interest	Running, Skiing, Golf, Football
+Income	Over $75,000
+Brands they Like	Venmo, Mint, Evernote, Uber, Spotify, Business Insider, WSJ, AMEX, etc.
+Give each user persona a headline or tagline. For example: if you’re making men’s clothing based on the above data then we could start with two groups: One is the “Fashionable Finance Man” and the second is the “Cares About Quality Consumer.”
+
+The Fashionable Finance Man is the one that reads the WSJ and Business Insider. He lives in a big city, works in finance and cares about style over price because he is also looking at Brooks Brothers.
+
+The “Cares About Quality Consumer” is the professional that works in a creative field and loves using Reddit for product reviews. He cares about the materials of the product and the utility of the clothes. He might work in a big city or remotely and loves the clothes for casual and recreational purposes.
+
+Step 3: Create Your Target List Model
+
+Now that you have created your user personas, let’s figure out where these users live online. It’s time to build out a model to quantify exactly where each group of users hangout on the internet. We’ll do the exercise of creating a bottom-up model showing your target list and actually identifying one million people who would potentially use your product or service.
+
+Yes, create a spreadsheet and list the exact forum, Meetup group, Facebook page, Quora category, Reddit, influencer, organization or website these people frequent. Then put the exact number based on how many people are in that group, how many people follow an influencer or blogger, etc. Then you know exactly where your customers live online. Noah Kagan (CEO of Sumo) calls this quant-based marketing. We call it our customer target list.
+
+Whatever you call it, keep it really simple. It can be an Excel spreadsheet (or a Google sheet) that has the following structure: Row 1: Name of the group/site; Row 2: Number of people in that group; Row 3: The website’s URL. The goal is to build this pipeline until you hit over one million potential users.
+
+Here are some ideas for how to find these people:
+
+Facebook groups related to your industry
+Reddit communities related to your product
+LinkedIn groups in your industry
+Quora discussions around the problem you’re solving with your product or service
+Use Buzzsumo to find the most shared content on the web related to your subject
+Use Followerwonk to find the top influencers on Twitter
+Leverage the user data from your competitive analysis (top backlinks and traffic sources)
+Google searches around keywords in your category
+Bloggers and editors in your space
+List of blogs or websites they also follow
+List of organizations and groups they’re involved with
+For example, the “Cares about Quality Consumer” might follow the blogger A Continuous Lean (ACL) on Instagram. ACL has 60,000 followers on his Instagram feed. Assuming that 70% are male, that’s 42,000 potential customers. There’s one entry on your customer target list.
+
+Next, go to Reddit and find a men’s fashion forum that has 120,000 followers. Congrats, you’ve found 162,000 potential customers. Now, keep doing this until you hit one million.
+
+To help do this yourself, I created a template for building your own target customer list. (You can download this exact spreadsheet and all my growth templates at  growthmarketersplaybook.com.)
+
+Why is it important to understand your persona and why is it important to find these people? It helps you understand the customer. But more importantly, it’s to show you that these people exist and you know exactly where they are online. By seeing these people online, you’ll start to understand them even more so you can build a pipeline of growth experiments targeted toward them.
+
+Here’s an example of how Seamless, the online food-ordering service, took its user-persona data and turned it into a partnership strategy that drove significant growth.
+
+Seamless provides food delivery for almost every restaurant in major cities like NYC. After its launch in New York City, Seamless started to get customer data and uncovered that young males were using the product the most frequently. These users were mostly ordering from smartphones and their orders were being sent to their office and not their home.
+
+Seamless figured out that its top user persona was a young single male who was working long hours at investment banks and consulting firms. This insight drove their focus on partnership deals with the top consulting firms and investment banks in Manhattan, like Boston Consulting Group and Goldman Sachs. Pretty smart, huh? They attribute this segment as the key to their initial success.
+
+Now that you’ve identified these people, it’s time to start hitting them up, right? Wrong. You need to take a serious look at your site and make sure you’re prepared to activate these users. We’re talking conversion rate optimization (CRO), marketing infrastructure and analytics. That’s what we’ll talk about in the next chapter.
+
+Chapter 5 Cheat Sheet
+
+Understand what’s working for your competitors to understand which marketing channels you want to try or stay away from.
+What are the common pain points of your industry and how can you overcome them with your marketing strategy.
+Develop your customer personas to truly understand your end user and where they live online.
+Build a target customer list of one million users.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 05 - PLAYBOOK: How to Uncover Your Growth Opportunities  ====

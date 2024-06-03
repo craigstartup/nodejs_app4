@@ -1,0 +1,420 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 07 - PLAYBOOK: How to Run Your Growth Team  ====
+
+7
+PLAYBOOK: How to Run Your Growth Team
+“You gotta build a team that is so talented that they almost make you slightly uncomfortable.” —Brian Chesky, Airbnb CEO
+ 
+
+The top growth teams are the ones that expedite a feedback loop with their customers the fastest.
+
+Wait, what does that mean?
+
+That means that they run growth experiments at a rapid rate and are laser focused on using the customer data to drive their actions.
+
+These elite growth teams run experiments, get feedback from their customers and iterate on those experiments at a rapid rate. They have assumptions and their own gut feelings about growth, but they always use data to drive their actions.
+
+These actions are in the form of running different experiments on their product experience. It could be A/B testing landing pages with different copy or testing a new distribution channel to acquire users. These experiments can prove or disprove their assumptions. They do this every single day and are always optimizing and testing their funnels.
+
+Simply put, your team needs to be relentless.
+
+This is the mindset you want to take on before diving into any growth marketing channel.
+
+Why is being relentless important? Because no matter what company you work for, eventually you’ll hit a wall and growth will slow. I was leading growth at an e-commerce startup that had just raised $4 million and our growth rate started to stall after seeing two years of constant growth month over month.
+
+It wasn’t that we weren’t working hard, it was because we weren’t focused and dedicated to rapid iteration.
+
+If I was going to scale a startup the right way, I needed to apply the framework used by companies like Dropbox and Airbnb.
+
+Here’s a look at the process I used to run my growth team and scale multiple startups to over a million dollars per month. Most importantly, I explain how to power through the highs and lows of running a marketing team.
+
+Start With the End in Mind
+
+What is your business objective? For an e-commerce company, it’s pretty simple—you should care about revenue growth. To unpack that further, you want an overall purchase conversion rate over 3% and 7% week-over-week user growth, with a customer acquisition cost (CAC) that’s under $30.
+
+What should you focus on right now? The key word here is focus. You can work on your conversion rate, user acquisition strategy and referral mechanism at the same time. But can you do both of them extremely well at the same time? For smaller growth teams, the answer is no. That’s why focus is so important.
+
+Brian Balfour, former head of growth at HubSpot, makes a strong case for focus in the following illustration. He says that focus leads to easier decision-making for individuals and teams. Plus, focus helps you be world class in a particular area vs. being just okay in multiple areas. Below is his graph on staying focused.
+
+
+ 
+
+How to Be a Data-Driven Marketer
+
+Focus also means focusing on fewer metrics to drive your actions. One metric should drive your entire growth team. Yes, one metric.
+
+The goal is growth, but what is the one metric you should be focused on? Your entire team needs to be on the same page with the key metric you’re focused on right now.
+
+With an e-commerce company, the main metric could be purchase conversion rate. That means before ad spend goes up or before the company starts to invest in content marketing, the company needs to be focused on hitting the conversion rate goal of 2%. This way the team can handle an increase in traffic volume.
+
+Once you have decided on this one key metric, the best part about this decision is that it helps determine the actions of everyone on the team. From the developer to the designer, everyone is aligned to improve this one main metric.
+
+For example, the e-commerce company I work with felt so empowered when we decided to focus on conversion. The UI/UX team started focusing on the biggest audience with the lowest conversion rate. For us, that meant first-time users on mobile.
+
+We started testing moving the mobile navigation to the bottom of the screen (easier to use your thumbs) and making the images load even faster.
+
+The ad team started focusing more top-of-the-funnel ads on mobile to our low-price-point items that have the highest conversion rate.
+
+The email team was focused on designing email newsletters that are optimized for mobile with big buttons and big images.
+
+Everyone was focused on the same goals and after two months and about eight different experiments we were able to double our conversion rate.
+
+Another example of how one metric drives a team’s actions would be a company like MailChimp, an email service provider. They might determine that their one metric to focus on is net adds, which is the number of new customers added per month over the number of customers that churned.
+
+As this number moves, the actions of the marketing team should move with it. If net adds goes down, that might mean that more people are churning. What do you do? Look into why they are leaving. Maybe customer service hasn’t responded to various support questions. Maybe users aren’t happy with your product, but the problem is they haven’t upgraded to the newest version.
+
+If the metric increases and sales go up, that would also drive more actions from your growth team. Maybe a paid ad campaign is doing really well for driving sign-ups and subscriptions, so you should increase the spend on that campaign.
+
+Maybe your new email onboarding campaign is working or you did a 20% off promo that helped lift the numbers. Notice that as the number moves up or down it quickly helps you ask the right questions. That’s a sign that you are focused on the right metric.
+
+How can you determine your one key metric or your north star? 
+
+Here’s a straightforward approach to finding the one metric that matters from the brilliant minds behind Lean Analytics. Below is a graphic from that book that shows what metrics you should measure based on the stage of the company (y-axis) and the industry (x-axis).
+
+
+As an example, an e-commerce company that sells toys online at the virality stage (focused on acquiring new users through customer referrals) should focus on its customer acquisition cost. For that toy company, it’s all about acquiring as many new customers as possible at the lowest price.
+
+If a software as a service (SaaS) company that sells email software (a MailChimp competitor) is at the stickiness stage (focused on repeat customers), then they should focus on their churn rate. For them, it’s all about designing a product experience and retention strategy that keeps people happy and coming back each month.
+
+Your one key metric might not be on this graph, but it could directly impact one of the metrics in the graph. It could be a micro-conversion of one of these metrics. Here’s an example of how Airbnb used one micro-conversion metric to scale their growth to a $24 billion valuation:
+
+In its first three years, Airbnb really struggled to get any traction with its product of renting out your room or home. It had a small group of users that loved its product, but it couldn’t break through to a big audience. Airbnb built up the supply side with listings and started to get potential renters to the site but struggled to convert them. Its conversion rate was below average and no one could figure out why.
+
+After going through the user flow, the CEO didn’t like the feel of the product. That’s when he decided to test professional photography on the site instead of user-generated photos of listings. Airbnb tested this idea in the New York City market by sending out a professional photographer to the listings, and the results were staggering. The conversion rate in New York City outperformed every other Airbnb market.
+
+That’s when the company decided to launch professional photography in every market. Its metric ended up being the percentage of listings with professional photography. Airbnb’s founders still credit this move as the main catalyst for their success.
+
+Here’s a breakdown of how they ran this process that transformed their business:
+
+STEP 1:  Create an Experiment Focused on a High Impact Area of the Business
+
+Professional Photography = More Bookings
+STEP 2:  Test with a Clear Goal in Mind (Increase number of nights booked)
+
+Sent 20 Photographers to Photograph NYC Listings
+STEP 3:  Measure Results
+
+Professionally Photographed Listings > Other Listings
+STEP 4:  Use Results to Make a Data-Driven Decision
+
+Launched Photography as a New Feature
+How to Manage Your Growth Process
+
+You’ve determined your main business objective and the one metric to focus on.
+
+Now, what do you do to impact that number? How do you maximize your resources to have the biggest impact? How do you run your growth team? As a marketer, you want a general understanding of all the potential distribution channels that are at your disposal for acquiring new users.
+
+First, let’s do a summary of all the options for growth. Below are two charts that show almost everything you can do as a marketer to grow your online businesses. The first chart is from the book Hacking Growth and shows 27 growth experiments to run.
+
+The second chart is from the book Traction and it lays out the 19 channels you can use to grow your company. Think of this as your Denny’s menu for growth marketing.
+
+27 Growth Experiments
+
+ 
+VIRAL /
+
+WORD OF MOUTH
+
+ 
+
+ORGANIC	PAID
+Social Media	Search Engine Optimization	Online Ads
+Embeddable Widget	PR and Speaking	Affiliate Advertising
+Friend Referral Program	Content Marketing	Influencer Campaigns
+Online Video	App Store Optimization	Retargeting
+Community Engagement	Free Tools	Ad Networks
+Giveaways and Contests	Email Marketing	Sponsorships (Blogs, Podcasts)
+Platform Integrations	Community Building	Native Content Ads
+Crowdfunding	Strategic Partnerships	Content Syndication
+Games, Quizzes	Contributed Articles	
+Website Merchandising	 
+Source: Hacking Growth by Sean Ellis and Morgan Brown
+
+ 
+
+19 Traction Channels
+
+Viral Marketing
+PR
+Unconventional PR
+Search Engine Marketing (SEM)
+Social and Display Ads
+Offline Ads
+Search Engine Optimization (SEO)
+Content Marketing
+Email Marketing
+Engineering as Marketing
+Targeting Blogs
+Existing Platforms
+Business Development
+Affiliate Programs
+Trade Shows
+Community Building
+Sales
+Offline Events
+Speaking Engagements
+Source: Traction by Gabriel Weinberg
+
+ 
+
+I know, this is a lot of options. Right about now, some questions might be coming into your head as you think about where to start:
+
+Should I be focused on new users or existing users?
+How powerful can SEO be for my business?
+How can I optimize email to increase sales?
+Should I build a referral program into my site?
+Do I need to start a blog?
+Does PR actually work? If so, should I pay someone to do it or do it in-house?
+Do I need a video person to make video content?
+As you try to answer these questions, think about what is right for your business. What marketing channels are even an option for your business?
+
+Your Business Model Drives Your Marketing Strategy
+
+The amount of money you make from your online sales, online advertisements, subscription fees, affiliate partners or whatever else, directly impacts how much money you can put back into your business to get new users.
+
+Yes, you could be a VC-backed startup that raised money specifically for marketing, so you don’t have to worry about being a profitable business. Yet. You’re correct for the short term, but that funding doesn’t last forever.
+
+Your marketing budget (or lack thereof) determines whether you can focus on free / cheaper channels (SEO, email, content marketing, word of mouth) or paid channels (SEM, social ads, giveaways). Your cash flow dictates the distribution channels you can test.
+
+In addition to your business model, your stage of business determines what channels you should test. If you’re still in the idea-development phase for a product or business, then you can focus on channels that don’t scale, like hosting Meetup events, customer interviews and being scrappy.
+
+If you have product-market fit and paying customers, then you can expand your marketing budget and test social ads or other paid channels.
+
+Before you start evaluating every option, you need to understand the dynamics of what makes a marketing budget sustainable. That means understanding a user’s lifetime value (LTV), the customer acquisition cost (CAC) and how long it takes to get paid back. To summarize, it’s the following three metrics:
+
+(1) Customer Acquisition Cost (CAC)
+(2) Lifetime Value of a User (LTV)
+(3) Payback Time for a User
+
+Why do these things matter? You become very powerful within your company if you know exactly how much it costs to get a user to sign up or how much it costs to get a user to make a transaction against how much that customer is worth to you over that user’s lifetime.
+
+How to Prioritize Your Growth Efforts
+
+How do I know the main thing to focus on right now? Instead of trying to guess which marketing effort will most impact your one key metric, you can use a quantitative process with this growth scorecard to decide what’s right for you.
+
+List the top 10 growth experiments you believe will impact your key metric. Next, give those experiments a score from 1 to 5 based on the level of impact, and then another score (also from 1 to 5) based on ease of implementation. For impact, 1 means low impact and 5 means high impact. For ease of implementation, 1 means hard to implement and 5 means easy to implement.
+
+Finally, add up those numbers to determine what to focus on right now. You want to focus on the items with the highest score.
+
+Below is a template to use when scoring your experiments. You can access this template at growthmarketersplaybook.com and download the growth templates to build your own growth marketing scorecard.
+
+Growth Idea	Impact (1 to 5)	Ease   (1 to 5)	TOTAL
+ 
+Create dynamic ads on Facebook for users who abandoned their shopping cart.
+
+ 
+
+4	4	8
+ 
+Optimize the product detail page for a
+faster and better mobile experience
+
+ 
+
+5	2	7
+ 
+Launch a campaign that gives first-time users a 15% discount within seven days of signing up
+
+ 
+
+4	3	7
+ 
+Include more social proof and testimonials on the top landing pages.
+
+ 
+
+3	3	6
+ 
+Create an incentive for customers to refer a friend and share on social.
+
+ 
+
+3	3	6
+In the above table, you can see the scores I gave various initiatives for the men’s fashion e-commerce company.
+
+For dynamic ads on Facebook, I gave it an impact of 4 because, although it’s not hitting a large audience, it’s hitting a very important segment—users who have just abandoned a product detail page.
+
+For implementation, I gave it a 4 because I am assuming the e-commerce client is on Shopify so it’s a very simple integration to sync a product catalogue with the Facebook Ad Manager tool. That’s how you assign scores.
+
+How to Introduce a Growth Process to Your Company
+
+It’s not easy to introduce a new process to an existing team. Any type of change can be hard to sell internally. Below are some guides and tactics on how to implement an experiment-focused growth marketing process at your company. I’ve broken it down into four deliverables to guide you.
+
+Identify your objective
+How to structure your team
+How to structure your meetings
+How to structure your week
+Identifying the objective for your growth marketing team
+
+Here’s how you can break down your overall team objective to get everyone on the same page.  It’s important to not only get your team on the same page but to get leaders or executives in other departments on the same page. That’s key if you need approval or buy in for outside teams like sales, operations, development or customer service.
+
+Plus, this helps everyone know what metric to focus on as a team.
+
+Identify Business Objectives:Why do we exist and what are we trying to accomplish? Example: increase # of new customers.
+Set Goals for Each Objective:What does success look like? What is the outcome? Example: 5% increase in new customer emails per week.
+Establish KPIs: What are the numbers that tell you if you’re successful or not? Example: Purchase Conversion Rate.
+Create Targets:What is the expected or desired result for the KPI? Example: Conversion Rate of 3.5%.
+Build Segments:What will we analyze to see if we’re successful or not? Example: Visitors by social, search, referral, direct and paid traffic.
+Note: The most important tip is #4.  Make sure you draw a line in the sand and pick an actual number as your target.  It’s essential to have clear goals your team should hit.  Don’t just focus by saying “hey, let’s increase our conversion rate”.  Instead, be specific and say “ We are working to hit a conversion rate over 3.5%.”
+
+How to Structure your Growth Team
+
+Below are the key areas you want covered as you’re looking to execute on your growth marketing goals.   The main thing is to have a team that can execute on every growth experiment you have.  Your team shouldn’t be dependent on outside parties that are bottlenecks.
+
+Growth Manager:This person owns the growth objective and the main KPI that everyone is focused on.
+The Specialist:This is a marketing professional who specializes in the vertical for this team or project. Examples could be an SEO-focused copywriter who is creating the blog content or it could be the videographer who is mapping out the video strategy.
+Data Analyst:The individual who collects and organizes the data for the growth experiments. They’ll build the dashboards and are responsible for presenting the data in the meetings.
+Developer / Designer:Technical person or designer who can execute on the digital marketing experiments.
+Tip: It’s okay if one person covers more than one of these roles. For example, the growth lead could also be the person who does the job of the data analyst and manages the team.
+
+How to structure your growth meetings
+
+If you want to be data-driven, then it’s important to start your meetings with your KPIs and the performance of your experiments.
+
+Next, you can dive into your findings and your pipeline for the various marketing campaigns you want to run. Then end your meeting with the action items of every individual on the team and what experiments you’ll do to move the needle. Here’s how to do that in under an hour.
+
+15 Minutes: Metrics Review and Update Focus Area
+
+Review data around the OMTM (one metric that matters)
+Positive factors vs. negative factors
+What to focus on now (short term and long term)
+10 Minutes: Review Last Week’s Tests
+
+Number of tests and what we learned
+15 Minutes: Key Lessons Learned from Experiments
+
+Positive vs. Negative (Embrace the failures)
+15 Minutes: What to Focus on in This Cycle
+
+Take growth idea nominations from the group based on ease of implementation and impact
+5 Minutes: Action Items and Ownership
+
+Determine the action items to run your experiments and—this is important—assign individual ownership to each one. Don’t assign multiple people to own something. If it’s not clear who owns something, then assume that no one will.
+To manage the meetings, I am a big fan of Trello. Rob Sobers, head of growth at Varonis, created a Trello template for running growth that I use for all of my clients. You can find it here: https://robsobers.com/growth-hacking-trello-template/.
+
+Tip: With meetings, it’s not about what you preach but what you tolerate.  Don’t tolerate anything but a data-driven meeting.  That’s why you start with your KPIs and how they’re trending.
+
+How to structure your week
+
+The guys at Ladder.io have created a structure for organizing your week as a growth marketer. Here’s a look:
+
+MONDAYS = Analysis
+
+This is a day for diving into your data. Track your KPIs, measure your experiment, spot trends in the data and track your performance against your goals.
+
+TUESDAYS = Planning
+
+Based on your findings from Monday, what experiments can you run to hit your business objectives? Manage your experiments pipeline by taking these growth ideas and turning them into action items.
+
+WEDNESDAYS = Approval
+
+Work with your CEO or manager to get final approval on the growth experiment(s) your team wants to prioritize.
+
+THURSDAYS = Execution
+
+After getting approval, start building, designing and implementing the experiments you selected on Tuesday.
+
+FRIDAYS = Learn
+
+The execution will continue into Friday but it’s also important to stay fresh and current by always learning. Dedicate 20 minutes to three hours to learning. Read recent case studies from your industry, take online classes to stay fresh or browse through a cutting-edge company’s site for inspiration. By just dedicating a small chunk of your time to learning, you’ll find that it helps you come up with even more growth experiments for your company.
+
+What to Do When You Stop Growing
+
+“As an entrepreneur, you have to be okay with failure. If you’re not failing, you’re likely not pushing yourself hard enough.” —Alexa Von Tobel, founder of LearnVest
+
+No new email sign-ups. Search traffic has hit a wall. Only your aunt likes your Facebook posts. I’ve been there. I feel your pain.
+
+There comes a time when your growth will slow down and it’ll probably happen sooner than later. Steve Blank, Silicon Valley serial entrepreneur and coauthor of The Startup Owner’s Manual, calls this first wall in a startup’s life “the trough of sorrow.” The hype of the launch and the newness of the product is gone. You’re old news.
+
+First, it’s important to have something in place to keep yourself focused and, most importantly, motivated. You need to fall back on the things that got you excited enough to focus on the opportunity. Or the things that got you mad enough to solve this problem. In other words, follow the anger.
+
+Here’s how focus would work for a company like Uber: I hate cab lines. I hate waiting 15 minutes for a cab. I hate it when they don’t take credit cards. And I hate how they smell. If you’re marketing for Uber, then those are the things you could remember in those tough days.
+
+Second, focus on the small group of people who actually love your product. As mentioned in chapter 4, you should only focus on growth if you have product-market fit. If you have product-market fit then you’re delighting a small group of people and they’re so excited that they’re telling you about it.
+
+Glorify those small wins. Share those comments and their feedback with your entire team (or just yourself if you’re a team of one)!  It’s those little wins that will help you push through the “dark days” that are filled with flat growth, the doubters, the haters, the competitors and the voices in your head. It’s those happy customers that give you hope that this product can work.
+
+Now that you are motivated to push through, let’s talk about what to actually do. It’s time to start evaluating every possible marketing initiative in a smart and efficient way. We’ll leverage the growth scorecard process we mentioned earlier in this chapter to evaluate which marketing channel to test.
+
+Evaluate potential digital marketing channels
+
+As you’re going through your growth ideas, make sure you focus on the ideas that can have an impact and move the needle. Here’s how to take that exercise even further:
+
+Step 1: Write down any channel or tactic that you think will help you grow. These could be existing channels that have shown signs of hope or marketing channels you have never tested.
+
+Step 2: Only test channels or growth tactics in order of potential impact and ease of execution. Your scores on the growth idea scorecard will help you prioritize which experiments to focus on.
+
+Step 3: If an experiment starts to work, then you should create guidelines for the channels or ideas to make sure you maximize this channel or strategy. These guidelines could include the following for a content strategy that shows signs of working:
+
+What type of images and copy are you posting?
+What voice are you using when you publish to it?
+How many times are you posting per week or month?
+Who is listening to and interacting with customers?
+Step 4: Allocating the right amount of time, money and resources to those channels. This way you can focus on finding the next channel or tactic to test.
+
+Here’s an example of how PayPal used experimentation to find a growth marketing strategy that worked:
+
+When PayPal was trying to get early traction, they focused on paid ads and partnerships with banks. They quickly learned that a broad ad campaign would be too expensive to get the conversion numbers they wanted. The bank partnerships weren’t moving fast enough. Sadly, big companies, especially commercial banks, aren’t exactly agile.
+
+After testing and failing with these two distribution channels, they went for a more aggressive referral program. The referral program (their third option) allowed users to get money for inviting a friend to use PayPal. This channel proved to be the marketing initiative that gave them the traction they needed to reach millions of users.
+
+How to know which marketing channels to prioritize
+
+Which marketing channels will have the biggest impact? How do you assign a score for impact? How much time and energy should you allocate to each growth idea? Here’s what you need to factor in when prioritizing marketing ideas:
+
+Determine which marketing channel or campaign could have the biggest impact. If you had to make a bet on one untouched marketing channel that would have the biggest impact on your company, what would it be? What would move the needle the most? Which channel would impact the biggest number of users or potential users? Which channel touches the segment of users that spend the most amount of money with you? It’s those questions that should help you prioritize your marketing actions.
+
+As an example, if you have a significant email list and you haven’t implemented a robust email marketing campaign, then that’s a low-hanging fruit. You could optimize your welcome email to increase your click-through rate, roll out an email drip campaign to increase email sends, launch a transaction email that emails users four hours after they left something in their shopping cart.
+
+As another example, maybe you haven’t done anything around SEO and you used SimilarWeb.com to see that your top five competitors get over 60% of their traffic from search. It could be worth optimizing all of your pages for search or rolling out an SEO-driven content marketing campaign.
+
+Start Testing With Free Online Marketing Channels
+
+In most cases you want to start with free channels and leverage what is working and apply that knowledge to paid channels. For example, you could be looking at paid ads vs. a content marketing initiative. After doing some keyword research (using the Google Keyword Planner tool in AdWords), you could see a strong demand for keywords around topics related to your industry.
+
+Yes, you could start tossing money into AdWords or you could start blogging about topics around those keywords. Both will cost you something (money or time) but let your business model drive which one you do first.
+
+Prioritize Experiments With the Fastest Feedback Loop
+
+The most successful startups are the ones that can iterate the fastest. To dive into that even more, that means launching something, getting feedback, learning from that feedback and then iterating on that knowledge. The main word in that process is feedback. How fast can you get feedback to drive your next iteration?
+
+With every failed experiment, you get that much closer to finding the right growth opportunity. Imagine you have an idea to build a new tool that you believe will be great for user acquisition for your startup. However, your product team says it’ll take six weeks to go live. Then you need two weeks to see if there is any demand for this tool. That’s a total of eight weeks.
+
+Or you can go with another option where you launch a landing page in two days, then drive traffic to that page and see if people sign up to be notified when this product or service launches. This option allows you to get faster feedback about whether or not people would even want this product.
+
+What segments are you targeting?
+
+Which users are you targeting with your marketing initiative? Not all users are created equal. Are you going after new users? Are you looking to reengage existing users? Are you targeting your most active users or the users that spend the most money, or are you going after users who just visited your site once?
+
+For e-commerce companies, people who have already spent money with you are much more likely to spend money with you again. You already know what they like and they have already given you their credit card information. What have you done to reactivate them?
+
+Determine if the distribution channel is mature or emerging
+
+Before you embark on any marketing channel, you need to know where that marketing channel is at in its lifecycle. Is it a new, emerging channel that just recently started getting traction or is it a mature platform that has reached a point of saturation?
+
+For example, if you went all in on building an Instagram following in 2013, then you hit a gold mine. It was a wide-open channel that was growing faster than any social media platform. It had no ads, no algorithm for your main feed and no limit to how many people you could follow. However, it’s very different after 2018 and it’s becoming harder and harder to acquire users. It’s oversaturated and you’re competing with more ads, more brands and a higher standard of content.
+
+As you evaluate social platforms, marketplaces, forums and marketing channels, understand where they are in their lifecycle. That will impact how easy or hard it will be for you to get traction.
+
+See what your competition is doing
+
+The more you can learn from your competitors the more creative you can be with your growth initiative. That means studying the competition to see what traffic channels are working for them. Are they getting more users through search, social, ads or referrals? What ad networks are they using? What influencers or press have written about them?
+
+Okay, so how do you know if something isn’t working or if it just hasn’t been given enough time?
+
+Your testing cycle is totally dependent on your industry, so take this advice with that in mind. For experiments, you want to allow a test to run through a normal business cycle with enough actions to get a decent amount of data. A normal business cycle could be around two weeks so you get two weekends and two work weeks of data. If you run a small startup, you want to have a minimum of 500 actions on each experiment. It might require 1,000 visits or 100,000 visits to get those actions.
+
+Regarding traffic, organic traffic is ideal because it’s authentic. But it might take a while to get the traffic volume you need. In that case, you can leverage paid traffic to accelerate your tests. Facebook Ads and Google ads are good options for getting paid traffic.
+
+Closing Note
+
+Before you start testing every single distribution channel, please make sure you’re always focused on your ideal customer. Ask yourself the question: “Is this marketing channel right for my specific audience?” Using this customer-centric question to guide your actions is a good way to make sure your end user is always a priority.
+
+CHAPTER 7 CHEAT SHEET
+
+Use the growth scorecard approach to quantify each growth idea by impact and ease of implementation. Then prioritize them accordingly.
+As a team, determine the one metric you’re using as your top marketing goal. Use a data-driven approach to running your meetings and your week.
+Where can you put your resources that will have the biggest impact? Don’t get caught up in what everyone else is doing.
+Stay motivated by glorifying your happy customers—even if it’s only a handful of people.
+Follow the framework for rapid experimentation to uncover the right channel or experience that will help you turn the corner.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 07 - PLAYBOOK: How to Run Your Growth Team  ====

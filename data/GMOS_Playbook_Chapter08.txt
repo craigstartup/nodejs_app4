@@ -1,0 +1,703 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 08 - PLAYBOOK: How to Acquire, Convert and Scale  ====
+
+8
+PLAYBOOK: How to Acquire, Convert and Scale
+“Early in a startup you need to acquire your customers for free. Later on, you can spend on customer acquisition.” ─Fred Wilson, Cofounder of Union Square Ventures
+ 
+
+In this chapter, we’re going to get tactical on a few key components of the conversion funnel.
+
+Consider this chapter a knowledge transfer of growth marketing skills to help optimize your marketing funnel and where to start when you want to experiment with these marketing channels or strategies.
+
+These recommendations are not the definitive best practices for each phase of the funnel. They’re a guide to inspire you to get started with building and optimizing your own funnel.
+
+As you start working on your own marketing strategy, you can get a head start with this playbook and apply it to your company. We’ll lay out recommendations, notable case studies and top resources for continued education.
+
+Here’s what we’ll cover:
+
+Playbook for Acquisition and Retention
+Content Marketing
+SEO
+Social Media
+Facebook Ads
+Keyword Ads
+Being Scrappy
+Email Marketing
+Playbook for Conversion
+Metrics for Conversion
+Activation Strategies
+Designing for Conversion
+Customer-Based Marketing
+Playbook for Scaling Growth
+Scaling with “growth hacking”
+Engineering as Marketing
+Content Marketing and Distribution
+
+Content marketing is the process for creating and distributing relevant and valuable content to attract, acquire, and engage a clearly defined and understood target audience.
+
+Translation: use your storytelling skills to get the attention of customers or potential customers.
+
+This could be with a 2,000-word blog post that your CEO wrote on the impact of rising interest rates in Q4 or it could be a video on YouTube that shows the 10 cutest puppy GIFs of all time.
+
+Here are all the different types of content that you could create for your business:
+
+Quizzes
+Polls
+Infographics
+Lists
+Q&As
+GIFs
+Videos
+Slideshows
+Long-Form Content
+Thought Leader Articles
+eBooks and Guides
+Podcasts
+Videos
+Why should you do content marketing?
+
+Before diving into content marketing, ask yourself why content marketing is right for your business. What is the right type of content for your customers? Maybe you want to educate users about your industry, and an infographic is the best way to do that. Or you sell a product that is very visual, and an online video series distributed through YouTube and Facebook is the best way to showcase it.
+
+How do you measure if content marketing is successful?
+
+At the start, people will not read your content and then immediately click on your product. It takes time for content marketing to work. Be patient and know that it’ll take at least six months to a year before you see any sort of results.
+
+If done right, the results will come through in the form of brand exposure, brand mentions, increased traffic, increased SEO traffic (evergreen traffic), increased leads and sign-ups and, eventually, increased sales.
+
+What should you write about?
+
+You might have a million ideas pouring out of you or you might be staring at a blank page. Regardless, it’s important to know what is the best piece of content on the web around your category. Understand what editorial angles have worked for your competitors and how shareable their content has been. This way you know what you’re up against when you’re building your content strategy.
+
+That’s where Buzzsumo comes into play. Buzzsumo is a web tool that allows you to see the most shared content on the internet related to specific keywords. For example, if you’re writing a blog post on “digital marketing” then you go to Buzzsumo and enter in the phrase digital marketing. It will run a query and show you the most shared articles on the internet around that topic. You can filter by Facebook shares, Twitter shares, Pinterest shares, or anything else.
+
+Study the headlines of these articles and the structure or formats they used for these posts. How long were the headlines? Did they use social proof or certain keywords? Did they format the post as a list or rank each item? Maybe they used lots of quotes and images. These details will inspire ideas for your headline and the structure of your content.
+
+Take it a step further and read through the comments of these articles and see what people are saying. You could see some great reviews, negative reviews and comments that talk about what the article is lacking. It’s that last type of review that you want to catch.
+
+For example, if it’s an article about digital marketing and the comments said they loved the Guide to Digital Marketing but wish there were more case studies, there you go. You could make a guide that’s built around case studies. Once the article is completed you can come back to this comment thread and post a link to your article.
+
+One last tip on content: Don’t make the content about you. Make the content about your customer, aka, your reader. The more you add value to the customer, the more likely they will read the entire article and share it with their community.
+
+As you write this epic content, think about the article from an SEO perspective. What keywords are you using in your URL structure, your headline, your copy and your image file name? These things impact how your post will rank for certain keywords. We’ll talk about this more in the SEO section below.
+
+Okay, you thought of an article idea. You researched the topic on Buzzsumo. You wrote an amazing headline. And then you hit publish. You’re done, right? Wrong.
+
+Your job is just getting started. It’s time to share this digital masterpiece on any channel that could give it a boost.
+
+Tips for Your Content Distribution Strategy
+
+Now this might feel tedious and annoying but it’s this last part that will make or break the impact of your article. You owe it to yourself and your editorial team to push this out as well as possible.
+
+According to content marketer Sujan Patel, 80% of his traffic at When I Work came from five articles because he distributed them the right way.
+
+Neil Patel is one of the most famous content marketers and he sends out 250 emails to individuals for every blog post he publishes. Yes, 250 emails. He asks these people to read his blog post and share it with their connections on Facebook, Twitter, LinkedIn, wherever. These aren’t just random people.
+
+Neil finds people who have expressed interest in his industry, so it qualifies them and increases the likelihood of them to share. Brian Dean, Founder of Backlinko, decided to do this same outreach approach. He finds and emails his 250 users by doing the following steps:
+
+Step 1: Type in your content category into Buzzsumo. Example: “Beginners guide to SEO.”
+Step 2: Filter the results by Twitter and export the list of Twitter users in order of most followers.
+Step 3: Hire a freelancer via Elance to find the email addresses for these 250 Twitter users. You can use a tool like Clearbit to discover their email address.
+Step 4: Email these users by using a tool like mail merge or have your freelancer do it manually. In the email, say that you saw they shared X article (the article with shares on Buzzsumo) and you thought they would like your article. Then ask them if they would share it as well.
+
+Tip: Only do this if you’re sending emails in a personalized way that adds value. Spam emails won’t work and they reflect poorly on your brand.
+
+Targeted email outreach can have a big impact on your content distribution strategy. In addition to that, you can do other things to push your content to potential influencers and users. Here’s the content distribution playbook for sharing your content:
+
+The Content Distribution Playbook
+
+Send to your email list
+Share on your social media channels
+Syndicate the article on platforms Taboola and Outbrain
+Send an outreach email to people who would like your article
+If you mention influencers in your article, email them and ask them to share the article with their followers
+Submit and post the article on other platforms like Medium and StumbleUpon
+Find your topic on Quora and repost the article as an answer with your link
+Run paid ads and remarketing ads pushing the article
+Repurpose the headline and share it again in a month
+Now that your content is live and you’ve followed the content distribution playbook it’s time to monitor the performance and keep it updated. It’s okay to update it with fresh content to keep it relevant.
+
+Content Marketing Case Study: How Mint Was Acquired for $170 Million
+
+Mint is a personal finance website that makes it very easy to manage all of your personal finances and budgets. Its product was very groundbreaking at the time and users were obsessed with it.
+
+The problem is that it wasn’t naturally viral or shareable. Users weren’t tweeting about how much money they saved on groceries. Personal finance isn’t something people like to share, because it’s, well, personal. While they knew their product wasn’t viral they knew they needed to get people to talk about their category.
+
+Mint decided to focus on just one main channel, content marketing. They ignored everything else and decided to make the best personal finance blog on the internet by focusing on making high-quality infographics.
+
+They created evergreen infographics, like “How Common Is Budgeting Among Americans?” and timely infographics, like “Six End of the Year Tax Tips.” This content would be shared on networks like Digg and get thousands of upvotes.
+
+Two years after launch they had 1.5 million users and got acquired for $170 million.
+
+Content Marketing that Rides Pop Culture Trends
+
+What happens when you’re in a category that isn’t exactly exciting or sexy?
+
+Sigstr ran into this problem. Its software product allows you to make custom email signatures. Not exactly the next Tesla or SpaceX but it’s great for B2B (business to business) sales teams. Sigstr was able to tie its content to something that was exciting, Game of Thrones. As the season finale was approaching, Sigstr launched an epic piece of content titled “If Game of Thrones Characters Had Email Signatures,” featuring custom email signatures for their favorite and least favorite characters. The article rode the #got hashtag waves on Twitter to the top, and is still one of Sigstr’s five most shared posts of all time.
+
+Below is a look at the top content marketing resources to take your content strategy to the next level:
+
+Neil Patel’s blog for understanding long-form content
+Buzzsumo for researching what to write about
+Contently blog for trends in content marketing
+Buffer Blog for content distribution
+Search Engine Optimization (SEO)
+
+Depending on the industry or business that you’re in, Search Engine Optimization (SEO) can be very powerful. For most e-commerce websites, search is where most of the online shopping experiences start.
+
+According to Lean Analytics, 79% of all online shopping experiences start in the search bar. Basically, if you’re selling anything online and you’re not focused on search, you’re making it much harder on yourself.
+
+Your industry might have certain keywords that could drive hundreds or even thousands of visitors. For example, a wedding dress designer that specializes in plus sizes dresses gets over 110,000 visitors per month because they’ve optimized for “plus-size wedding dresses.” That’s free traffic if you can capture it and convert it.
+
+SEO 101: What Matters in the Eyes of Search Engines?
+
+Optimizing for search traffic means that you want to have a high page rank for certain keywords. In order to get a good page rank for your various pages, Google puts certain weight on various factors when it’s crawling your website.
+
+Here are the various factors by weight that Google uses to rank your web pages (note that this is constantly changing):
+
+Domain Trust (25%)
+Link Popularity (22%)
+Anchor Text of External Links (21%)
+On-Page Optimization (15%)
+Domain Registration and Hosting (7%)
+Traffic and Visitor Performance (6%)
+Social Media (5%)
+Let’s simplify SEO into two categories:
+
+(1) On-Page Optimization of Your Site: This refers to everything you can do to optimize your website for search traffic.
+
+(2) Link Building: Getting other websites to link to your website.
+
+Before we talk about the first category, understand which keywords you want to rank for on Google and other search engines. Keyword Planner by Google AdWords is a free tool that allows you to research monthly searches by keyword or phrase.
+
+You could toss in the phrase “digital marketing” and see that 246,000 people type that search into Google each month. This helps us understand that people are interested in this category and are actively looking for information around it.
+
+After you determine the keywords you want to rank for through keyword research and keyword mapping, then it’s time to optimize your website for those phrases. Here are a few things to factor in when it comes to on-page optimization for certain keywords:
+
+Submit Your Website to a Sitemap: A sitemap is a tool created just for search engines. It allows you to tell a search engine when to crawl and rank your website. WordPress users can install the Google Sitemap Generator. Otherwise, you can use sites like xml-sitemaps.com to generate one.
+Google Webmaster Tools: Sign up your website with the Google Webmaster Tools to ensure that it’s being indexed by Google.
+Optimize Your Pages and Posts for Certain Keywords: Include your selected keywords in the URL structure, meta description, headline, intro paragraph and throughout the content.
+Internal Linking: Include internal links to other pages on your site to connect pages based on keywords. Aim to have at least one to three per page.
+Mobile-Friendly: Make sure your website is responsive and mobile friendly. If possible, make your website AMP-compliant. (AMP means accelerated mobile pages.)
+Other Tips: If you have images or video on your website, make sure the file names and alt text include your keywords. Also, factor in the total word count on your page or blog post. For example, if you are writing an authoritative blog post, then your goal should be to write 1,000-plus words as opposed to 100.
+Next up for SEO, how do you build up your backlink profile? You want to have as many authoritative websites (CNN, the Wall Street Journal, BuzzFeed, etc.) as possible linking to your website. If Google sees these credible websites linking to your site then they know you have an authoritative website and this helps your page rank.
+
+This is known as building your backlink profile. Backlinks can be built multiple ways. Some include getting press from online publications, guest blogging/guest posting on other websites and by submitting your website to online directories.
+
+As an example, a startup that identified products and locations from movies, was able to use SEO to increase monthly website visits from zero to hundreds of thousands of visits in under 12 months. We saw a big opportunity in long tail search terms for phrases like “James Bond sunglasses in Spectre” or “winter jacket in The Holiday.” Each of these phrases would get thousands of searches.
+
+We ended up designing product detail pages around each product from a movie or television show with the search phrases (rather than the actual brand name) built into the headline, URL structure, meta description and the copy on the page. Also, we realized that Google Images search was a big opportunity. Naming the file images was just as important as the H1 (Headline 1) text of the copy on the page.
+
+SEO is not a sexy initiative with quick wins. While it’s not the most exciting channel it can be the most rewarding if done right. A site built on SEO traffic is the result of a thoughtful structure, a strong technical team, ongoing site maintenance and a long-term backlink strategy.
+
+Top SEO Resources
+
+Backlinko by Brian Dean for tactical articles about SEO
+Moz’s Whiteboard Fridays for trends in SEO
+SEMrush for powerful SEO tools
+ClickMinded’s online SEO course taught by the former head of SEO at Airbnb and PayPal, Tommy Griffith
+Robbierichards.com for actionable advice on how to grow your website with SEO
+Social Media Marketing: Navigating the Social Media Jungle  
+
+Snapchat. Instagram. Facebook. Twitter. LinkedIn. Quora. Reddit. Pinterest.
+
+The list of social channels goes on and on. Should your company be on all of these channels or just one? How do you know if you’re focused on the best social channel for you? The goal of this section is to help you navigate the social media jungle.
+
+First, is social media right for your business and growth marketing plan?  Understand that social channels command a lot of attention. Regardless of your industry or end user (B2B or B2C), your customers are people who are active on some form of social media. If you truly understand your audience and how to connect with them, then there is a social channel for you to test. But which one?
+
+How to evaluate the right social media channels for your company
+
+Before you start posting the same thing on every channel, let’s take a more strategic approach. Here’s a qualitative and quantitative exercise to determine which channels are right for your business.
+
+Quantitative Approach: What do the numbers say? Start by understanding what channels are working in your industry. Specifically, what channels work for your top five competitors. Make a list of your top five competitors or top five brands with customers that align with your users. Take a tool like similarweb.com or Spyfu.com and look at the traffic volume for social. For example, let’s say you have an audience that’s similar to the Bonobos audience—working males that are stylish and active. SimilarWeb shows that Bonobos gets 11% of its traffic from social. The next question is, what is Bonobos’ top social channel? The results show that Reddit is #1 and Facebook is #2. There you go, two channels that should be worth evaluating further. For a macro approach, reference Sprout Social’s Social Media Demographic Report. Here you can understand the demographic of every social channel and see where your user personas live on social.
+Qualitative Approach: What makes sense based on your insight? You know your customers better than anyone because you’re the business owner and you interact with them. Ask yourself these simple questions: How can you add the most value to them on social media? What type of content would they want? What questions do they normally ask? If it’s a lot of detailed how-to questions, then educational videos and tutorials could be great on YouTube. If you have an aspirational brand that’s very visual (think GoPro) then channels like Snapchat and Instagram could be great for showcasing how to use your product with artsy videos and photos.
+Based on your qualitative and quantitative research, determine the social channels that make sense for you right now. Prioritize them and determine which ones you can actually deliver on. Tip: If you’re on a team with limited resources, you’re going to want to do all of them, but you might not be able to do all of them well. It’s okay to start with one to three.
+
+How do you measure social media marketing success?
+
+Start with the end in mind. It’s easy to fall into the pattern of pumping out social content rather than focusing on the results. That’s why you need to start with your goal in mind. What are you trying to achieve with each channel? Here are some options for measuring success with social media metrics:
+
+Awareness: You simply care about spreading the word and connecting with potential customers. You care about followers, likes and reach.
+Conversion: Your goal is to turn social media followers into customers with your content. Increase sales and leads. You care about your click-through rate (CTR) and conversion rate (CR).
+Customer Service: Use social media as a way to interact with customers—one-to-one messaging through DM or comments. You care about positive brand mentions and social shares.
+Retention: Social media can be great for re-engaging customers and bringing them back to your website. You care about weekly traffic from repeat users.
+Referrals: Turn your customers into marketers. Ask users to share your post or page with their network. You care about shares and how many friends your followers tag on a post. (Tip: Instagram comments are great for this.)
+How do you track those goals? Here are some tools to use so you can analyze if you’re hitting those goals.
+
+Mention: Scour the web to see if your brand or industry is being mentioned on any social platforms.
+Simply Measured: See how your social media campaigns drive results through your conversion funnel.
+Google Analytics: Track traffic that’s coming in from social media.
+How to design your social media strategy
+
+Okay, you’ve determined your channels and set your goals. Now, how to design a content strategy that gets results? Start by getting a head start with current best practices and competitive analysis. Tip: Always lean toward content that adds value to the customer.
+
+Begin by understanding what’s working on each channel and best practices. Buffer and Sprout Social publish frequency guides every year to give you an idea of how often to post on each channel. Use this as a starting point for frequency.
+
+Next, pick five competitors in your space and five of the most innovative companies on your applicable channels and stalk them. Yes, stalk them online and take notes. Here are the things to watch out for:
+
+Frequency: How many posts per week/month? What time of day?
+Types of content: How would you categorize their content? Aspirational shots, product shots (for e-commerce brands), how-to guides, inspiring quotes or typography, types of videos, thought pieces, behind-the-scenes shots, witty quotes, etc.
+Partnerships and Guest Posts: Do influencers take over their Twitter handle or run their Instagram stories? How do they handle partnerships?
+Giveaways: Do they run giveaways on their accounts? Are they promoting collaborations with other brands? What’s driving their spike in likes, comments or shares?
+Hashtags: Especially for Instagram and twitter, what hashtags are they using or not using?
+Engaging with People(Actually, Being Social): How are they interacting with users? Do they talk in the comments or take the conversation to direct message? What type of content creates the most comments?
+Last, sign up for the blog of every social channel you’re on. To help, check out the Instagram blog. This allows you to be the first to know when they roll out a new feature. They’re tech companies so they’re always innovating.
+
+Make it a priority to be the first one to test these new features. If Instagram launches its next Stories, then start experimenting with it ASAP. You never know what feature or tool could be the next great breakthrough for engaging with users.
+
+How to execute and scale your strategy with limited resources (i.e., time and money)
+
+After you perform this analysis, put your content ideas into categories. Try to have at least five category types of content. Create a pipeline of content for each category so you can run experiments to see if the content resonates with your network.
+
+For example, one of my clients had a category of inspirational quotes from founders so we made 100 images of quotes. We were set on content in that category for three months.
+
+Take advantage of a scheduling tool like Buffer, Hootsuite, Meet Edgar or Sprout Social. Plan out your evergreen content by two weeks. By getting ahead with the evergreen content, you have more time to actually be social on these channels and engage with people. With one of my clients, we have social Fridays and we spend one to two hours making content for the next two weeks.
+
+Final Thought
+
+The best way to know if a social channel works is by testing it the right way. Be strategic about your content and how you measure it. As a business owner or a social media leader, your time is limited and valuable so make it count when experimenting with social media channels.
+
+Top Resources
+
+Buffer Blog for case studies on social media strategy
+AdEspresso’s blog for tactical advice on running social accounts
+DigitalMarketer for trends in social media
+Facebook Ads
+
+With Facebook and Google owning almost 100% of all online ad growth, it’s worth diving deep into one of these channels to help understand how to use your online advertising budget.
+
+Here’s a breakdown on how to optimize a Facebook ad and Instagram campaign from fine-tuning the campaign creative to scaling the ad spend.
+
+The Audience
+
+Running Facebook ads doesn’t start with Facebook. It starts with your website. Set up the Facebook Pixel on your website. The pixel is a small snippet of code that you copy from the Facebook’s Business Manager and drop on your site. By setting up this pixel, you can retarget any user that visited your website and then visits Facebook.
+
+This way you can re-engage a user that has shown interest in your website but didn’t convert. It’s great for B2B companies running webinars that want to retarget users that got to the registration page but didn’t commit. Or it’s great for e-commerce companies that want to retarget customers who put something in their cart but abandoned it before checking out.
+
+Pro Tip: To double check that your pixel is working correctly, use the Facebook Pixel Helper Chrome Extension. If it lights up blue when it’s on your site then you’re good to go.
+
+Know Who You’re Talking To
+
+Knowing who you’re targeting is probably the most important aspect of your Facebook ad campaign. Getting in front of the right audience can make your beautiful ads look groundbreaking. Here are the five audiences to test in order of my preference.
+
+Your Email List: Facebook allows you to upload your email list and retarget them on Facebook and the Facebook audience network. Game changer! This will be your highest converting segment if you have a product with lots of repeat purchases. Start here.
+Your Website Traffic: The Facebook pixel allows you to retarget people that visited your website. This is a great one for reengagement.
+A Lookalike Audience of Your Email List/Website Traffic: This is where the power of Facebook comes into play. Facebook knows a lot about its users: the articles they like, brands they follow, content they up-vote, exes they message, everything. They’re able to make a lookalike audience based on your email list or your website traffic. Facebook claims that this audience will be 90% similar to your audience and has a reach of 2 million people. It’s great for scaling and finding new customers similar to your existing ones. Tip: if you have a big list then create more custom audiences based on a list of you customers with the highest AOV (average order value) or with the most purchases.  Then use these lists to create a lookalike audience.
+Target Fans of Competitors: Facebook has an Audience Insights tool that allows you to slice and dice segments based on your competitors, influencers and other personalized data. We recommend starting by building a segment of over five competitors that reaches over 500,000 people.
+Target users based on Attributes: You can target people based on their profile and attributes. For example, if you’re selling products designed for kids ages two to six, there are lots of options. You can target moms who drive minivans, moms with kids in pre-school and grandmothers. Lots of ways to test finding the right audience for your users.
+Creating Ad Content: Important Tips
+
+If you have the resources, always test at least three images or videos against each other. I actually try and do seven but three is my minimum.  Some options for images include product shots, editorial shots or user-generated shots (basically, photos not taken by a pro).
+
+The high-quality product images are the best for a very warm buyer that needs more information on the quality of your product. Social images are great for click-through rate. Videos are great for engagement and shares. If you do a video with audio, make sure you add subtitles. It can have a significant impact on conversion because it helps capture someone’s attention when a video is muted.
+
+If you don’t have the capability to do video then use Facebook’s slideshow feature to make a video. For me, these outperform the video ads half the time. But always test three against each other because you’ll be surprised at what actually converts. If you use text on the images, make sure the copy takes up less than 20% of the real estate on the images. Otherwise, Facebook won’t approve it.
+
+Test a Lead Magnet
+
+The top-performing ads from a click-through rate (CTR) perspective usually give the user something in exchange for a click. For an e-commerce company, that could be 20% off their first purchase or something for free with purchase. For a B2B company, you could offer a guide or a checklist in exchange for a click or an email. Just make sure those users aren’t one-hit wonders.
+
+Turn Your Press into Ads
+
+Social proof is a powerful thing. It allows you to use the words of a credible source to promote your brand. You can do this in the form of quotes from the press, notable partners or customer testimonials. If you hit a roadblock with ad copy, start here. The language of your fans is a great starting point.
+
+Want More Emails? Try a Lead Ad
+
+If you have a strong email onboarding series then go aggressive with Facebook’s Lead Ads. A Lead Ad serves an ad on Facebook that captures the email within the Facebook ad unit. You can use a tool like Leadsbridge to pass that email into your email service provider. For some of my clients, we were able to get emails for under $1 per email for a good stretch. This is a great deal when most of their competitors were getting email leads for $20.
+
+How to Optimize Ads
+
+Congrats, your ads are live!
+
+Now what? How do you know if your ads are performing well on Facebook? Below are six metrics to track to see how they’re performing. I’ve tossed in some basic benchmarks, but please know that these might be high or low depending on your industry or whether you’re targeting a new user or an existing customer.
+
+ROAS: Get your Return on Ad Spend over 300% when looking at attribution from the window of 28 days after click and one day after viewing.
+Cost Per Purchase: Get your CPP under 30% of the LTV of your customer.
+CTR: Get your click-through rate (CTR) over 1%.
+CPC: Get your cost per click under $1.
+Frequency: Watch how your conversion numbers change as your frequency goes over 10 in under 30 days
+Relevance: You want a relevance score over 7. This is a scale of 0 to 10 showing how relevant your ads are for a particular audience.
+How to Track Your Ads
+
+When it comes to tracking the performance of your ads, it’s all about your link structure. Reference chapter 6 for more information about the link builder. Assuming you have Google Analytics set up, use Google’s URL builder on any link you use for an ad. This allows you to track your campaigns once the user goes from Facebook to your website. Then you can see which campaigns result in sales and which campaigns result in a high bounce rate.
+
+What to Do When Things Don’t Work
+
+As the great philosopher Mike Tyson once said, “Everyone has a plan until they get punched in the mouth.” Sadly, most of the startups I have worked with start by doing Facebook ads on their own. They put ads live and then they don’t see any results. This is when you want to roll up your sleeves and really understand what isn’t working and start using that information to drive your next test. Here are some quick optimization tips for getting your ads on the right track:
+
+Desktop Only: This means only showing you ads on desktops and not showing them on mobile devices. Your conversion rate is probably better when people aren’t on the go.
+Newsfeed Only: Put the ad where their eyes are going – the middle of the newsfeed. It’s more expensive but it’s a better overall return.
+No Audience Networks: Facebook really pushes their audience network (meaning ads on other websites) but these platforms are not as engaging as Facebook and Instagram. No need to do this when you’re under $3,000 a month.
+Duration 2–4 Weeks: Do not set the campaign as “ongoing.” Give Facebook’s algorithm a set time period where you want results.
+New iPhones: Only serve ads on the latest version of the iPhone. If they’re buying the latest iPhone, they might buy your product.
+WiFi and New Devices: Make the setting for mobile devices that are “connected to WiFi.”
+Manual Bid & Bid Caps: This allows you to control how much you pay per click, per purchase or per conversion. It can guarantee you won’t go over a certain price. Just know that it will take longer to deploy your spend if your bids are low.
+How to Scale Ads
+
+Well done! Your ads are on fire and bringing in customers. Now it’s time to put gasoline on the fire. You’re taking your spend from $5 a day to $1,000 a day. That’s easy, you just change the daily spend from $50 to $1,000, right? Wrong. Here are some tips on what to do:
+
+Use Facebook’s Auto-Increase Feature
+If you want to go from spending $50 a day on an ad to $250 a day, just tell Facebook. They have an auto-increase feature that allows them to scale your ad spend by percentage or price while still optimizing how the ads are served. This way, you alert Facebook of your increase, so they can prepare.
+
+Create Detailed Segments for Your Top-Performing Ads
+Say you’re spending $20 a day on your top-performing ad. Great, let’s break it up even further. Make that same ad with 4 variations that change with the copy, the images, the video or the ad type. Put $20 to each of those ad sets and you just quadrupled your ad spend on the same ad.
+
+Leverage Dynamic Ads
+For e-commerce websites, Facebook allows you to upload your entire product catalog to Facebook (via an Excel document or a plug-in). This way you can do product-specific retargeting automatically. Let the computer manage the 1,000 SKUs for you and serve up products that a shopper left behind.
+
+Use Facebook’s Rule Alerts
+Leverage the rule-alert feature within Facebook to help manage your campaigns. This feature is great because it can save you from burning money and help you allocate your budget to the top-performing campaigns in real time. For example, you can have your budget decrease by 20% if your CPC (cost per click) goes over 20 cents. You can have a rule that auto-increases your spend by 5% if your cost per website conversion is under $20. This rule allows for a cap, so it will stop once you hit a daily spend of a $300 or whatever your budget is for your campaign.
+
+For more information on Facebook ads, checkout growthhit.com/growth/effective-facebook-ads/ to get our latest Facebook ad course.
+
+Top Resources
+
+Jon Loomer’s blog for staying up to date on Facebook’s ad platform
+Perpetual Traffic podcast for case studies on social paid campaigns
+Adespresso for a database of top-performing Facebook ads
+KlientBoost blog for tactical advice on paid campaigns
+Facebook IQ for getting more comfortable with the platform
+Search Engine Marketing (SEM)  
+
+While Facebook Ads are focused on audience-based targeting, the potential customer may not be ready to buy your product.  Google Ads captures intent-based audiences and catches people when they’re looking to buy something like a “Used Blue Ford Raptor”.
+
+Search engine marketing allows you to bid on specific keywords or phrases that a potential customer uses with a search engine like Google or Bing. While you could use your SEO strategy to rank for those keywords for free, SEM allows you to pay for those clicks. But what keywords should you go after?
+
+Google’s Keyword Planner tool allows you to figure out what keywords are right for your business. You input the keywords or phrases into the tool and it’ll show you the number of monthly searches for that phrase and provide the average cost to bid on that phrase. For example, the phrase “marketing plan” gets over 78,000 searches per month and it costs around $1.38 per click for that search.
+
+Paying for clicks doesn’t make sense for every industry or business because the cost per click and the return on that ad spend don’t add up. If you’re at a startup in the mortgage industry and you want to rank for the phrase “interest rates” then you’ll quickly realize each click will cost you $20 to $30. For bootstrapped founders, this paid marketing channel could put you out of business pretty fast.
+
+Don’t want to lose market share to your competitors? Make sure that you’re bidding on your brand name to protect your brand from any other companies that are trying to steal your traffic.
+
+Top Resources
+
+Single Grain’s blog for Google Ad strategies
+Think with Google for Partner stories on using Google Ads
+KlientBoost’s blog for what’s trending in Google Ads
+Being Scrappy
+
+Now we’re going to break down the most underrated marketing practice of all: being scrappy. What does scrappy mean for a marketer?  Scrappy is when you will roll up your sleeves and do whatever non-scalable action it takes to grow and get traction.
+
+Most people just want to look for a silver bullet that doesn’t exist, one growth tactic that will solve all their problems. The true silver bullet is actually the complete opposite of that. It’s a relentless focus on getting stuff done every single day.
+
+My first measure of potential success with a founding team is if they are scrappy. Are they willing to do the dirty work and make something out of nothing?
+
+A Guide to Being Damn Scrappy
+
+An early-stage company with a newly launched product probably doesn’t have a lot of users yet. The good thing about that is you can do things that don’t scale. You can be scrappy. You can personally touch every single new customer.
+
+“It’s better to have 100 people [who] love you than finding a million who just sort of like you. Build your business one person at a time.” —Paul Graham, Y Combinator cofounder
+
+That also means you need to be relentless in your hustle. It’s about doing whatever it takes to make sure you have a product people love and know about, and tracking down potential users wherever they might be located, online or offline. Doing things that don’t scale is absolutely worth your time and energy in the early days.
+
+To help with your hustle, here is a step-by-step guide from Noah Kagan, CEO of Sumo. He’s done this three times with Mint, V11 Media and App Sumo, so he knows what he’s talking about.
+
+Make a great product. But y’all know that, so I’ll just dive into the tactics.
+Create your target marketing sheet. See his example at https://okdork.com/quant-based-marketing-for-pre-launch-start-ups/.
+Partner with similar companies and create benefit for them to email their free users.
+Reach out to offline Meetup groups who generally have 200-to 1,000-person mailing lists.
+Befriend owners of Facebook pages and see if you can do contests for an in-kind trade.
+Go to the subreddit (page on Reddit) related to your business and leave comments.
+Search 5 to 10 keywords related to you on Google and leave comments on the pages you find.
+Give away free content or ask partners—like I did with My Travel Hacks and Free Luggage for Your Next Adventure (Part 2).
+Go write guest posts for any site that’s related. Use Technorati or ask your existing customers which sites they like to go to.
+Email the existing users you have asking for them to refer other people. This sounds obvious but hardly ANYONE does it. It helps if your product doesn’t suck ass.
+Leave video responses on popular related YouTube videos.
+Manually reach out and connect with your first 1,000 customers. Likely they are MORE important than the 99,000 next people you’ll get.
+Raise your prices so you don’t need to get so many people. 🙂
+Manually reach out to the Twitter/Facebook followers of your competitors.
+Look at new channels that have less competition (rules), like Snapchat, Pinterest, Instagram, to drive traffic
+Consider going international where traffic is cheaper (okay, you’re not paying, but you know what I’m saying).
+Evaluate doing mobile-related marketing since it’s more affordable (less competition).
+Get featured on AppSumo.com, DailyWorth.com, Thrillist, Groupon or some site that promotes others.
+If you’re a bootstrapped founder or part of a marketing team that’s just getting started, then this might be the best place to start. It’s not scalable but it can help you understand where you should be focused.
+
+Top Resources
+
+Noah Kagan’s personal blog okdork.com
+Casey Winters’s personal blog caseyaccidental.com
+Hacking Growth by Morgan Brown and Sean Ellis
+Sujan Patel’s personal blog
+Email Marketing
+
+There are lots of ways to get people to your website. Organic search, paid search, press, direct traffic, social media, content marketing through blogs and many more options. But how do we get those people to come back? You have some options with remarketing ads, push notifications, SMS, email and more. Let’s dive into the most powerful one: email.
+
+“Retention is the single most important thing for growth.” —Alex Schultz, head of growth at Facebook
+
+In most cases, email is your #1 option for retention. It’s a channel that people opt in to, giving you permission to send messages straight to their inbox. While it’s become oversaturated with email marketers and made less powerful with Google breaking up your inbox into folders (primary, social, promotions), email is still powerful. The standards are just higher, which means you need to deliver quality if you want to make it through the noise.
+
+At a high level, your email strategy can be broken down into three categories:
+
+Email newsletters
+Email flows
+Transactional emails
+Email newsletters are the emails that you send based on your content calendar and marketing campaigns. Examples include Black Friday email promotions, product-launch emails and weekly email round-ups. These are great for keeping your subscribers up to date on what is going on with your business and product.
+
+Email flows are a series of emails that are sent based on what a member has done. As an example, a welcome email flow is a series of emails that a new subscriber gets when they sign up for your email list. The flow could look like this:
+
+Email 1: Welcome Email (Immediately)
+Email 2: About Our Product (Day 3)
+Email 3: Testimonials and Social Proof (Day 7)
+Email 4: Giveaway or Guide (Day 10)
+Email 5: Case Study (Day 14)
+Email 6: Special Promo (Day 20)
+Transactional emails are emails that are triggered based on a member’s profile or actions. One of the most opened transactional emails in your inbox is from Facebook. It’s the email you get that has the subject line “You’ve been tagged in a photo.” This happens when someone posts a picture of you on Facebook. You get an immediate email about it, then you click on it to see the photo because, well, it’s impossible not to.
+
+PayPal has an equally powerful transactional email when someone sends you money. This action immediately triggers an email with the subject line “Someone sent you money” and you open it to claim your cash. When done right, these emails are very powerful.
+
+Here are metrics you can use to monitor your email campaigns:
+
+Open rate (% of people who opened your email)
+Click-through rate (% of people who clicked on a link in your email)
+Conversion rate (% of people who opened your email, and then made a purchase on your website)
+Now, it’s natural to see some churn with your email list and to see users unsubscribe. But there are things you can do to make sure you maximize the performance of your email campaigns.
+
+Identify the best window for conversion by day. Test the days of the week you send and test the time of day you send. I have had good experience with 9 a.m. send times for some audiences and 3 p.m. send times with other audiences. See what’s right for your business by testing it yourself.
+
+The other big item you can experiment with is the subject line. I recommend A/B testing every single email subject line. Here are some testing guidelines for email subject lines:
+
+Shorter is better: Test using less than five words when possible.
+Personalization: Use a customer’s name to get their attention.
+Second person: Test using the word “you” to make the content about the user.
+Visuals: Test using an emoji to catch their attention.
+Keywords: Anchoring around keywords like “free,” “20% off,” “secret,” “first access” or the name of an influencer they respect can help.
+Numbers: Test using numbers when possible.
+Editorial angle: Strongly recommend leveraging persuasion techniques from the book Influence by Robert Cialdini in your subject lines. Tactics like scarcity, social proof, hype and authority are great for tests.
+As your list begins to grow, segment your subscribers based on their behavior or attributes. Some people would love an email from you every day, and others might prefer an email on a weekly basis.  Allow these users to pick their email frequency preference on their profile or you can use their open rate percentages to guide how often to send emails. Also, think about how you can use a person’s gender or physical location to add value with user-specific content.
+
+For e-commerce companies, email is the most coveted channel because traffic from email usually has a conversion rate that’s more than double the conversion rate of traffic from paid channels. Use the channel wisely and it can help push your customers down the funnel to make a transaction.
+
+Top Resources
+
+MailCharts for examples of top email campaigns
+Hubspot’s blog for great email automation examples
+Email Monks for email best practices
+Email Insights to track the email campaigns of your competitors
+Conversion
+
+Congrats, you got users to your site!
+
+Now what?
+
+Are they doing what you want them to do? Are they converting? Whether that’s reading a blog post, watching a how-it-works video, creating a profile, filling out a form or actually entering in their credit card information and hitting “buy.”
+
+We’ll dive into some of the different tactics you can use to convert traffic, but you want to be very clear with the metric you’re using to measure success for conversion. The metrics you care about will vary based on your business model or industry. Here are some general conversion metrics to consider:
+
+Form completion rate
+Email sign-up rate
+Profile completed
+Purchase rate
+Video view completion rate
+If you’re at an e-commerce company like Allbirds or Everlane then you might care about the following for your online store:
+
+Average order value
+Shopping cart abandonment rate
+Repurchase rate
+For a content platform like BuzzFeed or Refinery29, your idea of conversion could also include the following:
+
+Time spent on page
+Average session duration
+Page depth
+Comments per post
+For a SaaS (Software as a Service) company like MailChimp or Vidyard, your idea of conversion could include the following:
+
+Demo Requests
+Free Trials Started
+Upgrade Rate
+Webinar Sign Ups
+Now that you have your conversion goal in mind, let’s look at some options for improving that number. In chapter 6, we talked about best practices for landing pages. Assuming you have that key piece of site infrastructure set up, we’ll get into how to build on top of that.
+
+How do you convert traffic into subscribers?
+
+It’s time to convert.
+
+That means turning a new website visitor into a qualified lead, a subscriber or someone that can help monetize your product. In most cases, this means getting them to give you their email address.
+
+What are the tactics you can use to get someone’s email address? First, make an amazing product or service they want to get email updates about. Next, you can try these options.
+
+Content upgrade: Create a piece of content (a guide, an ebook, a checklist, an infographic, anything a user would want to save) and offer it to that person in exchange for their email address.
+Early Access: If you’re constantly launching new products or services, offer early access to your next launch.
+Discount: Give users and incentive for getting on your list, like 10% off or $20 toward their first purchase for signing up.
+Giveaway: Create a promotion around your offering and let people sign up for a chance to win. Personally, I am not a big fan of giveaways, but they actually work very well.
+As an example, Koala Mattress is very aggressive with its activation strategy. The company sells mattresses directly to consumers through its online store and knows users must be converted within days of visiting the site. Mattress transactions are very infrequent and, in most cases, they happen when you absolutely need a bed and ASAP.
+
+This is why the company is aggressive. Within 25 seconds of visiting the Koala Mattress site, you’ll receive a pop-up that offers you $100 off of your first purchase just for signing up. This is one of the reasons why Koala was able to get to over seven figures in sales within its first 12 months.
+
+With some platforms, you want more than just an email address. You actually need a user to take multiple actions and move down the funnel. This could be anything from filling out a profile for a social site to going to the product detail page for an e-commerce site.
+
+How to Funnel a User
+
+After you have an email address, you’re on to the next step: getting the user down the conversion funnel.
+
+For an e-commerce product, that means getting them to a product detail page to make a transaction.
+
+For a SaaS (Software as a Service) product, that could mean getting the user to do a demo or a webinar so they truly understand if the product or service is right for them.
+
+For a community site, it could be getting them to complete their profile and starting to engage with a community.
+
+With e-commerce products, priming the user from the aspirational mindset (how they will feel after seeing your ad or a sharable video) to a buyer’s mindset is key. This can be done through an email campaign, a remarketing campaign or a landing page on your website. The following messaging components are key to getting a user into a conversion state of mind:
+
+Details on Quality and Price: Give only the details a user needs to know to make a purchasing decision. Make sure the details include benefits to the user and the quality of the product, so they outweigh the price. Make it very clear. If you have an item that has a high price point then you want to educate them early on about the quality.
+How It Works: Provide details through a video or a number scale (Step 1, Step 2, Step 3, etc.) on how to use a product or service and what to do next.
+Testimonials and Reviews: Leverage quotes from your top customers or industry publications to tell people why they’ll love your product or service.
+User-Generated Content: Showcasing real people using the product on social media is great for giving your product the right brand lift.
+If you’re successful, then you’ve navigated the user from a home page or landing page to a page down the funnel. You’re just a few clicks away from your goal.
+
+Here are some best practices and tactics to use for conversion.
+
+Product Detail Pages for e-Commerce Sites
+
+It starts with the images. Are they high enough quality that users can zoom in on them, but not so big that the images are slow to load? Also, can you add a video showcasing how the product works or highlight the quality and various applications?
+
+Next, you’ll want to be very clear about the name of the product, the measurements and materials that make up the product. If possible, offer free shipping and free returns. These have become common practices in the new Amazon world.
+
+Include any noteworthy reviews or testimonials about the product and, if you’re in the fashion space, try adding some UGC (user-generated content) photos. All of this should be easy to read and view on desktop and mobile.
+
+Last, make sure you accept the right form of payment for your user. Depending on your demo, that could be PayPal, Venmo, Apple Pay and/or credit cards.
+
+For service companies or SaaS companies with a high price point, the goal might be to get a user to sign up for a demo, enroll in a webinar or just complete a contact form. If that’s the case, reference the best practices from the landing page recommendations in chapter 6. If you want to take your conversion to the next level, you’ll want to focus on the next chapter where we talk about customer-based marketing.
+
+Top Resources
+
+ConversionXL blog for trends in website conversion
+BounceX blog for detailed guides and case studies on converting traffic
+Unbounce blog for technical advice on designing for conversion
+Crazy Egg blog guides on using heat maps and recording to understand why users aren’t converting
+Customer-Based Marketing
+
+Right now, people are visiting your site. New users. Existing users. Users from ads. Users from blog posts. Why should you treat every person the same?
+
+What if you could personally guide each user through your product with a custom and personalized experience based on what they’re interested in? With the customer-based marketing infrastructure in place, you can do that.
+
+Customer-based marketing can potentially have the biggest impact on conversion for your company. Whether you’re at a B2B company or a B2C company, you’re collecting data on specific customers that you can use to add value to them. Why should your most loyal customer get a pop-up about joining or see a section that asks them to sign up? They should be informed of your latest product feature, an exclusive offer for VIPs or receive content that will push them down the funnel.
+
+First, it starts with your data and your overall marketing tech stack to make sure all of your tools speak to each other. This process is getting much easier thanks to a few impressive (and cost-effective) tools like ConvertFlow, RightMessage and Optimizely X. Read more details about these tools in chapter 9.
+
+Here are two examples of how customer-based marketing could work for your platform:
+
+For a creative agency looking to build more clients, a customer-based experience would go like this:
+
+VISIT ONE: Visit the site from a referral source (for example, the web page for the podcast blog of Entrepreneur on Fire). The landing page would have a custom image and a custom headline based on this referral source. It might mention that this service was used by the host of Entrepreneur on Fire. There might be an immediate pop-up that offers this first-time user an ebook about how to pick the right agency.
+VISIT TWO: On their second visit to the site this same user would get an exit intent pop-up (this is a pop-up that is triggered on the site when your mouse cursor scrolls to the exit corner), but it would be to schedule a free consultation because we know the user has visited the site before. This message would come in the form of a chat feature in the bottom right corner that uses personalized messages based on the data a customer gave them on the first experience. “Hey, Matt, schedule a time for a free consultation.”
+VISIT THREE: After a customer schedules a consultation and visits the site, their next experience could involve a special offer of one month free or reinforce the ROI clients have by using this service. The main goal at this stage is to get the client to convert.
+The conversion experiments for the second interaction and third interaction are where the real value of customer-based marketing comes into play. Being able to do promotions for the middle-of-the-funnel goal and bottom of the funnel to users that are actually at that stage. It’s the right message at the right time to the right user.
+
+Some customer based marketing tools like ConvertFlow and RightMessage, claim seeing conversion go to over 40% on certain steps because they’re so good at targeting.
+
+Top Resources
+
+RightMessage Learning Center for customer-based marketing 101
+ConvertFlow blog for case studies
+Optimizely X blog for current best practices on CRO and personalization
+BounceX database for case studies and behavioral marketing guides
+Scaling Growth (aka, “Growth Hacking”)
+
+You have product-market fit and you have created a marketing funnel that works.
+
+Now, how can you increase your marketing results by a factor of 10 by scaling a growth channel or by turning your customers into marketers?
+
+By turning customers into marketers you’re making it easy for your top customers to tell other people about your product or service. Some would suggest that this is where a “growth hacker” comes into play.
+
+I don’t love that phrase because of the connotation that is associated with “hacking”—it sounds like a quick and dirty shortcut. Ah, how I wish it were. But I do love the principles that go into the phrase growth hacking.
+
+What Is Growth Hacking?
+
+It’s a buzzword that people like to toss out there. But if you take a step back, the core principles that go into growth hacking are pretty spot-on for today’s digital marketing world. The skill set of a true “growth hacker” could be the game changer your company needs to start growing the right way. That’s why you might care.
+
+Now, let’s start from the beginning.
+
+In 2010, Sean Ellis, who was then the head of growth at Dropbox, was looking for his replacement. None of the marketing candidates were cutting it. That’s when he decided that he needed a “growth hacker.”
+
+Backstory: Sean lead the Dropbox growth team that came up with the referral marketing engine pictured below. In a nutshell, you could pay for Dropbox or invite friends and continue to use its cloud storage software for free. This one referral mechanism was its #1 driver of user acquisition.
+
+
+As Sean was looking for his replacement, he decided he didn’t need a vice president of marketing. He needed someone to solely focus on growth. He needed a growth hacker.
+
+“A growth hacker is a person whose true north star is growth. After product-market fit and an efficient conversion process, they find scalable, repeatable and sustainable ways to grow the business.”
+
+A growth hacker needs to have three things: An understanding of the principles of digital marketing, to be data driven in their actions, and lastly, to have the basic skills of a product manager.
+
+In other words, the skill sets that make up this savvy marketer are the following:
+
+Digital Marketing Fundamentals
+Data-Driven Leader
+Product-First Mindset
+
+Another way to put it is that a growth hacker builds distribution into the product. Distribution shouldn’t be an afterthought once the product is built. The product should be built with distribution in mind.
+
+This phrase started to make sense but what really made it resonate with me was the idea of distribution. Growth hacking is when you build distribution into the product experience. Essentially, it’s a person or team that seamlessly weaves their growth mechanism into the product.
+
+To put more color around the idea of scaling growth through growth hacking, here are four examples on how other companies have done this very well:
+
+Hotmail: Turn User Emails into Mini Billboards
+
+Hotmail was one of the first webmail solutions. It was a great product, but had trouble getting traction. The marketing team tested banner ads and even contemplated billboards. But traditional marketing wasn’t working for them. They weren’t getting the kind of traction that would create a sustainable business model.
+
+Then Hotmail’s VC firm came up with the idea of customizing the email signature of every Hotmail user to say “PS: I love you. Get your free e-mail at Hotmail.” These emails wouldn’t hit a huge number of people with any one email. Most emails are one to one. However, it’s a very high-frequency distribution channel (you send multiple or hundreds of emails every day) with prime placement. Most people read the full email when it’s sent from a friend, so it was guaranteed to get people’s attention.
+
+After this email signature launched, Hotmail grew to 12 million users in 18 months. This rapid growth caught the eye of Microsoft, who later acquired Hotmail for $500 million.
+
+Another more recent example of this is how Flipagram does a similar version of referral marketing on Instagram. In order to use its slideshow feature on Instagram for free, you have to allow the “Flipagram” watermark on the images. The result: you get a free slide share tool and Flipgram gets to showcase its brand to all of your followers that watch the slideshow. Today, Flipagram is valued at over $300 million.
+
+In the examples of Hotmail and Flipagram, these companies knew their users where on email and on Instagram. The best way to target new users was through users of the product. And if your value proposition is strong enough, users won’t mind this type of referral marketing.
+
+LinkedIn: Turn User Onboarding into a Growth Engine
+
+LinkedIn is a social network for professionals (I’m sure you’re familiar with it). When its professional network launched, it didn’t initially take off at the rate of a Facebook or Instagram. So the marketing team had to really understand how to create a powerful growth engine. They determined that the most valuable tool to a user is their network. The more connections you have, the more networking and business opportunities come up.
+
+They wanted to use this value proposition as their growth mechanism. During the LinkedIn onboarding process, they added the option to upload your contacts to see who you already knew on the platform. This allowed LinkedIn to quickly take users from five connections to over 50 connections. Suddenly, your LinkedIn profile started becoming your go-to resource for networking. Additionally, LinkedIn launched a transactional email campaign that notified you when a contact made a career change. These email triggers served as a powerful retention mechanism for bringing people back to the platform. LinkedIn went on to be acquired by Microsoft for $26 billion.
+
+
+Evernote: Maximize an Unlikely Distribution Channel
+
+As mentioned earlier in chapter 3, when Evernote launched its mobile app it was right as the Apple App Store was starting to take off. Evernote was featured on the front page of the app store. The result was thousands of downloads within one day. After that, Evernote’s new product launches were always timed with any new mobile phone or new product release. The Apple app store was a new distribution channel. The CEO said:
+
+“We really killed ourselves in the first couple of years to always be in all of the app store launches on day one.”
+
+The hard work paid off and Evernote averaged 19,000 new sign-ups per day.
+
+Wandertab: Engineering as Marketing
+
+Hitlist is a travel site that offers you the cheapest airfare if you’re up for going anywhere in the world. Great idea, but it’s in a very competitive market. I wouldn’t want to go against the marketing budgets of an Expedia, TripAdvisor or Priceline.
+
+They knew that traditional marketing channels like pay-per-click and SEO wouldn’t work. Its head of product came up with the idea to create a Google Chrome extension (pictured). The extension, Wandertab, shows you a photo of travel inspiration and a flight deal to get there (based on your location) with every new tab. The extension was featured in the Chrome store, and then it was voted #1 on ProductHunt. This new product became the top driver of new users.
+
+
+Harry’s: Getting to 100,000 Potential Customers Before Launch
+
+Harry’s is a subscription razor company created by one of the co-founders of Warby Parker, Jeff Raider. Leading up to the launch of Harry’s, Jeff wanted to build up the excitement but didn’t want to throw money at advertising.
+
+He decided to create a waitlist that had a referral mechanism with tiered incentives.  After a user signed up, Harry’s asked you to share the waitlist with your friends in exchange for products.  The more people you invited the more products you got.  Below are some of the tiers:
+
+Invite 5 friends: Free shave cream
+Invite 25 friends: Winston shave set
+Invite 50 friends: A year supply of free blades
+The pre-launch campaign results in over 100,000 new emails and over 1,500 people invited 10+ or more friends.
+
+ 
+
+
+How to Apply Growth Hacking to Your Business
+
+After you have built a sustainable growth marketing funnel, the next question is how can you rapidly increase the number of new users to your platform? For a lot of these companies, they did this by uncovering the “magic moment” of their product or service and at that point they ask users to invite their friends. Thus, turning customers into free marketers.
+
+For LinkedIn, this was during the onboarding. For Dropbox, this was after using the product for a while. Both companies were able to identify the right time to ask customers to invite people. For e-commerce companies, you’ve probably seen the referral emails come in right after you make your first purchase. Example: Thanks for your purchase! Invite a friend and get a $25 credit if they make a purchase.
+
+Another option is identifying the right channel for scalable growth. For Evernote, they were able to optimize the product release schedule to constantly be featured on the front page of the Apple App Store. This resulted in waves of free traffic and users.
+
+For Wandertab, they were able to find an underutilized channel like the Google Chrome extension marketplace and capitalize on it as a free channel by creating a product for its potential customers. They combined engineering as marketing with an untapped distribution channel.
+
+Another classic example of engineering as marketing is also in the form of the mortgage calculators that brokerage firms make to acquire real estate customers. This tool becomes a great lead-generation mechanism for companies.
+
+Whether it’s building the growth engine into your product, finding an untapped channel, or making a product that serves as a growth tool, it’s about experimenting with different ways to acquire customers at scale.
+
+This way you aren’t dependent on paid channels or channels that don’t scale.
+
+Top Resources
+
+Growthhackers.com forum for case studies and AMAs from leading growth hackers
+Growthhit.com blog for insights
+Casey Winters’s blog about long-form content
+Rob Sobers’s blog for tips on running growth
+Brian Balfour’s blog for growth hacking framework
+
+==== End of Transcript: Growth Marketing Playbook Chapter 08 - PLAYBOOK: How to Acquire, Convert and Scale  ====

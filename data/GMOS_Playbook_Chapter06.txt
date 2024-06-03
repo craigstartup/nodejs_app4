@@ -1,0 +1,129 @@
+==== Start of Transcript: Growth Marketing Playbook Chapter 06 - PLAYBOOK: How to Set Up Your Marketing Infrastructure  ====
+
+6
+PLAYBOOK: How to Set Up Your Marketing Infrastructure
+“If you haven’t yet built something people want, great marketing will only make you fail faster.” —Rob Walling, founder of Drip
+ 
+
+Is your website ready for growth?
+
+Picture this: you wake up tomorrow and look at your Google Analytics and it shows that 25,000 people are on your website or in your app.
+
+Amazing. You did it!
+
+Or did you?
+
+Is that a good thing?
+
+Are you prepared for that traffic? What if they did everything your website said? Would that lead them down the ideal path for conversion? Is your conversion funnel a well-oiled machine or are you just tracking your sign-up rate? Do you even have Google Analytics, HEAP, Hotjar, or Kissmetrics set up?
+
+In this chapter, we’re going to talk about the basics of designing a landing page and setting up a basic analytics tech stack. Consider this the starting point for setting up your growth marketing infrastructure. Whether you’re just launching a one-page site for a new startup idea or pushing a new product for an existing company, these principles apply.
+
+Conversion Rate Optimization (CRO) 101
+
+Let’s Talk Conversion
+
+Are you able to convert new visitors into users or customers? It’s important to start with your website (or app) before doing any marketing to make sure it’s set up to convert. What that conversion goal is really depends on the goal of your website.
+
+What do you want to happen? Do you want users to create an account, upload an image, comment on a blog post, put something in their shopping cart, enter credit card information or share something with a friend? The goal of your platform really depends on your business model.
+
+If you run a content company (like The Huffington Post, BuzzFeed, etc.) then you want people to view lots of pages, share articles and sign up for your email newsletter. You might want to optimize the entire website for email sign-ups to retarget them. Or you could focus on content discovery to extend their session time.
+
+For an e-commerce site (like Everlane, Bonobos, Bombas, Warby Parker, etc.), your main goal for conversion is to get people to enter their credit card information and order a product. You’ll want to optimize your platform so users can check out as fast as possible and keep your shopping cart abandonment rate as low as possible—under 69%—this is the average shopping cart abandonment rate according to baymard.com.
+
+For a community-based platform (like Reddit, Facebook, Quora, etc.) the goal is to get people to create content, engage with users or invite people to your platform. This means you’ll want to optimize for activating these users as fast as possible. This could mean completing their profile or starting to submit content to your platform. This is where a strong onboarding process comes into play. Pinterest is a great example of a site with a strong onboarding process, because they use images and vivid examples to show users how their platform works.
+
+Here’s how Twitter optimized for conversion: In the early days, the company didn’t have an issue acquiring users or getting its brand name out there. People were flocking to the site to claim their Twitter handles.  The issue came up after people got to the website—they didn’t know how to use the product.
+
+Twitter learned that a user’s satisfaction (or understanding of the product) didn’t come just from sending their first tweet. Instead, it came from having a feed full of fun or interesting people posting tweets. Plus, nothing is more confusing (or depressing) than an empty Twitter feed. Twitter decided to design its entire landing page and onboarding process around getting users to follow the right people instead of getting people to publish their first tweet.
+
+When you create a Twitter account you’re asked to “build your timeline” and follow at least five users.  By doing this, the first time you saw your Twitter feed it was filled with people you like, talking about things that interest you. Boom!  That’s a magic moment. This made Twitter become a source of go-to content from their favorite publishers or personalities. Twitter was able to improve its repeat visitors by getting people to come back just to read their Twitter feed.
+
+How to Design a Landing Page That Converts Users
+
+Twitter is an elaborate example of designing for conversion. Let’s take a step back and start with a basic landing page. The main goal of a landing page is to educate people and then get them to do the next step listed in your call to action.
+
+Here are five conversion tips to factor in when creating a landing page that gets results. Basically, how to create a website that converts.
+
+Hero Image/Video: With the main visual, use a hero image or video above the fold (this means the upper half of the front page of a website) that showcases your product or service. Tell the story of your offering’s benefit with a visual. If you have a high-quality product, use the hero image to showcase the details of that product. Feel free to use images or videos to show the emotion a user will feel when using your product.
+Website Headline: Clearly state the one key benefit of your product/service in the main headline. This is not to be confused with the main feature. This should be the benefit to your customer. Use the language of your customer and speak in second person. Here’s an example the online food delivery service GrubHub could use: “Every Restaurant Delivered to Your Door.” Notice how it uses the word “you.”
+Copy / Subhead: Below your website headline you should have one to two sentences about your main feature. This is where you can actually talk about your product or service. Here you can clearly explain what your product or service does. Try to avoid technical talk unless your customers use that language. Tip: use testimonials from customers to decide what language to use when explaining your product. As an example, a former company I worked for had a software product that other developers loved because they could install it in under 30 seconds. We used the line “so easy you can install in 30 seconds” and it was our top-performing landing page.
+Call to Action: Add a compelling “Call to Action” button below the headline and the copy/subhead. The text on top of the button needs to be unique. Instead of just saying “sign up” or “join now” give the user a real reason to convert like “Start Your Free Trial.”
+Social Proof: Create a section above the fold that highlights how this product or service has benefitted your users. People might not know about your brand and they might not trust you because you’re new. Instead of you trying to tell them why they should trust you, let other credible sources tell them how great it is. Use logos of publications that have written about you, logos of partners, or testimonials from happy customers.
+Below is a graphic of the GrowthHit.com landing page and how it’s designed for conversion with the 5 key components mentioned above. Disclaimer: this is my growth agency website.
+
+
+ 
+
+In the following chapter, we’ll get into more details about how to design for conversion based on your type of business –  a B2B (business to business) or B2C (business to consumer) company. Consider this section the minimum viable product for your landing page.
+
+Setting Up Analytics and Identifying Key Performance Indicators
+
+Before you get that wave of one million users, you want to make sure you’re tracking everything properly. Sadly, a lot of companies don’t take care of this until after a launch or a surge of traffic.
+
+This is what tends to happen with some early-stage companies.
+
+You get some press or you start experimenting with things on the side. Something works and you get traffic to the website. It’s a miracle.
+
+Visitors hit your site and you have a nice spike in traffic. The next question is where did the traffic come from? How did they hear about us? How do we attribute sales? If you don’t have the right analytics structure in place, you can’t understand the data and, even worse, you can’t learn from the numbers.
+
+This is why you want to make sure everything is being tracked on your website from day one.
+
+How do I set up my analytics?
+
+In chapter 9, you’ll find a list of options for marketing tech stacks. Let’s assume that you’re just starting out and you only have Google Analytics. Hey, it’s free and surprisingly robust.  The setup is straightforward:
+
+Step 1: Create a free account with Google analytics and create an ID for your web domain.
+Step 2: Place the Google ID on your site in the header or use a Google Analytics plug-in (Shopify and WordPress both have plug-ins that allow you to easily do this).
+Step 3: Check Google analytics to make sure data is coming in.
+
+Great, you’re getting closer.
+
+As the data starts to come in, some questions will fill your head. What metrics should you be tracking? What metrics are you using to drive your actions? What vanity metrics are you trying to ignore but can’t—I’m looking at you, page views.
+
+Before you dive into the data, you need to know what metrics you should care about. The metrics you use to manage your business depend on your industry and your business model.
+
+Here’s a snapshot of key metrics or KPIs (key performance indicators) by industry to use to evaluate the performance of your business:
+
+E-Commerce: CAC (customer acquisition cost), LTV (lifetime value), average order price/size, conversion rate, sales per day, number of visitors, shopping cart abandonment rate, sign-up rate.
+Content Sites: Page views per visit, time spent on site, number of comments per post, page depth, sign up rate.
+Community/Social Media: Number of comments, number of ratings, number of responses, number of times shared, number of times retweeted, number of mentions, sign up rate.
+SaaS (Software as a Service): Churn rate, monthly recurring revenue, trial activation rate, time to close, sign-up rate.
+These KPIs should be the guiding light for all of your actions. Here are some things to factor in when looking at your analytics:
+
+Vanity metrics vs. actionable metrics: A vanity metric can make you feel good, but it doesn’t change your actions. Use a metric that’s going to help drive your marketing and business decisions. Example: Email sign-up rate per day. How is it trending from this week to last week? A 2% decrease in your email sign-up rate may change your behavior to test new incentives for getting a sign-up, like a giveaway, a discount or an ebook.
+Reporting vs. exploratory data: Reporting data is important because it keeps you in the know about the daily business operations and what’s going on. Exploratory data is going deeper into the data based on a hunch you have. It allows you to find interesting and unexpected insights that you might not be looking at day in and day out. For example, you might see that your purchase conversion rate is increasing but you don’t know why. Taking a deeper look, you start to analyze mobile traffic from influencers and you find that they have a conversion rate that’s 4% higher than your average. This gives insight into where you should be focused.
+Here are some questions to ask yourself as you look at your data and try to understand what’s happening on your site:
+
+How is this data trending compared to last week or last month?
+Which traffic source (social, email, cost per click (CPC), referral, direct, organic) results in the most conversion or longest session duration?
+How do mobile users compare to desktop users?
+How do new users compare to returning users?
+What pages have the highest bounce rate? How can you improve that page so people don’t leave?
+Set up a weekly KPI report to help you answer these questions on an ongoing basis. For a free template of a KPI report, go to growthmarketersplaybook.com and download the growth templates to see the top metrics I use to track traffic for my clients.
+
+Now that Google Analytics is set up and you’re looking at the right metric, the next step is URL tracking.
+
+This is extremely important because it allows you to understand where every user is coming from and which campaigns are working and which ones are not. Customizing every URL with the right structure allows you to attribute marketing resources to online sales and conversions.
+
+Google’s campaign URL builder (ga-dev-tools.appspot.com/campaign-URL-builder/) lets you create custom URLs very easily. You can also make your own.
+
+Tip: For your own free custom URL builder go to growthmarketersplaybook.com and download the growth templates to use the template that I created for my clients. I prefer using my own rather than Google’s builder because I can create multiple URLs at once. To make your own URLs, enter in the URL of the destination page and the campaign information you need to understand what drove in the traffic. Below are the categories to fill out.
+
+Campaign Source: Example, Facebook
+Campaign Medium: Example, social
+Campaign Name: Example, product_launch
+Campaign Term: Example, Promocode
+Campaign Content: Example, Cat_image
+
+Once the URLs have been created and distributed, you can go to Google Analytics to filter your acquisition traffic by campaigns and see your custom URL campaigns.
+
+It’s essential to have a basic conversion funnel and your analytics platform set up before you start driving traffic to your website. Now that your marketing infrastructure is in place, you’re that much closer to being able to focus on growth.
+
+CHAPTER 6 CHEAT SHEET
+
+Before you start driving traffic to your product, you need to make sure you can handle it with a website, app or just a landing page that is optimized to convert a visitor into a user.
+In order to improve your site, you need to be able to learn from the data. That means having clean and accurate data. At the minimum, have at least three things in place: Google Analytics, the Facebook Pixel and use urchin tracking models (UTM) to customize all your links.
+Decide on the key metrics or key performance indicators (KPI) you’re using to determine if your campaigns are working or not.
+
+==== End of Transcript: Growth Marketing Playbook Chapter 06 - PLAYBOOK: How to Set Up Your Marketing Infrastructure  ====
